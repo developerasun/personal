@@ -461,6 +461,26 @@
 - [RangeError when using mysql2 with sequelize #1370](https://github.com/sidorares/node-mysql2/issues/1370)
 - [Stop using VARCHAR(255) #sql #database #programming](https://youtube.com/shorts/UIWukpdOXJs?si=0PX5lvZK6kgPL1ag)
 - [DBeaver를 이용한 ERD 다이어그램 생성하기](https://deeds-not-words.tistory.com/entry/DBeaver%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [11-2. Redis 를 통한 브로드캐스팅](https://heurm-tutorial.vlpt.us/11/02.html)
+- [NestJS Queue 사용해보기](https://velog.io/@peter0618/Nestjs-Queues)
+- [[TIP] MySQL Workbench를 이용해 DB Dump](https://velog.io/@finelinefe/TIP-MySQL-Workbench%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-DB-Dump)
+- [Receiving the 524 Status Code for the Request from RTF environment to Cloud APIIs](https://help.mulesoft.com/s/question/0D52T00006IxnVpSAJ/receiving-the-524-status-code-for-the-request-from-rtf-environment-to-cloud-apiis)
+- [MySQL Enum에 대한 정리](https://sheerheart.tistory.com/entry/MySQL-Enum%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
+- [W3Schools: MySQL CHECK Constraint](https://www.w3schools.com/mysql/mysql_check.asp)
+- [BULK INSERTING - MYSQL 다량의 데이터 넣기](https://dev.dwer.kr/2020/04/mysql-bulk-inserting.html)
+- [[NodeJS] NodeJS 는 Single Thread 일까? Multi Thread 일까?](https://haeunyah.tistory.com/81)
+- [How can I increase the max_connections in MySQL?](https://www.linode.com/community/questions/18791/how-can-i-increase-the-max_connections-in-mysql)
+- [Drizzle ORM docs: Transactions](https://orm.drizzle.team/docs/transactions)
+- [On Duplicate Key Update - Multiple Columns](https://stackoverflow.com/questions/8991593/on-duplicate-key-update-multiple-columns)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
