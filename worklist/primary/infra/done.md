@@ -352,10 +352,23 @@
 - [Best practice Dockerfile for Node.js with pnpm](https://depot.dev/docs/languages/node-pnpm-dockerfile)
 - [nestjs(nodejs) docker 빌드 최적화하기](https://velog.io/@tae2089/nestjsnodejs-docker-%EB%B9%8C%EB%93%9C-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0)
 - [CI 소요시간을 최대 4.6배 개선하는 방법](https://tech.inflab.com/20231101-optimizing-ci-pipeline/)
-- []()
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [Next js production dependencies](https://stackoverflow.com/questions/74546956/next-js-production-dependencies)
+- [docker cant find file in parent folder?](https://stackoverflow.com/questions/70117394/docker-cant-find-file-in-parent-folder)
+- [github: louislam/uptime-kuma](https://github.com/louislam/uptime-kuma?tab=readme-ov-file)
+- [AWS에서 ECS 도입을 시도하면서 경험한 것들...](https://sjquant.tistory.com/40)
+- [[Container] 쿠버네티스는 왜 도커 사용을 중단하는가?](https://woowah.tistory.com/11)
+- [개발환경 도입기 5편 - Docker swarm으로 테스트 서버 구축하기](https://napasun-programming.tistory.com/57)
+- [Docker Swarm, 제대로 이해하기 - Swarm & Service](https://gngsn.tistory.com/269)
+- [[Docker Swarm으로 고가용성 서버 구축하기 - 3] 무중단으로 운영 가능한 Reverse Proxy 도입기](https://golf-dev.tistory.com/80)
+- [Default AWS VPC vs A new one?](https://stackoverflow.com/questions/28007461/default-aws-vpc-vs-a-new-one)
+- [0부터 시작하는 Docker 공부 - Docker Compose - Network & Volume 정의하기](https://velog.io/@lijahong/0%EB%B6%80%ED%84%B0-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-Docker-%EA%B3%B5%EB%B6%80-Docker-Compose-Network-Volume-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0)
+- [Docker docs: Use a pre-existing network](https://docs.docker.com/compose/networking/#use-a-pre-existing-network)
 - []()
 - []()
 - []()
