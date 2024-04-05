@@ -291,6 +291,23 @@
 - [Next 13.4.1 : Images, Js and Css not loading after build. Shows 404 for all #49803](https://github.com/vercel/next.js/discussions/49803)
 - [Nextjs docs: Automatically Copying Traced Files](https://nextjs.org/docs/pages/api-reference/next-config-js/output#automatically-copying-traced-files)
 - [Session cookie not set in production with next-auth in Next.js](https://stackoverflow.com/questions/76505850/session-cookie-not-set-in-production-with-next-auth-in-next-js)
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [W3Schools: HTML <font> Tag](https://www.w3schools.com/tags/tag_font.asp)
+- [MDN docs: <font>](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/font)
+- [Next.js에 Sentry로 에러 모니터링 하기](https://velog.io/@thyoondev/Next.Js%EC%97%90-Sentry%EB%A1%9C-%EC%97%90%EB%9F%AC-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81-%ED%95%98%EA%B8%B0)
+- [Standalone output in pnpm monorepo has invalid symlinks in node_modules #40482](https://github.com/vercel/next.js/discussions/40482)
+- [github: next pnpm monorepo docker reproduction](https://github.com/jetbridge/next-pnpm-monorepo-repro)
+- [Recoil, 이제는 떠나 보낼 시간이다](https://medium.com/@clockclcok/recoil-%EC%9D%B4%EC%A0%9C%EB%8A%94-%EB%96%A0%EB%82%98-%EB%B3%B4%EB%82%BC-%EC%8B%9C%EA%B0%84%EC%9D%B4%EB%8B%A4-ff2c8674cdd5)
+- [I am getting the error "The requested resource isn't a valid image for /public/logoicon/logoOrange.png received text/html; charset=utf-8"](https://stackoverflow.com/questions/71617582/i-am-getting-the-error-the-requested-resource-isnt-a-valid-image-for-public-l)
+- [Nextjs docs: reactStrictMode](https://nextjs.org/docs/pages/api-reference/next-config-js/reactStrictMode)
+- [How can I control a RadioGroup from material-ui?](https://stackoverflow.com/questions/58952742/how-can-i-control-a-radiogroup-from-material-ui)
+- []()
+- []()
 - []()
 - []()
 - []()
