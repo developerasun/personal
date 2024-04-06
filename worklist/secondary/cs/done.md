@@ -129,7 +129,15 @@
 - [시나리오: 웹 배포용 스테이징 환경 구성](https://learn.microsoft.com/ko-kr/aspnet/web-forms/overview/deployment/configuring-server-environments-for-web-deployment/scenario-configuring-a-staging-environment-for-web-deployment)
 - [개발 환경(local, production, staging)](https://velog.io/@tett_77/%EA%B0%9C%EB%B0%9C-%ED%99%98%EA%B2%BDlocal-production-staging)
 - [Next.js 에서 local, development, production 환경 셋팅하기](https://funveloper.tistory.com/163)
-- []()
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [Wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+- [Failover 란 무엇인가? 개념 및 설명](https://habitus92.tistory.com/16)
+- [위키백과: 메모리 누수](https://ko.wikipedia.org/wiki/%EB%A9%94%EB%AA%A8%EB%A6%AC_%EB%88%84%EC%88%98)
 - []()
 - []()
 - []()

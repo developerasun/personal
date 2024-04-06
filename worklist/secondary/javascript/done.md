@@ -331,7 +331,18 @@
 - [Typescript deep dive: 이터레이터](https://radlohead.gitbook.io/typescript-deep-dive/future-javascript/iterators)
 - [MDN docs: yield](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/yield)
 - [Computer Science 의 loop](https://eyabc.github.io/Doc/dev/core-javascript/Async%20Iterator.html#computer-science-%EC%9D%98-loop)
-- []()
+
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [How to split a string by white space or comma?](https://stackoverflow.com/questions/10346722/how-to-split-a-string-by-white-space-or-comma)
+- [모던 JavaScript 튜토리얼: 가비지 컬렉션](https://ko.javascript.info/garbage-collection)
+- [Join an array by a comma and a space](https://stackoverflow.com/questions/5080165/join-an-array-by-a-comma-and-a-space)
+- [Jest unit testing - Async tests failing Timeout](https://stackoverflow.com/questions/48142811/jest-unit-testing-async-tests-failing-timeout)
+- [에러 꼬리물어 추적하기(error cause 속성)](https://youtube.com/shorts/wwn1v5dnbwI?si=NwQIepBVzsObL9Md)
 - []()
 - []()
 - []()

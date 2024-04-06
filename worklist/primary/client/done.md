@@ -306,7 +306,7 @@
 - [I am getting the error "The requested resource isn't a valid image for /public/logoicon/logoOrange.png received text/html; charset=utf-8"](https://stackoverflow.com/questions/71617582/i-am-getting-the-error-the-requested-resource-isnt-a-valid-image-for-public-l)
 - [Nextjs docs: reactStrictMode](https://nextjs.org/docs/pages/api-reference/next-config-js/reactStrictMode)
 - [How can I control a RadioGroup from material-ui?](https://stackoverflow.com/questions/58952742/how-can-i-control-a-radiogroup-from-material-ui)
-- []()
+- [Why it's not enough to validate user input on the front end and why you need backend validation as well](https://youtube.com/shorts/cY68dW9leFE?si=jdlFLBv7HWzfQ_QE)
 - []()
 - []()
 - []()

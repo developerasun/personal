@@ -154,8 +154,8 @@
 
 - [모노레포 환경을 더욱 가볍게 - git sparse checkout](https://helloinyong.tistory.com/332)
 - [git stash, apply 활용법](https://kyounghwan01.github.io/blog/etc/git/git-stash/)
-- []()
-- []()
+- [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
+- [How can I reference a commit in an issue comment on GitHub?](https://stackoverflow.com/questions/8910271/how-can-i-reference-a-commit-in-an-issue-comment-on-github)
 - []()
 - []()
 - []()

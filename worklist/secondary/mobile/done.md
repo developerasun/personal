@@ -19,6 +19,9 @@
 
 - [Dart 프로젝트 만들기 (vscode)](https://velog.io/@flutter_dart/Dart-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-vscode)
 - [Flutter Widgets 101](https://youtube.com/playlist?list=PLOU2XLYxmsIJyiwUPCou_OVTpRIn_8UMd&si=gudxgux0wDkKQV2u)
+- [[React Native] 리액트 네이티브 시작하기 with expo](https://velog.io/@sunohvoiin/React-Native-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-with-expo)
+- [expo로 앱 만들어본 후기(vs vanilla react-native)](https://medium.com/official-podo/expo%EB%A1%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B8-%ED%9B%84%EA%B8%B0-vs-vanilla-react-native-fc20c8dac937)
+- []()
 - []()
 - []()
 - []()
