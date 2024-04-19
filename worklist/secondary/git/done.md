@@ -156,7 +156,16 @@
 - [git stash, apply 활용법](https://kyounghwan01.github.io/blog/etc/git/git-stash/)
 - [Visual Studio Code에서 git 자동 로그인 설정/변경 하기 (+github token)](https://developer-carmel.tistory.com/10)
 - [How can I reference a commit in an issue comment on GitHub?](https://stackoverflow.com/questions/8910271/how-can-i-reference-a-commit-in-an-issue-comment-on-github)
-- []()
+
+</details>
+
+<details>
+<summary>April, 2024</summary>
+
+- [How do I revert master branch to a tag in git?](https://stackoverflow.com/questions/6872223/how-do-i-revert-master-branch-to-a-tag-in-git)
+- [Git Force push syntax, "-f" versus "+branch"](https://stackoverflow.com/questions/25937730/git-force-push-syntax-f-versus-branch)
+- [> Export encountered errors on following paths:](https://www.reddit.com/r/nextjs/comments/1bo52bb/export_encountered_errors_on_following_paths/)
+- [Solving Export Encountered error | Build Error in Nextjs | Nextjs tutorial](https://youtu.be/5UsIO-feZBY?si=Ya54mmaZ8-3YDKpN)
 - []()
 - []()
 - []()
