@@ -398,9 +398,14 @@
 - [Cloudflare docs: DNS A 레코드](https://www.cloudflare.com/ko-kr/learning/dns/dns-records/dns-a-record/)
 - [aws docs: 아마존이란 CloudFront 무엇입니까?](https://docs.aws.amazon.com/ko_kr/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)
 - [[AWS] 📚 CloudFront 개념 원리 & 사용 세팅 💯 정리](https://inpa.tistory.com/entry/AWS-%F0%9F%93%9A-CloudFront-%EA%B0%9C%EB%85%90-%EC%9B%90%EB%A6%AC-%EC%82%AC%EC%9A%A9-%EC%84%B8%ED%8C%85-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
-- []()
-- []()
-- []()
-- []()
+- [Monitor Redis easily with Grafana #redis #grafana](https://youtu.be/DEPYkdnQz5M?si=rR-PzzWIvkb_Kv9X)
+- [쓰기 편한 리버스 프록시 중에는 Caddy가 가볍네요](https://svrforum.com/?mid=svr&document_srl=1034308)
+- [docker docs: docker stack deploy](https://docs.docker.com/reference/cli/docker/stack/deploy/)
+- [How to set image name in Dockerfile?](https://stackoverflow.com/questions/38986057/how-to-set-image-name-in-dockerfile)
+- [Connect to Docker Service using hostname in Docker Swarm](https://medium.com/@amromran102/docker-service-connect-by-hostname-docker-swarm-a15f341a4c98)
+- [Docker swarm : can't curl to a service container](https://stackoverflow.com/questions/58580907/docker-swarm-cant-connect-to-service)
+- [[Docker] Docker Swarm Network의 종류](https://yoo11052.tistory.com/184)
+- [Reverse proxy in docker Client sent an HTTP request to an HTTPS server](https://caddy.community/t/reverse-proxy-in-docker-client-sent-an-http-request-to-an-https-server/10286)
+- [Portainer docs: Client sent an HTTP request to an HTTPS server](https://portal.portainer.io/knowledge/client-sent-an-http-request-to-an-https-server)
 
 </details>
