@@ -407,5 +407,18 @@
 - [[Docker] Docker Swarm Network의 종류](https://yoo11052.tistory.com/184)
 - [Reverse proxy in docker Client sent an HTTP request to an HTTPS server](https://caddy.community/t/reverse-proxy-in-docker-client-sent-an-http-request-to-an-https-server/10286)
 - [Portainer docs: Client sent an HTTP request to an HTTPS server](https://portal.portainer.io/knowledge/client-sent-an-http-request-to-an-https-server)
+- [What does the www record in DNS do?](https://www.quora.com/What-does-the-www-record-in-DNS-do#:~:text=The%20www%20record%20in%20DNS%2C%20also%20known%20as%20a%20CNAME,point%20to%20the%20same%20location.)
+- [How to add www record to domain](https://www.digitalocean.com/community/questions/how-to-add-www-record-to-domain)
+- [www a-record vs cname-record](https://serverfault.com/questions/223560/www-a-record-vs-cname-record)
+- [클라우드플레어: 도메인 이름 등록 기관이란?](https://www.cloudflare.com/ko-kr/learning/dns/glossary/what-is-a-domain-name-registrar/)
+- [위키백과: 베리사인](https://ko.wikipedia.org/wiki/%EB%B2%A0%EB%A6%AC%EC%82%AC%EC%9D%B8)
+- [Cloudflare docs: Cloudflare Registrar](https://www.cloudflare.com/ko-kr/products/registrar/)
+- [caddy docs: Caddyfile Concepts](https://caddyserver.com/docs/caddyfile/concepts)
+- [caddy docs: directive: route](https://caddyserver.com/docs/caddyfile/directives/route#syntax)
+- [caddy docs: directive: handle](https://caddyserver.com/docs/caddyfile/directives/handle)
+- [caddy docs: directive: templates](https://caddyserver.com/docs/caddyfile/directives/templates)
+- []()
+- []()
+- []()
 
 </details>
