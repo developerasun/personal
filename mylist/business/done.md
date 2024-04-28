@@ -22,10 +22,14 @@
 - [이모티콘 하나로 부모님 차 뽑아드림](https://youtube.com/shorts/vSRToRMSDCM?si=5qdk1z_XiR83dcMt)
 - [스마트스토어 시작하려고 하는 사람들은 꼭 보세요~!](https://youtube.com/shorts/qFU1jirCNvY?si=gQQcoNQYKcaUGGjc)
 - [아니 이게 왜 해고가 안되요?](https://youtube.com/shorts/YEL0z4OM-7E?si=RjRez3DUIaKWfYJU)
+- [이원일 셰프가 가오픈을 추천하지 않는 이유](https://youtube.com/shorts/LHUFAz0LInk?si=XtFPnbWkX_njFtqr)
+- [어짜피 해야할거 힘들어하지 말고 그냥 즐겨 #영화 #명장면 #shorts](https://youtube.com/shorts/tYnDt_f62FM?si=oA49FyECDuu3iWHR)
+- [퇴사한 여직원의 정체](https://youtube.com/shorts/1RfkQxaLVsg?si=tUE9_DEAr89cbJkD)
 - []()
 - []()
 - []()
 - []()
-- []()
-- []()
-- []()
+
+
+
+

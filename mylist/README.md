@@ -2,8 +2,6 @@
 
 Collect shits from Internet.
 
-## inspiration
-
 - [정신이 번쩍드는 현우진쌤 조언](https://youtube.com/shorts/MJ2hHgqSTMs?si=71kosPnrPvxYSnJM)
 - [신년 계획 성공하려면 강사 정승제](https://youtube.com/shorts/992-3XS5W-w?si=CZ5g3op-BUd4L4tR)
 - [너는 더 잘할 수 있잖아 유재석](https://youtube.com/shorts/67CsrE2nyGk?si=YXDgc7UWP0LsuuTm)
@@ -39,6 +37,9 @@ Collect shits from Internet.
 - [성공은 노력인가 운인가](https://youtube.com/shorts/fLBOkeAGRxA?si=WCzXQJJpcTD3IYOJ)
 - [나는 그 사람 모르는데 왜 나한테 #법륜스님 #남편과아내 #연구#법륜스님쇼츠 #법륜쇼츠 #정토불교대학](https://youtube.com/shorts/naQ6853itvM?si=3KynF6-Mu9Xxch7y)
 - [정해놓고 살지마라 #법륜스님 #열어 놓고 살자 #법륜스님쇼츠 #법륜 쇼츠 #정토불교대학](https://youtube.com/shorts/uSSiucpMhmg?si=6MEezOW0Es3qrcZw)
+- [정승제 선생님이 수학 잘하는 게 절대 선이 아니라고 하는 이유](https://youtube.com/shorts/ARPZFp7VqIU?si=Tx3XM72guk76J9yu)
+- [김동현 "자책할 시간에 실력을 더 키워라" #김동현 #노력 #연습 #자책 #동기부여](https://youtube.com/shorts/GHCNRtIPQSY?si=ftFaxfJYpURP-OPf)
+- ["도덕적 잣대와 사상검증이 너무 심해진다고 생각해서“](https://youtube.com/shorts/EBriZRCfUGQ?si=8U8rGrA6c5ptOD9G)
 - []()
 - []()
 - []()
