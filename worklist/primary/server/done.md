@@ -497,11 +497,26 @@
 - [OAuth Consent Screen Not Displaying Correct AppName](https://stackoverflow.com/questions/75991867/oauth-consent-screen-not-displaying-correct-appname)
 - [How to Use WHERE with GROUP BY in SQL](https://learnsql.com/blog/where-with-group-by/)
 - [04. SQL- Group By와 Order By (A.K.A 2주차 수업 정리)](https://eng-sohee.tistory.com/48)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [ssh-agent 가 private key 를 캐싱할 수 있도록 등록해 주는 ssh-add 명령어 사용법](https://www.lesstif.com/lpt/ssh-agent-private-key-ssh-add-123338804.html)
+- [리눅스 Ubuntu에 Container(LXC) 설치 방법](https://pak-j.tistory.com/47?category=1044134)
+- [redhat docs: Linux 컨테이너란?](https://www.redhat.com/ko/topics/containers/whats-a-linux-container)
+- [nodejs - socket.io & mysql 끔찍한 에러 Error: read ECONNRESET at TCP.onStreamRead (node:internal/stream_base_commons:217:20)](https://realizetoday.tistory.com/27)
+- [구글 Oauth 로그인 얩 개시 요청 상태에 대한 질문](https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_other&wr_id=145227)
+- [How to update column with null value](https://stackoverflow.com/questions/3870540/how-to-update-column-with-null-value)
+- [github docs: Generating a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)
+- [When I run the app, the chat bot doesn't reply and says : 'model 'mistral:latest' not found, try pulling it first' #22](https://github.com/ivanfioravanti/chatbot-ollama/issues/22)
+- [[MySQL] 조건에 맞는 값들을 묶어서 출력하기 GROUP_CONCAT](https://wnwa.tistory.com/34)
+- [MySQL | Group_CONCAT() Function](https://www.geeksforgeeks.org/mysql-group_concat-function/)
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [How to select sum -or- 0 if no records exist?](https://stackoverflow.com/questions/8888390/how-to-select-sum-or-0-if-no-records-exist)
+- [반 년간 홈서버 가동한 후기](https://marshallku.com/dev/%EB%B0%98-%EB%85%84%EA%B0%84-%ED%99%88%EC%84%9C%EB%B2%84-%EA%B0%80%EB%8F%99%ED%95%9C-%ED%9B%84%EA%B8%B0)
+- [홈서버 구축기](https://keencho.github.io/posts/home-server/)
 - []()
 
 </details>
+
