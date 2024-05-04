@@ -318,10 +318,28 @@
 - [How to specify a flex item to be of certain minimum width?](https://stackoverflow.com/questions/29074195/how-to-specify-a-flex-item-to-be-of-certain-minimum-width)
 - [CSS hover Only Works On The Top Half of My Button](https://stackoverflow.com/questions/16771846/css-hover-only-works-on-the-top-half-of-my-button)
 - [Is there any way to make React Material-UI radio buttons required](https://stackoverflow.com/questions/54863079/is-there-any-way-to-make-react-material-ui-radio-buttons-required)
-- []()
-- []()
-- []()
-- []()
+- [nextjs docs: Image files (.ico, .jpg, .png)](https://nextjs.org/docs/app/api-reference/file-conventions/metadata/app-icons#image-files-ico-jpg-png)
+- [Favicon in React will not Update](https://stackoverflow.com/questions/51994375/favicon-in-react-will-not-update)
+- [[프로젝트] ssafe #1 디자인 시스템과 스토리북 도입기](https://sonsangjoon.github.io/220130/220130/)
+- [vercel docs: Using Storybook with Turborepo](https://turbo.build/repo/docs/handbook/tools/storybook)
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [당신2 9하던 Storybook](https://medium.com/29cm/%EB%8B%B9%EC%8B%A02-9%ED%95%98%EB%8D%98-storybook-a6b10a62e825)
+- [Storybook Error: Couldn't find story matching 'components-button--page'](https://stackoverflow.com/questions/70465086/storybook-error-couldnt-find-story-matching-components-button-page)
+- [Couldn't find story matching - React + Storybook](https://stackoverflow.com/questions/72572004/couldnt-find-story-matching-react-storybook)
+- ["Couldn't find story matching 'example-api--primary' after HMR" error in Storybook](https://stackoverflow.com/questions/72729327/couldnt-find-story-matching-example-api-primary-after-hmr-error-in-storybo)
+- [how to create radio button with images](https://stackoverflow.com/questions/7086098/how-to-create-radio-button-with-images)
+- [[HTML , CSS] line-height 속성과 vertical-align 속성의 관계](https://coogooo.tistory.com/15)
+- [W3Schools: CSS top Property](https://www.w3schools.com/cssref/pr_pos_top.php)
+- [How do I vertically center text with CSS?](https://sentry.io/answers/how-do-i-vertically-center-text-with-css/)
+- [translateX and translateY on same element?](https://stackoverflow.com/questions/29648494/translatex-and-translatey-on-same-element)
+- [W3Schools: CSS white-space Property](https://www.w3schools.com/cssref/pr_text_white-space.php)
+- [UI 라이브러리.. 써, 말아?](https://brunch.co.kr/@uxdesingercho/4)
+- [redux: Flux 패턴이란?](https://velog.io/@andy0011/Flux-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80)
 - []()
 - []()
 
