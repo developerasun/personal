@@ -343,9 +343,9 @@
 - [Join an array by a comma and a space](https://stackoverflow.com/questions/5080165/join-an-array-by-a-comma-and-a-space)
 - [Jest unit testing - Async tests failing Timeout](https://stackoverflow.com/questions/48142811/jest-unit-testing-async-tests-failing-timeout)
 - [에러 꼬리물어 추적하기(error cause 속성)](https://youtube.com/shorts/wwn1v5dnbwI?si=NwQIepBVzsObL9Md)
-- []()
-- []()
-- []()
+- [geeks for geeks: JavaScript BigInt](https://www.geeksforgeeks.org/javascript-bigint/)
+- [Why does Array.from() return the first element undefined?](https://stackoverflow.com/questions/45040639/why-does-array-from-return-the-first-element-undefined)
+- [setTimeout을 프로미스로 만들자(new Promise, delay, setTimeoutPromise)](https://youtube.com/shorts/sDYYMRmTYHo?si=sXkItt4RtBSL6KMn)
 - []()
 - []()
 
