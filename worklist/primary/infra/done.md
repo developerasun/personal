@@ -436,6 +436,26 @@
 - [Cloudflare Workers & KV로 Guestbook 개발하기](https://miryang.dev/blog/develop-guestbook-with-cloudflareworkers)
 - [Questions involving Node.js compat issues](https://community.cloudflare.com/t/questions-involving-node-js-compat-issues/547534)
 - [Can’t resolve ‘fs’ in cloudflare workers](https://community.cloudflare.com/t/cant-resolve-fs-in-cloudflare-workers/112762)
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [주키퍼(Zookeeper)란](https://rok93.tistory.com/m/entry/%EC%A3%BC%ED%82%A4%ED%8D%BCZookeeper%EB%9E%80)
+- [authcrunch docs: Caddy User Identity](https://docs.authcrunch.com/docs/authorize/identity)
+- [github: caddy-security](https://github.com/greenpau/caddy-security)
+- [cloudflare docs: pages: builds](https://developers.cloudflare.com/pages/platform/limits/#builds)
+- [cloudflare docs: pages: free plan](https://developers.cloudflare.com/pages/functions/pricing/#free-plan)
+- [Caddy로 Reverse Proxy HTTPS 서빙하기 (feat. Let’s encrypt)](https://junbuml.ee/caddy-reverseproxy-https)
+- [Caddy에서 Cloudflare를 이용한 와일드카드 인증서 사용하기.](https://blog.dalso.org/article/caddy%EC%97%90%EC%84%9C-cloudflare%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [caddy docs: Wildcard certificates](https://caddyserver.com/docs/caddyfile/patterns#wildcard-certificates)
+- [docker docs: Enabling Docker support in WSL 2 distros](https://docs.docker.com/desktop/wsl/#enabling-docker-support-in-wsl-2-distros)
+- [How to fix docker: Got permission denied issue](https://stackoverflow.com/questions/48957195/how-to-fix-docker-got-permission-denied-issue)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
