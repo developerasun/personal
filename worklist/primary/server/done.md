@@ -542,6 +542,10 @@
 - [Mac mini로 홈서버를 구축해보며 #1](https://devent.tistory.com/174)
 - [How can I display all users and groups with a command?](https://askubuntu.com/questions/515103/how-can-i-display-all-users-and-groups-with-a-command)
 - [Install and configure Go on Ubuntu 22.04](https://www.ovhcloud.com/asia/community/tutorials/how-to-install-go-ubuntu/)
+- [리눅스 Symlink 튜토리얼 - 심볼릭 링크(Symbolic Link)를 생성하고 삭제하는 방법](https://www.freecodecamp.org/korean/news/rinugseu-symlink-tyutorieol-simbolrig-ringkeu-symbolic-link-reul-saengseonghago-sagjehaneun-bangbeob/)
+- [Solving the “Too many levels of symbolic links” Error](https://www.baeldung.com/linux/too-many-levels-of-symlinks)
+- [How to remove symbolic link](https://askubuntu.com/questions/398818/how-to-remove-symbolic-link)
+- [github: nestjs-template](https://github.com/Saluki/nestjs-template/blob/master/Dockerfile)
 - []()
 - []()
 
