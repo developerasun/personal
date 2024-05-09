@@ -546,6 +546,13 @@
 - [Solving the “Too many levels of symbolic links” Error](https://www.baeldung.com/linux/too-many-levels-of-symlinks)
 - [How to remove symbolic link](https://askubuntu.com/questions/398818/how-to-remove-symbolic-link)
 - [github: nestjs-template](https://github.com/Saluki/nestjs-template/blob/master/Dockerfile)
+- [cmd 삭제 명령어 - 윈도우에서 파일과 폴더를 삭제하는 방법](https://www.freecodecamp.org/korean/news/cmd-sagje-myeongryeongeo-windoueseo-pailgwa-poldeoreul-sagjehaneun-bangbeob/#:~:text='%ED%8F%B4%EB%8D%94'%EB%8A%94%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1%EC%9D%98%20%EC%B4%88%EC%B0%BD%EA%B8%B0,%EB%8A%94%20%EB%B3%B5%EA%B5%AC%EB%90%A0%20%EC%88%98%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.)
+- [Using Rsync include and exclude options to include directory and file by pattern](https://stackoverflow.com/questions/9952000/using-rsync-include-and-exclude-options-to-include-directory-and-file-by-pattern)
+- [rsync 사용법 - data backup 포함](https://www.lesstif.com/system-admin/rsync-data-backup-12943658.html)
+- [Why does my rsync command not recurse into directories?](https://superuser.com/questions/1456709/why-does-my-rsync-command-not-recurse-into-directories)
+- [github: docker buildx](https://github.com/docker/buildx?tab=readme-ov-file#dockerfile)
+- []()
+- []()
 - []()
 - []()
 
