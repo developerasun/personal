@@ -30,7 +30,18 @@
 - [토스 페이먼츠 개발자 센터: 딥링크(Deep Link)](https://docs.tosspayments.com/resources/glossary/deep-link)
 - [firebase docs: Firebase Crashlytics](https://firebase.google.com/docs/crashlytics?hl=ko#next_steps)
 - [[firebase] fcm을 도입할 때 고려할 것들](https://seungwoolog.tistory.com/88)
-- []()
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [Why is PNPM not supported in Expo app?](https://www.reddit.com/r/expo/comments/13gr7le/why_is_pnpm_not_supported_in_expo_app/)
+- [[안드로이드/Kotlin] No target device found 에러](https://velog.io/@canalisl/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-No-target-device-found-%EC%97%90%EB%9F%AC)
+- [android docs: 첫 번째 Android 앱 만들기](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?hl=ko#4)
+- [앱 개발 방법에 대하여 알아봅시다!](https://velog.io/@app_school/%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+- [안드로이드 스튜디오 배포용, 테스트용 APK 추출하기](https://learn2you.tistory.com/82)
+- [WSL 2, 안드로이드 개발 환경 구성하기](https://jsonobject.tistory.com/m/635)
 - []()
 - []()
 - []()
