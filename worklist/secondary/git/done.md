@@ -166,8 +166,13 @@
 - [Git Force push syntax, "-f" versus "+branch"](https://stackoverflow.com/questions/25937730/git-force-push-syntax-f-versus-branch)
 - [> Export encountered errors on following paths:](https://www.reddit.com/r/nextjs/comments/1bo52bb/export_encountered_errors_on_following_paths/)
 - [Solving Export Encountered error | Build Error in Nextjs | Nextjs tutorial](https://youtu.be/5UsIO-feZBY?si=Ya54mmaZ8-3YDKpN)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [14.7: 고아(orphan) 브랜치 (부모 커밋이 없는 브랜치) 생성하기](https://nochoco-lee.tistory.com/143)
 - []()
 
 </details>

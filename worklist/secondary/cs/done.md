@@ -138,6 +138,16 @@
 - [Wikipedia: List of HTTP status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 - [Failover 란 무엇인가? 개념 및 설명](https://habitus92.tistory.com/16)
 - [위키백과: 메모리 누수](https://ko.wikipedia.org/wiki/%EB%A9%94%EB%AA%A8%EB%A6%AC_%EB%88%84%EC%88%98)
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [NAS(Network Attached Storage)](https://www.ibm.com/kr-ko/topics/network-attached-storage#:~:text=NAS(Network%20Attached%20Storage)%EB%8A%94,%EB%98%90%EB%8A%94%20NAS%20%ED%97%A4%EB%93%9C%EB%9D%BC%EA%B3%A0%EB%8F%84%20%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [NAS란?](https://sangbeomkim.tistory.com/m/138)
+- [어드민의 생애주기: 왜 필요하고 왜 어려울까](https://blog.selectfromuser.com/next-generation-admin/)
+- []()
 - []()
 - []()
 - []()

@@ -340,6 +340,12 @@
 - [W3Schools: CSS white-space Property](https://www.w3schools.com/cssref/pr_text_white-space.php)
 - [UI 라이브러리.. 써, 말아?](https://brunch.co.kr/@uxdesingercho/4)
 - [redux: Flux 패턴이란?](https://velog.io/@andy0011/Flux-%ED%8C%A8%ED%84%B4%EC%9D%B4%EB%9E%80)
+- [Typescript show error for .mdx extension file in nextjs](https://stackoverflow.com/questions/67364073/typescript-show-error-for-mdx-extension-file-in-nextjs)
+- [How to export all components in index.js?](https://stackoverflow.com/questions/62725131/how-to-export-all-components-in-index-js)
+- [Dialog Is My Favorite HTML Element And It Is Amazing](https://youtube.com/shorts/SCAapRtu750?si=oXiAAa4Z8m5s-3bd)
+- [Next.js에서 MDX 컴포넌트를 스타일링하기 (편?하게)](https://velog.io/@gomiseki/Next.js%EC%97%90%EC%84%9C-MDX-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%A5%BC-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%ED%95%98%EA%B8%B0-%ED%8E%B8%ED%95%98%EA%B2%8C)
+- [mdx docs: How MDX works](https://mdxjs.com/docs/using-mdx/)
+- []()
 - []()
 - []()
 

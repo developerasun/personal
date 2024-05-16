@@ -346,6 +346,19 @@
 - [geeks for geeks: JavaScript BigInt](https://www.geeksforgeeks.org/javascript-bigint/)
 - [Why does Array.from() return the first element undefined?](https://stackoverflow.com/questions/45040639/why-does-array-from-return-the-first-element-undefined)
 - [setTimeout을 프로미스로 만들자(new Promise, delay, setTimeoutPromise)](https://youtube.com/shorts/sDYYMRmTYHo?si=sXkItt4RtBSL6KMn)
+
+</details>
+
+<details>
+<summary>May, 2024</summary>
+
+- [Docs: Corepack has a much better way of installing PNPM #5344](https://github.com/pnpm/pnpm/issues/5344)
+- [pnpm docs: corepack 사용하기](https://pnpm.io/ko/next/installation#corepack-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [pnpm docs: node-linker](https://pnpm.io/npmrc#node-linker)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
