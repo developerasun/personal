@@ -355,7 +355,7 @@
 - [Docs: Corepack has a much better way of installing PNPM #5344](https://github.com/pnpm/pnpm/issues/5344)
 - [pnpm docs: corepack 사용하기](https://pnpm.io/ko/next/installation#corepack-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [pnpm docs: node-linker](https://pnpm.io/npmrc#node-linker)
-- []()
+- [Stop Using The "!" Bang Operator In JavaScript Unless You Know This](https://youtube.com/shorts/W9hSL8gt7II?si=lYGebTNU5mIqqC0D)
 - []()
 - []()
 - []()

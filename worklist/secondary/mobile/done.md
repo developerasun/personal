@@ -48,6 +48,9 @@
 - [expo docs: Work with monorepos](https://docs.expo.dev/guides/monorepos/)
 - [Run Android in a Docker Container!](https://youtu.be/a1M40roHuRg?si=RdL269TiFVnkCfR5)
 - [React Native) Fastlane으로 배포를 자동화해보자 (IOS)](https://velog.io/@2ast/React-Native-Fastlane%EC%9C%BC%EB%A1%9C-%EB%B0%B0%ED%8F%AC%EB%A5%BC-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%B4%EB%B3%B4%EC%9E%90-IOS)
+- [PWA vs Native App installation process comparison](https://youtube.com/shorts/atLH5jRBfXY?si=JkSoYzokcINwZEUc)
+- []()
+- []()
 - []()
 - []()
 

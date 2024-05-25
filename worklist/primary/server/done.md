@@ -593,8 +593,8 @@
 - [How to grant all privileges on a database in MySQL](https://www.atlassian.com/data/admin/how-to-grant-all-privileges-on-a-database-in-mysql#:~:text=To%20GRANT%20ALL%20privileges%20to,GRANT%20ALL%20PRIVILEGES%20ON%20database_name.)
 - [How to Create Users and Grant Permissions in MySQL [Tutorial]](https://www.strongdm.com/blog/mysql-create-user-manage-access-privileges-how-to#:~:text=The%20GRANT%20statement%20allows%20you,GRANT%20SELECT%2C%20INSERT%20ON%20strongdm.)
 - [Why is a "GRANT USAGE" created the first time I grant a user privileges?](https://stackoverflow.com/questions/2126225/why-is-a-grant-usage-created-the-first-time-i-grant-a-user-privileges)
-- []()
-- []()
+- [NestJS에서 클라이언트로 쿠키 보내기 (왜 내 쿠키는 안받아줘요?)](https://lee-yo-han.github.io/nestjs-server-client-cookie)
+- [mdn docs: 301 Moved Permanently](https://developer.mozilla.org/ko/docs/Web/HTTP/Status/301)
 - []()
 - []()
 
