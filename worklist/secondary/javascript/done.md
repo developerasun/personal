@@ -363,6 +363,11 @@
 - [require.resolve failing to find other workspace packages #5237](https://github.com/pnpm/pnpm/issues/5237)
 - [npm docs: peerDependencies](https://docs.npmjs.com/cli/v10/configuring-npm/package-json#peerdependencies)
 - [스크립트 툴의 장점만 모았다! zx로 업무 자동화하기](https://tech.devsisters.com/posts/the-best-way-to-write-scripts/)
+- [Stop Using The "!" Bang Operator In JavaScript Unless You Know This](https://youtube.com/shorts/W9hSL8gt7II?si=lYGebTNU5mIqqC0D)
+- []()
+- []()
+- []()
+- []()
 - []()
 
 </details>

@@ -602,6 +602,8 @@
 - [Effective CRUD and Validation with NestJS and JOI](https://dev.to/dalewaterworth/effective-crud-and-validation-with-nestjs-and-joi-2311)
 - [Convert JS date time to MySQL datetime](https://stackoverflow.com/questions/5129624/convert-js-date-time-to-mysql-datetime)
 - []()
+- [NestJS에서 클라이언트로 쿠키 보내기 (왜 내 쿠키는 안받아줘요?)](https://lee-yo-han.github.io/nestjs-server-client-cookie)
+- [mdn docs: 301 Moved Permanently](https://developer.mozilla.org/ko/docs/Web/HTTP/Status/301)
 - []()
 - []()
 

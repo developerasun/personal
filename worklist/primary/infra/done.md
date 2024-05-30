@@ -500,6 +500,7 @@
 - []()
 - []()
 - []()
+- [The Best Tools to Run Kubernetes on Your Local Machine #shorts #devop](https://youtube.com/shorts/sj-M-F24wIg?si=rcvIrCkerJZSvA0L)
 - []()
 
 </details>

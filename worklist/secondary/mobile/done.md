@@ -51,6 +51,7 @@
 - [How to install Android SDK on Ubuntu?](https://stackoverflow.com/questions/34556884/how-to-install-android-sdk-on-ubuntu)
 - [reddit: Android Development](https://www.reddit.com/r/docker/comments/15e40i2/android_development/)
 - [expo docs: Android Studio Emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [PWA vs Native App installation process comparison](https://youtube.com/shorts/atLH5jRBfXY?si=JkSoYzokcINwZEUc)
 - []()
 - []()
 - []()
