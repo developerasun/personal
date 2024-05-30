@@ -36,7 +36,7 @@
 - [[게임] 성우 강새봄 - 졸린 고양이](https://youtu.be/LUH9hmK-NTs?si=tQwLqK1sEgSCB4kv)
 - [코미 - 나는 트릭컬이 싫어요](https://youtu.be/lugEYi9S_Qg?si=BgL6X1Brpd6qUuNs)
 - [그림 그려드립니다 전문가편 모음 ㅋㅋㅋ](https://youtube.com/shorts/jSGKiiAPblc?si=1s4_6QRn3G8wI8VC)
-- []()
+- [미쳐버린 5월 업데이트](https://youtu.be/SbMcqwsUohM?si=hjs5gt17tmfm48zq)
 - []()
 - []()
 - []()

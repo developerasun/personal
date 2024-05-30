@@ -493,6 +493,12 @@
 - [docker docs: Create an access token](https://docs.docker.com/security/for-developers/access-tokens/#create-an-access-token)
 - [How to login to Docker registries using Github Actions](https://stackoverflow.com/questions/58226756/how-to-login-to-docker-registries-using-github-actions)
 - [Authorization failure at Docker login step in Github Actions](https://stackoverflow.com/questions/74167604/authorization-failure-at-docker-login-step-in-github-actions)
+- [[Docker] Docker Swarm 에 대해서](https://velog.io/@1996yyk/Docker-Swarm-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
+- [[Kubernetes]: 왜 쿠버네티스인가? Docker Swarm과의 차이는?](https://varconst.com/kubernetes_vs_docker_swarm/)
+- [docker docs: top level volumes: example](https://docs.docker.com/compose/compose-file/07-volumes/#example)
+- []()
+- []()
+- []()
 - []()
 - []()
 
