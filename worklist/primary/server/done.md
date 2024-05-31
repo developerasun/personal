@@ -604,6 +604,13 @@
 - []()
 - [NestJS에서 클라이언트로 쿠키 보내기 (왜 내 쿠키는 안받아줘요?)](https://lee-yo-han.github.io/nestjs-server-client-cookie)
 - [mdn docs: 301 Moved Permanently](https://developer.mozilla.org/ko/docs/Web/HTTP/Status/301)
+- [TypeORM 간단 사용법](https://gkqlgkql.tistory.com/entry/TypeORM-%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [raw 쿼리 사용법은 혹시 어디에서 볼 수 있을까요?](https://www.inflearn.com/questions/406181/raw-%EC%BF%BC%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%B2%95%EC%9D%80-%ED%98%B9%EC%8B%9C-%EC%96%B4%EB%94%94%EC%97%90%EC%84%9C-%EB%B3%BC-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+- [typeORM docs: EntityManager API](https://typeorm.io/entity-manager-api)
+- [[NestJS] - 16. TypeORM View와 Raw Query, Index/Unique 제약조건 걸기](https://sjh9708.tistory.com/42)
+- [typeorm과 raw query를 조합하는 방법.](https://darrengwon.tistory.com/1323#google_vignette)
+- [How to create a unique index containing multiple fields where one is a foreign key](https://stackoverflow.com/questions/62373766/how-to-create-a-unique-index-containing-multiple-fields-where-one-is-a-foreign-k)
+- [typeorm docs: Unique indices](https://orkhan.gitbook.io/typeorm/docs/indices#unique-indices)
 - []()
 - []()
 
