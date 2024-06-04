@@ -627,3 +627,16 @@
 
 </details>
 
+<details>
+<summary>June, 2024</summary>
+
+- [nest docs: Auto-validation](https://docs.nestjs.com/techniques/validation#auto-validation)
+- [[데이터베이스] 파티셔닝(Partitioning)이란?](https://velog.io/@kyeun95/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%ED%8C%8C%ED%8B%B0%EC%85%94%EB%8B%9DPartitioning%EC%9D%B4%EB%9E%80)
+- [JWT KeyPair로 생성, 인증하기, pem으로 저장](https://velog.io/@joypeb/JWT-KeyPair%EB%A1%9C-%EC%83%9D%EC%84%B1-%EC%9D%B8%EC%A6%9D%ED%95%98%EA%B8%B0)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
