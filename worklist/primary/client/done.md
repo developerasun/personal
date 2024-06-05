@@ -348,6 +348,15 @@
 - [Nextjs 13 app directory how to specify a route folder for the home page](https://stackoverflow.com/questions/76156128/nextjs-13-app-directory-how-to-specify-a-route-folder-for-the-home-page)
 - [Use index.js file in Next.js as homepage or only as starting point? [closed]](https://stackoverflow.com/questions/70707741/use-index-js-file-in-next-js-as-homepage-or-only-as-starting-point)
 - [Import shared code in Next.js app in a monorepo](https://stackoverflow.com/questions/72840513/import-shared-code-in-next-js-app-in-a-monorepo)
+
+</details>
+
+<details>
+<summary>June, 2024</summary>
+
+- [mdn docs: URL: searchParams property](https://developer.mozilla.org/en-US/docs/Web/API/URL/searchParams)
+- []()
+- []()
 - []()
 - []()
 - []()
