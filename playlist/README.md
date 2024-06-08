@@ -71,7 +71,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [싸이코 같은 페노메코 벌스 😈](https://youtube.com/shorts/vwRGu7ogTCQ?si=a6NarwNh4iVPzfAS)
 1. [미국에서 온 슈퍼비(수퍼비) 입니다](https://youtube.com/shorts/CkMNJDs9VqM?si=qkZyMFM35FuODMmL)
 1. [빈지노가 민폐 수준으로 찢었다는 그 벌스](https://youtube.com/shorts/KlPwBUk3JYE?si=2X5NNVkOQOqSzJA5)
-1. []()
+1. [스카이민혁: 엄마 구찌가방 사준 래퍼](https://youtube.com/shorts/mvWpQf_HdEA?si=duoefBArmyVEWc0B)
 1. []()
 1. []()
 1. []()

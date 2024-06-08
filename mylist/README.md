@@ -41,6 +41,6 @@ Collect shits from Internet.
 - [김동현 "자책할 시간에 실력을 더 키워라" #김동현 #노력 #연습 #자책 #동기부여](https://youtube.com/shorts/GHCNRtIPQSY?si=ftFaxfJYpURP-OPf)
 - ["도덕적 잣대와 사상검증이 너무 심해진다고 생각해서“](https://youtube.com/shorts/EBriZRCfUGQ?si=8U8rGrA6c5ptOD9G)
 - [밉고 또 미운 회사 사람, 어떻게 사랑할 수 있을까요?](https://www.jobplanet.co.kr/contents/news-5106/%EB%B0%89%EA%B3%A0%20%EB%98%90%20%EB%AF%B8%EC%9A%B4%20%ED%9A%8C%EC%82%AC%20%EC%82%AC%EB%9E%8C,%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EC%82%AC%EB%9E%91%ED%95%A0%20%EC%88%98%20%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
-- []()
+- [도전에 있어 두려움을 이겨내는 킬러 마인드셋 #마인드셋 #동기부여 #자기계발 #두려움](https://youtube.com/shorts/rbDCs0cSTpg?si=3huS1hvYXBbV3jPx)
 - []()
 - []()
