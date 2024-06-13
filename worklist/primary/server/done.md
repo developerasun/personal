@@ -678,7 +678,7 @@
 - [MySQL 시간 더하기, 빼기 (DATE_ADD, DATE_SUB 함수)](https://extbrain.tistory.com/58)
 - [w3schools: SQL CASE Expression](https://www.w3schools.com/sql/sql_case.asp)
 - [datagrip docs: Export data﻿](https://www.jetbrains.com/help/datagrip/export-data.html#methods-for-exporting-data)
-- []()
+- [How can I show user's privileges in MySQL?](https://serverfault.com/questions/117525/how-can-i-show-users-privileges-in-mysql)
 - []()
 - []()
 - []()
