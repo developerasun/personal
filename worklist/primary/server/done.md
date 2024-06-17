@@ -689,8 +689,12 @@
 - [[MYSQL] Temporary Table Control (임시 테이블 다루기)](https://dadev.tistory.com/m/entry/MYSQL-Temporary-Table-Control-%EC%9E%84%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94-%EB%8B%A4%EB%A3%A8%EA%B8%B0)
 - [[Mysql] Temporary Table(임시테이블)](https://velog.io/@devjooj/Mysql-Temporary-Table%EC%9E%84%EC%8B%9C%ED%85%8C%EC%9D%B4%EB%B8%94)
 - [typeorm docs: Migrations](https://orkhan.gitbook.io/typeorm/docs/migrations)
-- []()
-- []()
+- [.save() is throwing duplicate key value violates unique constraint #4122](https://github.com/typeorm/typeorm/issues/4122)
+- [.save() is throwing duplicate key value violates unique constraint on Postgresql #7736](https://github.com/typeorm/typeorm/issues/7736)
+- [[typeorm] 데이터 저장과 수정을 위한 save, insert, update, upsert](https://blog.naver.com/pjt3591oo/222978080727)
+- [TypeORM Upsert: Update If Exists, Create If Not Exists](https://www.kindacode.com/snippet/typeorm-upsert-update-if-exists-create-if-not-exists/)
+- [typeorm docs: EntityManager API](https://orkhan.gitbook.io/typeorm/docs/entity-manager-api)
+- [Upsert does insert instead of update #9993](https://github.com/typeorm/typeorm/issues/9993)
 - []()
 
 </details>
