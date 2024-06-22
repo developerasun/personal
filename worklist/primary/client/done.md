@@ -355,8 +355,10 @@
 <summary>June, 2024</summary>
 
 - [mdn docs: URL: searchParams property](https://developer.mozilla.org/en-US/docs/Web/API/URL/searchParams)
-- []()
-- []()
+- [zustand docs: Map and Set Usage](https://docs.pmnd.rs/zustand/guides/maps-and-sets-usage)
+- [zustand docs: Setup with Next.js](https://docs.pmnd.rs/zustand/guides/nextjs)
+- [zustand docs: Updating state](https://docs.pmnd.rs/zustand/guides/updating-state#with-immer)
+- [zustand docs: Prevent rerenders with useShallow](https://docs.pmnd.rs/zustand/guides/prevent-rerenders-with-use-shallow)
 - []()
 - []()
 - []()
