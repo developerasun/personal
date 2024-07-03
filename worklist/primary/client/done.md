@@ -388,6 +388,22 @@
 - [msw docs: Node.js integration](https://mswjs.io/docs/integrations/node#enable-mocking)
 - [next 14: MSW 적용까지 시도해본 방법들 정리하기](https://velog.io/@wns450/msw-next-%EC%9D%B4%EC%8A%88)
 - [MSW로 API Mocking으로 개발환경을 높이고 Next.js RSC환경에서도 MSW 적용하기](https://www.handongryong.com/post/msw/)
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [react docs: useDeferredValue: Deferring re-rendering for a part of the UI](https://react.dev/reference/react/useDeferredValue#deferring-re-rendering-for-a-part-of-the-ui)
+- [react docs: useRef: Returns](https://react.dev/reference/react/useRef#returns)
+- [react docs: Rules of keys](https://react.dev/learn/rendering-lists#rules-of-keys)
+- [msw docs: Describing REST API](https://mswjs.io/docs/network-behavior/rest)
+- [Next.js로 서버 액션을 활용하여 폼 제출과 데이터 관리 시작하기](https://reactnext-central.xyz/blog/nextjs/server-action)
+- [React-Js - Making POST request using useEffect and](https://stackoverflow.com/questions/67079454/react-js-making-post-request-using-useeffect-and)
+- [Should 'POST' api calls go in useEffect? Aren't they sideeffects?](https://www.reddit.com/r/reactjs/comments/ndr98l/should_post_api_calls_go_in_useeffect_arent_they/?rdt=34633)
+- [React Testing Library #6 MSW 를 활용한 mock API 테스트](https://youtu.be/iQGRPXs_1Qc?si=zNeU2zxie3kg6dVt)
+- [msw docs: Response resolver](https://mswjs.io/docs/concepts/response-resolver)
+- []()
 - []()
 - []()
 - []()
