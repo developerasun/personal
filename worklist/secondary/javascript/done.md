@@ -379,7 +379,13 @@
 - [symbol 도대체 어디에 쓰나요? (자바스크립트 심볼 사용법, JavaScript)](https://youtube.com/shorts/-del5KIEMMI?si=tf8RqWfrp6-GzeAc)
 - [WeakMap 한 번도 안 써본 사람~? (사실 저도...)](https://youtube.com/shorts/7bs5Dt9SdLE?si=AFgESFJOfQbYF7mr)
 - [프록시 객체는 도대체 어디에 쓰는 걸까(ES2015 Proxy)](https://youtube.com/shorts/P2vHcDplkhA?si=HhOPSWJA03NcvYDB)
-- []()
+
+</details>
+
+<details>
+<summary>Juy, 2024</summary>
+
+- [타입스크립트 콜백 함수 타이핑할 때 주의점](https://youtube.com/shorts/_ywhlrmh8o4?si=McKRQaqlBlEl1_xh)
 - []()
 - []()
 - []()

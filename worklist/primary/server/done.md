@@ -708,7 +708,7 @@
 - [oracle docs: What Is a Socket?](https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html)
 - [레코드 많을때 조인하면 속도 늦어지나요??](https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_db&wr_id=181708&page=517)
 - [NestJS와 TypeORM](https://velog.io/@username1103/NestJS-TypeORM)
-- []()
+- [[개발환경 엿보기구멍] Termius - ssh platform](https://velog.io/@blackbean99/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%97%BF%EB%B3%B4%EA%B8%B0%EA%B5%AC%EB%A9%8D-Terminus-ssh-platform)
 - []()
 - []()
 - []()
