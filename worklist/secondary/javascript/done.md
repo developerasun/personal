@@ -394,6 +394,11 @@
 - [[NodeJS] 빌더 패턴(Builder Pattern)](https://minu0807.tistory.com/145)
 - [What to put in package.json types field for typescript based libs](https://stackoverflow.com/questions/48952313/what-to-put-in-package-json-types-field-for-typescript-based-libs)
 - [tsup docs: Generate declaration file](https://tsup.egoist.dev/#generate-declaration-file)
+<summary>Juy, 2024</summary>
+
+- [타입스크립트 콜백 함수 타이핑할 때 주의점](https://youtube.com/shorts/_ywhlrmh8o4?si=McKRQaqlBlEl1_xh)
+- []()
+- []()
 - []()
 
 </details>

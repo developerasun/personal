@@ -719,6 +719,7 @@
 - [velog: Fuse js](https://velog.io/@hyeseong0914/Fuse-js)
 - [NestJS에서 Response DTO를 만들 때 new는 넣어둬](https://velog.io/@yullivan/NestJS%EC%97%90%EC%84%9C-Response-DTO%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%8C-new%EB%8A%94-%EB%84%A3%EC%96%B4%EB%91%AC)
 - [Next.js의 Server actions 기능](https://codingapple.com/unit/nextjs-server-actions/)
+- [[개발환경 엿보기구멍] Termius - ssh platform](https://velog.io/@blackbean99/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%97%BF%EB%B3%B4%EA%B8%B0%EA%B5%AC%EB%A9%8D-Terminus-ssh-platform)
 - []()
 - []()
 - []()
