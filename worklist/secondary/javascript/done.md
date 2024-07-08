@@ -379,9 +379,21 @@
 - [symbol 도대체 어디에 쓰나요? (자바스크립트 심볼 사용법, JavaScript)](https://youtube.com/shorts/-del5KIEMMI?si=tf8RqWfrp6-GzeAc)
 - [WeakMap 한 번도 안 써본 사람~? (사실 저도...)](https://youtube.com/shorts/7bs5Dt9SdLE?si=AFgESFJOfQbYF7mr)
 - [프록시 객체는 도대체 어디에 쓰는 걸까(ES2015 Proxy)](https://youtube.com/shorts/P2vHcDplkhA?si=HhOPSWJA03NcvYDB)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [Why is the infer keyword needed in Typescript?](https://stackoverflow.com/questions/60067100/why-is-the-infer-keyword-needed-in-typescript)
+- [What means # (hash sign character, sharp) in typescript/javascript as a prefix for variable name? [duplicate]](https://stackoverflow.com/questions/78082889/what-means-hash-sign-character-sharp-in-typescript-javascript-as-a-prefix-f)
+- [[JavaScript] Promise Chaining 프로미스 체인 쓰는 이유](https://velog.io/@eunjin/Javascript-Promise-Chaining-%ED%94%84%EB%A1%9C%EB%AF%B8%EC%8A%A4-%EC%B2%B4%EC%9D%B8-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0)
+- [core javascript docs: 프라미스 체이닝](https://ko.javascript.info/promise-chaining)
+- [The Builder Design Pattern in TypeScript](https://blog.bitsrc.io/the-builder-design-pattern-in-typescript-1ae601450cc)
+- [Debounce(디바운스) - JavaScript에서 함수를 지연시키는 방법 (JS ES6 예제)](https://www.freecodecamp.org/korean/news/debounce-dibaunseu-javascripteseo-hamsureul-jiyeonsikineun-bangbeob-js-es6-yeje/)
+- [[NodeJS] 빌더 패턴(Builder Pattern)](https://minu0807.tistory.com/145)
+- [What to put in package.json types field for typescript based libs](https://stackoverflow.com/questions/48952313/what-to-put-in-package-json-types-field-for-typescript-based-libs)
+- [tsup docs: Generate declaration file](https://tsup.egoist.dev/#generate-declaration-file)
 - []()
 
 </details>
