@@ -403,7 +403,7 @@
 - [Should 'POST' api calls go in useEffect? Aren't they sideeffects?](https://www.reddit.com/r/reactjs/comments/ndr98l/should_post_api_calls_go_in_useeffect_arent_they/?rdt=34633)
 - [React Testing Library #6 MSW 를 활용한 mock API 테스트](https://youtu.be/iQGRPXs_1Qc?si=zNeU2zxie3kg6dVt)
 - [msw docs: Response resolver](https://mswjs.io/docs/concepts/response-resolver)
-- []()
+- [msw docs: Mocking status code and text](https://mswjs.io/docs/basics/mocking-responses/#mocking-status-code-and-text)
 - []()
 - []()
 - []()

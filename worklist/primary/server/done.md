@@ -708,7 +708,17 @@
 - [oracle docs: What Is a Socket?](https://docs.oracle.com/javase/tutorial/networking/sockets/definition.html)
 - [레코드 많을때 조인하면 속도 늦어지나요??](https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_db&wr_id=181708&page=517)
 - [NestJS와 TypeORM](https://velog.io/@username1103/NestJS-TypeORM)
-- []()
+
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [NestJS 에서 path alias 설정하기 (feat. TypeORM, Jest)](https://velog.io/@modolee/nestjs-path-alias-feat-typeorm-jest)
+- [velog: Fuse js](https://velog.io/@hyeseong0914/Fuse-js)
+- [NestJS에서 Response DTO를 만들 때 new는 넣어둬](https://velog.io/@yullivan/NestJS%EC%97%90%EC%84%9C-Response-DTO%EB%A5%BC-%EB%A7%8C%EB%93%A4-%EB%95%8C-new%EB%8A%94-%EB%84%A3%EC%96%B4%EB%91%AC)
+- [Next.js의 Server actions 기능](https://codingapple.com/unit/nextjs-server-actions/)
 - []()
 - []()
 - []()

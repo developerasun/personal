@@ -173,6 +173,17 @@
 <summary>May, 2024</summary>
 
 - [14.7: 고아(orphan) 브랜치 (부모 커밋이 없는 브랜치) 생성하기](https://nochoco-lee.tistory.com/143)
+
+</details>
+
+<details>
+<summary>June, 2024</summary>
+
+- [github docs: Managing remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
+- [github docs: About connections to GitHub in GitHub Desktop](https://docs.github.com/en/desktop/installing-and-authenticating-to-github-desktop/about-connections-to-github-in-github-desktop)
+- []()
+- []()
+- []()
 - []()
 
 </details>

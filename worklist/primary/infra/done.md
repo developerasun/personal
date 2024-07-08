@@ -496,11 +496,24 @@
 - [[Docker] Docker Swarm 에 대해서](https://velog.io/@1996yyk/Docker-Swarm-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C)
 - [[Kubernetes]: 왜 쿠버네티스인가? Docker Swarm과의 차이는?](https://varconst.com/kubernetes_vs_docker_swarm/)
 - [docker docs: top level volumes: example](https://docs.docker.com/compose/compose-file/07-volumes/#example)
-- []()
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>June, 2024</summary>
+
+- [젠킨스를 끼고 일해야 능률이 올라갑니다.](https://velog.io/@userhwseo/%EC%82%AC%EB%82%B4-CI-CD-%EB%8F%84%EC%9E%85%EA%B8%B0)
 - [The Best Tools to Run Kubernetes on Your Local Machine #shorts #devop](https://youtube.com/shorts/sj-M-F24wIg?si=rcvIrCkerJZSvA0L)
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [The Ultimate Guide to Lightweight Kubernetes: K3s vs K0s](https://youtube.com/shorts/IinR1defpUg?si=DIzXsriCw7NRGVIP)
+- []()
+- []()
 - []()
 
 </details>
+
