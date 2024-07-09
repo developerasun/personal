@@ -394,9 +394,12 @@
 - [[NodeJS] 빌더 패턴(Builder Pattern)](https://minu0807.tistory.com/145)
 - [What to put in package.json types field for typescript based libs](https://stackoverflow.com/questions/48952313/what-to-put-in-package-json-types-field-for-typescript-based-libs)
 - [tsup docs: Generate declaration file](https://tsup.egoist.dev/#generate-declaration-file)
-<summary>Juy, 2024</summary>
-
 - [타입스크립트 콜백 함수 타이핑할 때 주의점](https://youtube.com/shorts/_ywhlrmh8o4?si=McKRQaqlBlEl1_xh)
+- [TypeScript Access Modifiers](https://www.typescripttutorial.net/typescript-tutorial/typescript-access-modifiers/)
+- [유지보수하기 좋은 React 코드를 작성하는 방법에 대한 고찰](https://citron031.tistory.com/entry/%EC%9C%A0%EC%A7%80%EB%B3%B4%EC%88%98%ED%95%98%EA%B8%B0-%EC%A2%8B%EC%9D%80-React-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%9E%91%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0#Compound%--Component%--Pattern)
+- [리액트 모범 사례 - 2022 더 나은 리액트 코드 작성을 위한 팁](https://www.freecodecamp.org/korean/news/best-practices-for-react/)
+- []()
+- []()
 - []()
 - []()
 - []()
