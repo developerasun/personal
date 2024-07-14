@@ -250,7 +250,6 @@
 
 </details>
 
-
 <details>
 <summary>Feb, 2024</summary>
 
@@ -411,8 +410,14 @@
 - [유용한 리액트 패턴 5가지](https://velog.io/@dnr6054/%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-%ED%8C%A8%ED%84%B4-5%EA%B0%80%EC%A7%80)
 - [usehooks docs: useLocalStorage](https://usehooks.com/uselocalstorage)
 - [Should you REALLY Learn Framer?](https://youtu.be/EUh1tmOvIvE?si=l3-q7u89hzA66d2u)
-- []()
-- []()
+- [[ESLint] import/order 규칙으로 import 순서 미세 조정하기](https://tesseractjh.tistory.com/305)
+- [import 영역을 읽기 좋게 다듬는 세 가지 방법](https://merrily-code.tistory.com/294)
+- [npm docs: eslint-plugin-import](https://www.npmjs.com/package/eslint-plugin-import)
+- [eslint docs: Options](https://eslint.org/docs/latest/use/command-line-interface#options)
+- [ESLint - import/order](https://velog.io/@sora2821/ESLint-importorder)
+- [eslint docs: Pass Multiple Values to an Option](https://eslint.org/docs/latest/use/command-line-interface#pass-multiple-values-to-an-option)
+- [ESLint에서 tsconfig paths를 인식하지 못하는 경우](https://velog.io/@eenaree/eslint-tsconfig-paths)
+- [리액트 디자인 패턴 2가지: 렌더 프롭스 패턴, 컴파운드 컴포넌트 패턴](https://namunamu1105.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-2%EA%B0%80%EC%A7%80-4917ee8c8690)
 - []()
 - []()
 - []()
