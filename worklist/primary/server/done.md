@@ -663,7 +663,7 @@
 - [github: typeorm: Common Table Expressions #1116](https://github.com/typeorm/typeorm/issues/1116)
 - [github: typeorm: WITH Clause in the Query Builder #3794](https://github.com/typeorm/typeorm/issues/3794)
 - [youtube: sql 전문가 정미나: GROUP BY](https://youtu.be/ZnAHcKZqaEQ?si=VQr5BCyMkYWqe61q)
-- [SQL | Count(*) vs Count(1) Vs Count(colname) #sqltips](https://youtube.com/shorts/E9x1B9XmzXQ?si=wwBaCoAbQHPb6doy)
+- [SQL | Count(\*) vs Count(1) Vs Count(colname) #sqltips](https://youtube.com/shorts/E9x1B9XmzXQ?si=wwBaCoAbQHPb6doy)
 - [Outer joins - SQL in 60 seconds #shorts](https://youtube.com/shorts/-6lsLjhK7y4?si=-RzsnnKyUCI6X79D)
 - [혼공: SQL 기본 문법: JOIN(INNER, OUTER, CROSS, SELF JOIN)](https://hongong.hanbit.co.kr/sql-%EA%B8%B0%EB%B3%B8-%EB%AC%B8%EB%B2%95-joininner-outer-cross-self-join/)
 - [using CASE in the WHERE clause](https://stackoverflow.com/questions/14614573/using-case-in-the-where-clause)
@@ -709,7 +709,6 @@
 - [레코드 많을때 조인하면 속도 늦어지나요??](https://www.phpschool.com/gnuboard4/bbs/board.php?bo_table=qna_db&wr_id=181708&page=517)
 - [NestJS와 TypeORM](https://velog.io/@username1103/NestJS-TypeORM)
 
-
 </details>
 
 <details>
@@ -726,7 +725,7 @@
 - [차이점 알고 쓰자! UNION vs UNION ALL](https://youtu.be/4xM54SwlfLU?si=AsyjfFAinMFbCmL3)
 - [존재의 여부, EXISTS, NOT EXISTS](https://youtu.be/SIaOH9wEwHk?si=PYpEIEzdxV-qweyI)
 - [데이터 좀 만져본 사람만 안다는 파티션 테이블](https://youtu.be/seTk790HsIM?si=hJV5hkHTbkMMQyPU)
-- []()
+- [NestJS 앱의 환경 설정](https://www.daleseo.com/nestjs-configuration/)
 - []()
 - []()
 - []()

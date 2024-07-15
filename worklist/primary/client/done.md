@@ -418,8 +418,8 @@
 - [eslint docs: Pass Multiple Values to an Option](https://eslint.org/docs/latest/use/command-line-interface#pass-multiple-values-to-an-option)
 - [ESLint에서 tsconfig paths를 인식하지 못하는 경우](https://velog.io/@eenaree/eslint-tsconfig-paths)
 - [리액트 디자인 패턴 2가지: 렌더 프롭스 패턴, 컴파운드 컴포넌트 패턴](https://namunamu1105.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-2%EA%B0%80%EC%A7%80-4917ee8c8690)
-- []()
-- []()
+- [mdn docs: IntersectionObserver](https://developer.mozilla.org/ko/docs/Web/API/IntersectionObserver)
+- [IntersectionObserver의 사용법](https://velog.io/@kymkjh2002/IntersectionObserver%EC%9D%98-%EC%82%AC%EC%9A%A9%EB%B2%95)
 - []()
 - []()
 
