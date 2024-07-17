@@ -420,6 +420,11 @@
 - [리액트 디자인 패턴 2가지: 렌더 프롭스 패턴, 컴파운드 컴포넌트 패턴](https://namunamu1105.medium.com/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4-2%EA%B0%80%EC%A7%80-4917ee8c8690)
 - [mdn docs: IntersectionObserver](https://developer.mozilla.org/ko/docs/Web/API/IntersectionObserver)
 - [IntersectionObserver의 사용법](https://velog.io/@kymkjh2002/IntersectionObserver%EC%9D%98-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [mdn docs: Location: href property](https://developer.mozilla.org/en-US/docs/Web/API/Location/href)
+- [How to get page URL or hostname in NextJs Project?](https://stackoverflow.com/questions/65199051/how-to-get-page-url-or-hostname-in-nextjs-project)
+- [msw docs: Read a single parameter](https://mswjs.io/docs/recipes/query-parameters/#read-a-single-parameter)
+- []()
+- []()
 - []()
 - []()
 
