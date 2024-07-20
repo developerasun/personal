@@ -423,7 +423,7 @@
 - [mdn docs: Location: href property](https://developer.mozilla.org/en-US/docs/Web/API/Location/href)
 - [How to get page URL or hostname in NextJs Project?](https://stackoverflow.com/questions/65199051/how-to-get-page-url-or-hostname-in-nextjs-project)
 - [msw docs: Read a single parameter](https://mswjs.io/docs/recipes/query-parameters/#read-a-single-parameter)
-- []()
+- [Next.js 13 Tip: Move Client Components to the Leafs 🌿 #nextjs #nextjs13](https://youtube.com/shorts/vGXFnyaQjZE?si=KT0QrsLr0joiH1cT)
 - []()
 - []()
 - []()
