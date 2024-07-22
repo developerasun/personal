@@ -729,7 +729,7 @@
 - [nest docs: Global modules#](https://docs.nestjs.com/modules#global-modules)
 - [[Nest.js] 태스크 스케줄링](https://meercat.tistory.com/418)
 - [github: dotenvx](https://github.com/dotenvx/dotenvx)
-- []()
+- [github: monorepo-nestjs-typeorm](https://github.com/jojoldu/monorepo-nestjs-typeorm)
 - []()
 - []()
 - []()

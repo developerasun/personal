@@ -247,7 +247,7 @@
 - [Don’t see “read as proxy” and “write as proxy” on Etherscan](https://forum.openzeppelin.com/t/dont-see-read-as-proxy-and-write-as-proxy-on-etherscan/11392)
 - [비트코인과 이더리움, 공식적으로 상품으로 판결](https://www.tokenpost.kr/article-186664)
 - [alchemy docs: What is selfdestruct in Solidity?](https://www.alchemy.com/overviews/selfdestruct-solidity)
-- []()
+- [github: eip: ERC1155 Metadata](https://github.com/ethereum/ercs/blob/master/ERCS/erc-1155.md#metadata)
 - []()
 - []()
 - []()
