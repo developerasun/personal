@@ -400,7 +400,7 @@
 - [리액트 모범 사례 - 2022 더 나은 리액트 코드 작성을 위한 팁](https://www.freecodecamp.org/korean/news/best-practices-for-react/)
 - [Typescript 템플릿 리터럴(Template Literals)](https://velog.io/@gomsemarie/template-literals)
 - [객체에서 특정 속성만 제거하기 delete 아님(타입스크립트)](https://youtube.com/shorts/kPHO4bVwF5E?si=4V0MJR-LXXXFMmGI)
-- []()
+- [디자인 패턴 첫 번째 시간! 팩토리부터 배워보자(factory pattern)](https://youtube.com/shorts/0rN2HUz4oTU?si=zDO-NRSVxghsz0mj)
 - []()
 - []()
 - []()
