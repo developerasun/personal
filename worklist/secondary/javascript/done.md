@@ -401,7 +401,7 @@
 - [Typescript 템플릿 리터럴(Template Literals)](https://velog.io/@gomsemarie/template-literals)
 - [객체에서 특정 속성만 제거하기 delete 아님(타입스크립트)](https://youtube.com/shorts/kPHO4bVwF5E?si=4V0MJR-LXXXFMmGI)
 - [디자인 패턴 첫 번째 시간! 팩토리부터 배워보자(factory pattern)](https://youtube.com/shorts/0rN2HUz4oTU?si=zDO-NRSVxghsz0mj)
-- []()
+- [싱글턴 패턴: 객체를 딱 한 번만 생성하고 싶을 때!!](https://youtube.com/shorts/AdRJvTYkbsY?si=Hy9hDImYkoweMQTp)
 - []()
 - []()
 - []()

@@ -147,6 +147,17 @@
 - [NAS(Network Attached Storage)](https://www.ibm.com/kr-ko/topics/network-attached-storage#:~:text=NAS(Network%20Attached%20Storage)%EB%8A%94,%EB%98%90%EB%8A%94%20NAS%20%ED%97%A4%EB%93%9C%EB%9D%BC%EA%B3%A0%EB%8F%84%20%ED%95%A9%EB%8B%88%EB%8B%A4)
 - [NAS란?](https://sangbeomkim.tistory.com/m/138)
 - [어드민의 생애주기: 왜 필요하고 왜 어려울까](https://blog.selectfromuser.com/next-generation-admin/)
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [이름궁합과 Checksum 그리고 해시](https://youtu.be/HtETF-NL81A?si=tUNlZNmcYK24tleC)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
