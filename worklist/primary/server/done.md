@@ -750,7 +750,19 @@
 - [Session vs Token Authentication in 100 Seconds](https://youtu.be/UBUNrFtufWo?si=ZeH-HSDuNA9y44Gs)
 - [Don’t Use JWT for Login Sessions](https://youtube.com/shorts/lkcSjV92ZPI?si=iHz-x4kDtAhi4_8i)
 - [How to use a JWT Token to get data from an API with Javascript](https://youtube.com/shorts/mt7bq3lg_kg?si=QELSVDs9mhipHl5f)
+
+</details>
+
+<details>
+<summary>Auguest, 2024</summary>
+
+- [TypeORM : How to search for a range of Date in PostgresSQL?](https://stackoverflow.com/questions/59452233/typeorm-how-to-search-for-a-range-of-date-in-postgressql)
+- [SQL BETWEEN 구문](https://makand.tistory.com/entry/SQL-BETWEEN-%EA%B5%AC%EB%AC%B8)
+- [typeorm docs: Use custom index](https://orkhan.gitbook.io/typeorm/docs/select-query-builder#use-custom-index)
+- []()
+- []()
 - []()
 - []()
 
 </details>
+
