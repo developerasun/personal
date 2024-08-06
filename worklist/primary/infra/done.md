@@ -511,9 +511,18 @@
 <summary>July, 2024</summary>
 
 - [The Ultimate Guide to Lightweight Kubernetes: K3s vs K0s](https://youtube.com/shorts/IinR1defpUg?si=DIzXsriCw7NRGVIP)
-- []()
+
+</details>
+
+<details>
+<summary>July, 2024</summary>
+
+- [The Ultimate Guide to Lightweight Kubernetes: K3s vs K0s](https://youtube.com/shorts/IinR1defpUg?si=DIzXsriCw7NRGVIP)
+- [nixpacks docs: Corepack#](https://nixpacks.com/docs/providers/node#corepack)
+- [Error: Cache mount ID is not prefixed with cache key](https://help.railway.app/questions/error-cache-mount-id-is-not-prefixed-wi-12a50b55)
+- [railway docs: Referencing variables in the same service](https://docs.railway.app/guides/variables#referencing-another-services-variable)
+- [unable to pull NPM Docker Image on Proxmox Ubuntu LXC](https://www.reddit.com/r/nginxproxymanager/comments/11n21lw/unable_to_pull_npm_docker_image_on_proxmox_ubuntu/)
 - []()
 - []()
 
 </details>
-

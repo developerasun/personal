@@ -764,13 +764,13 @@
 - [Use Google OAuth In NextJS And NestJS](https://blog.stackademic.com/use-google-oauth-in-nextjs-and-nestjs-e70d98b0f898)
 - [[NestJS] - 20. 인증과 인가 - OAuth2 Google 소셜 로그인](https://sjh9708.tistory.com/49#google_vignette)
 - [NestJS에서 클라이언트로 쿠키 보내기 (왜 내 쿠키는 안받아줘요?)](https://lee-yo-han.github.io/nestjs-server-client-cookie)
-- [4.1.1.  "Strict" and "Lax" enforcement](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-cookie-same-site-00#section-4.1.1)
+- [4.1.1. "Strict" and "Lax" enforcement](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-cookie-same-site-00#section-4.1.1)
 - [Defining Node environment in Nest.js](https://stackoverflow.com/questions/55092953/defining-node-environment-in-nest-js)
 - [리눅스 왜 공부해야 할까요?](https://okky.kr/articles/313106)
 - [Is there a way to hide all the end-point in the controller.ts using a single decorator?](https://stackoverflow.com/questions/66437004/is-there-a-way-to-hide-all-the-end-point-in-the-controller-ts-using-a-single-dec)
 - [How to group endpoints in Nest js with Swagger](https://stackoverflow.com/questions/67937648/how-to-group-endpoints-in-nest-js-with-swagger)
-- []()
-- []()
+- [[Redis] redis.conf 설정 파일](https://ozofweird.tistory.com/entry/Redis-Redis-%EC%84%A4%EC%A0%95-%ED%8C%8C%EC%9D%BC)
+- [redis insight](https://redis.io/docs/latest/develop/connect/insight/)
 - []()
 - []()
 - []()
@@ -778,4 +778,3 @@
 - []()
 
 </details>
-
