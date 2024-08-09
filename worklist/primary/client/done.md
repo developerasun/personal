@@ -433,6 +433,15 @@
 - [NextAuth is hell](https://www.reddit.com/r/nextjs/comments/18olw72/nextauth_is_hell/)
 - [You're not a bad engineer, NextAuth is a bad library.](https://www.reddit.com/r/nextjs/comments/19a86sa/youre_not_a_bad_engineer_nextauth_is_a_bad_library/)
 - [Should I use next-auth.js for a typical username-password login?](https://www.reddit.com/r/nextjs/comments/n9qqlk/should_i_use_nextauthjs_for_a_typical/)
+
+</details>
+
+<details>
+<summary>Augest, 2024</summary>
+
+- [PropsWithChildren #reactjs #reactdevelopment #reactjsdeveloper #reactjstutorial #webdevelopment](https://youtube.com/shorts/yaQjjDyHixg?si=GNJZeok_hnWErrtQ)
+- []()
+- []()
 - []()
 - []()
 - []()
