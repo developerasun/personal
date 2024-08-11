@@ -440,7 +440,7 @@
 <summary>Augest, 2024</summary>
 
 - [PropsWithChildren #reactjs #reactdevelopment #reactjsdeveloper #reactjstutorial #webdevelopment](https://youtube.com/shorts/yaQjjDyHixg?si=GNJZeok_hnWErrtQ)
-- []()
+- [서버사이드 렌더링시 발생하는 html 매칭 문제(next.js)](https://velog.io/@yijaee/serverside-html-matching)
 - []()
 - []()
 - []()

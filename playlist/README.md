@@ -327,7 +327,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Shawan Wasabi - Marble Soda](https://youtu.be/qAeybdD5UoQ?si=0eWEKc-LOXYhiaEu)
 1. [EEEAAAOOO (10 hours ver. better loop)](https://youtu.be/gASV_lYCwlo?si=6GAg5x00FT4DrFAS)
 1. [Seventh Woods Is The BEST 14 Year Old In The Country! CRAZY Athlete](https://youtu.be/If7Hrcf04Dw?si=_w69IbKIyNIcSBA7)
-1. []()
+1. [2 July 2024](https://youtube.com/shorts/TYDYwWgbPVY?si=X0mYfWmXKEidNWLe)
 1. []()
 1. []()
 1. []()

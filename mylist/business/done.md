@@ -28,12 +28,12 @@
 - [10년 전에도 난사람 (마크저커버그)](https://youtube.com/shorts/gfiPCI6qbRM?si=GVdWpZxNr9eQS2tC)
 - [남들과는 다른 길을 걷고 싶은 사장님들께 드리는 조언 #창업 #홍석천 #이원일](https://youtube.com/shorts/iHU8lpyzoU8?si=cP5ard9LvRxUOPvY)
 - [건물주도 아닌데 공간 9개 빌려주고 매달 700만원씩 통장에 꽂혀요ㅣ휴먼스토리ㅣ장사의신ㅣ30대자영업자이야기](https://youtu.be/GOyUO81DfyQ?si=pd7aUcSbI9CEXZnX)
+- [프로덕트 성장 4단계](https://youtube.com/shorts/100ALwRLzV0?si=J-LV-DZBjQkvTJQb)
+- [돈 때문에 사업하지 마세요 (엔비디아)](https://youtube.com/shorts/jtL5yPGJs5M?si=L-r6GQ0ha6u_4Ur_)
+- [사람에게는 잡을 수 있는 목표가 필요해](https://youtube.com/shorts/rRKrnNSRNpM?si=xF88GwS2ymPALNoz)
+- [어렸을 땐 왜 이걸 몰랐을까?](https://youtube.com/shorts/R55obdAKgos?si=9a1a2RVpLzUjuW6m)
 - []()
 - []()
 - []()
 - []()
 - []()
-
-
-
-
