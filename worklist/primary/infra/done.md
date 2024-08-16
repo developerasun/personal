@@ -522,6 +522,17 @@
 - [Error: Cache mount ID is not prefixed with cache key](https://help.railway.app/questions/error-cache-mount-id-is-not-prefixed-wi-12a50b55)
 - [railway docs: Referencing variables in the same service](https://docs.railway.app/guides/variables#referencing-another-services-variable)
 - [unable to pull NPM Docker Image on Proxmox Ubuntu LXC](https://www.reddit.com/r/nginxproxymanager/comments/11n21lw/unable_to_pull_npm_docker_image_on_proxmox_ubuntu/)
+
+</details>
+
+<details>
+<summary>August, 2024</summary>
+
+- [AWS와 쿠버네티스: 이직을 위한 필수 기술](https://f-lab.kr/insight/aws-kubernetes-essential-skills-20240815)
+- [[쿠버네티스] 쿠버네티스를 배워야 하는 이유!](https://www.youtube.com/shorts/oyI9179lbhs)
+- []()
+- []()
+- []()
 - []()
 - []()
 
