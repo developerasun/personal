@@ -522,6 +522,14 @@
 - [Error: Cache mount ID is not prefixed with cache key](https://help.railway.app/questions/error-cache-mount-id-is-not-prefixed-wi-12a50b55)
 - [railway docs: Referencing variables in the same service](https://docs.railway.app/guides/variables#referencing-another-services-variable)
 - [unable to pull NPM Docker Image on Proxmox Ubuntu LXC](https://www.reddit.com/r/nginxproxymanager/comments/11n21lw/unable_to_pull_npm_docker_image_on_proxmox_ubuntu/)
+
+</details>
+
+<details>
+<summary>August, 2024</summary>
+
+- [쿠버네티스... 친해지고싶다 너.... | IT트렌드다잇슈 #shorts](https://youtube.com/shorts/5uJrIQVEOck?si=u-oSZ_pzv8lfn7RS)
+- []()
 - []()
 - []()
 

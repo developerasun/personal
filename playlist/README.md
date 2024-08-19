@@ -140,7 +140,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Lauv – Sims (Lyrics)](https://youtu.be/ng7kyDFlxMU?si=u3m6-X7YpgHHwyoz)
 1. [Cheat Codes - Hate You + Love You feat. AJ Mithcell (1 hour)](https://youtu.be/VEh1s_Jm-CE?si=rZhWV5voe07K9XAx)
 1. [Lvly - My Bare Bones](https://youtu.be/eeQZRUWfnDc?si=4q6Zv7UHM1dNPWc6)
-1. []()
+1. [[1 HOUR 🕐 ] Maroon 5 - Moves Like Jagger (Lyrics) ft Christina Aguilera](https://youtu.be/MIG4QbwW_1c?si=3NbS_SpwmXgSdi_9)
 1. []()
 1. []()
 1. []()
@@ -194,7 +194,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Imagine Dragons - Lonely](https://youtu.be/Si-X1D8SflI?si=ABKAoxYRMVnzO81Q)
 1. [창모 (CHANGMO) - 태지 [UNDERGROUND ROCKSTAR]ㅣLyrics/가사](https://youtu.be/YMdiuSkKSbI?si=8amZOGGvsX6sx_Wk)
 1. [전투력 상승하는 노래 The Score - Enemies [가사/해석/lyrics]](https://youtu.be/QgD4alRSRSM?si=MJHdlSNNCjaJU9fc)
-1. []()
+1. [영웅이 될 수 없으면 그냥 악당이 될래 [𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓][치명적인 팝송]](https://youtu.be/UWFPuiFmyYk?si=YGtqH_4ns9pWsPp4)
 1. []()
 1. []()
 

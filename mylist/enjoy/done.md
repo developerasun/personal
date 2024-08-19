@@ -51,7 +51,7 @@
 - [[트릭컬 리바이브] 에피카와 100일 #트릭컬 #트릭컬리바이브](https://youtube.com/shorts/OcL5DNE7rNw?si=HQ40Re2ykfwlPx3A)
 - [Зимняя рыбалка 😍](https://youtube.com/shorts/mdUJ089PNX8?si=dFLihFtDd8lMSNBa)
 - [[트릭컬 리바이브] 빵ㅋㅋㅋㅋ #트릭컬 #트릭컬리바이브](https://youtube.com/shorts/zjwsdXLRW7k?si=C76DNxmyxwkYnjle)
-- []()
+- [수백억 벌어도 사는 거 다 똑같아 #비트코인](https://youtube.com/shorts/vt4nLCHjGL8?si=YvgCDp2-OMpsc3qd)
 - []()
 - []()
 - []()
