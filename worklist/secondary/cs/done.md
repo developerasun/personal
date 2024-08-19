@@ -154,9 +154,15 @@
 <summary>July, 2024</summary>
 
 - [이름궁합과 Checksum 그리고 해시](https://youtu.be/HtETF-NL81A?si=tUNlZNmcYK24tleC)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>August, 2024</summary>
+
+- [Linux commands you NEED to know! FZF && cat](https://youtube.com/shorts/wYHhCg9jDIo?si=mzI9fNmnFq7dL0Vr)
+- [Linux tools you NEED TO KNOW. FIND && GREP #linux #linuxcommands #programming #coding](https://youtube.com/shorts/shrd1M17Sbo?si=dnpALVkMDWJE5JRF)
+- [Linux commands you NEED TO KNOW. FZF and kill #coding #linuxcommands #linux](https://youtube.com/shorts/iUHfq_JN4G8?si=XJlflaLb2VUa7OLr)
 - []()
 - []()
 - []()
