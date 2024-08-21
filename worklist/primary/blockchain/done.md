@@ -253,7 +253,7 @@
 - [블록체인 노드를 운영하다.](https://devkly.com/blockchain/run-blockchain-node/)
 - [MPC 지갑이란 무엇인가요?](https://academy.gopax.co.kr/mpc-jigabiran-mueosingayo/)
 - [Safe Multi-Sig wallets](https://youtube.com/shorts/0m9MjudOSYs?si=DazNMYbXpDfg26Wu)
-- []()
+- [Is there a plan / EIP for native multi-signature transactions?](https://ethereum.stackexchange.com/questions/60828/is-there-a-plan-eip-for-native-multi-signature-transactions)
 - []()
 - []()
 - []()

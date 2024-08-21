@@ -531,7 +531,7 @@
 - [쿠버네티스... 친해지고싶다 너.... | IT트렌드다잇슈 #shorts](https://youtube.com/shorts/5uJrIQVEOck?si=u-oSZ_pzv8lfn7RS)
 - [AWS와 쿠버네티스: 이직을 위한 필수 기술](https://f-lab.kr/insight/aws-kubernetes-essential-skills-20240815)
 - [[쿠버네티스] 쿠버네티스를 배워야 하는 이유!](https://www.youtube.com/shorts/oyI9179lbhs)
-- []()
+- [[AWS] RDS란 무엇인가?](https://velog.io/@ghldjfldj/AWS-RDS%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-zuaaizv4)
 - []()
 - []()
 - []()
