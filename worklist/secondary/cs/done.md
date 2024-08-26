@@ -144,7 +144,7 @@
 <details>
 <summary>May, 2024</summary>
 
-- [NAS(Network Attached Storage)](https://www.ibm.com/kr-ko/topics/network-attached-storage#:~:text=NAS(Network%20Attached%20Storage)%EB%8A%94,%EB%98%90%EB%8A%94%20NAS%20%ED%97%A4%EB%93%9C%EB%9D%BC%EA%B3%A0%EB%8F%84%20%ED%95%A9%EB%8B%88%EB%8B%A4)
+- [NAS(Network Attached Storage)](<https://www.ibm.com/kr-ko/topics/network-attached-storage#:~:text=NAS(Network%20Attached%20Storage)%EB%8A%94,%EB%98%90%EB%8A%94%20NAS%20%ED%97%A4%EB%93%9C%EB%9D%BC%EA%B3%A0%EB%8F%84%20%ED%95%A9%EB%8B%88%EB%8B%A4>)
 - [NAS란?](https://sangbeomkim.tistory.com/m/138)
 - [어드민의 생애주기: 왜 필요하고 왜 어려울까](https://blog.selectfromuser.com/next-generation-admin/)
 
@@ -163,7 +163,7 @@
 - [Linux commands you NEED to know! FZF && cat](https://youtube.com/shorts/wYHhCg9jDIo?si=mzI9fNmnFq7dL0Vr)
 - [Linux tools you NEED TO KNOW. FIND && GREP #linux #linuxcommands #programming #coding](https://youtube.com/shorts/shrd1M17Sbo?si=dnpALVkMDWJE5JRF)
 - [Linux commands you NEED TO KNOW. FZF and kill #coding #linuxcommands #linux](https://youtube.com/shorts/iUHfq_JN4G8?si=XJlflaLb2VUa7OLr)
-- []()
+- [[암호학] 암호학의 기본 용어 정리](https://shoark7.github.io/programming/knowledge/basic-terms-for-cryptography)
 - []()
 - []()
 - []()
