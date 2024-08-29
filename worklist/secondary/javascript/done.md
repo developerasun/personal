@@ -332,7 +332,6 @@
 - [MDN docs: yield](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Operators/yield)
 - [Computer Science 의 loop](https://eyabc.github.io/Doc/dev/core-javascript/Async%20Iterator.html#computer-science-%EC%9D%98-loop)
 
-
 </details>
 
 <details>
@@ -402,7 +401,16 @@
 - [객체에서 특정 속성만 제거하기 delete 아님(타입스크립트)](https://youtube.com/shorts/kPHO4bVwF5E?si=4V0MJR-LXXXFMmGI)
 - [디자인 패턴 첫 번째 시간! 팩토리부터 배워보자(factory pattern)](https://youtube.com/shorts/0rN2HUz4oTU?si=zDO-NRSVxghsz0mj)
 - [싱글턴 패턴: 객체를 딱 한 번만 생성하고 싶을 때!!](https://youtube.com/shorts/AdRJvTYkbsY?si=Hy9hDImYkoweMQTp)
-- []()
+
+</details>
+
+<details>
+<summary>September, 2024</summary>
+
+- [pnpm docs: pnpm deploy](https://pnpm.io/cli/deploy)
+- [pnpm docs: filter multiplicity](https://pnpm.io/filtering#multiplicity)
+- [Even if you add a module in the same workspace as a dependency, I cannot import it #4799](https://github.com/orgs/pnpm/discussions/4799)
+- [ERR_PNPM_WORKSPACE_PKG_NOT_FOUND when pnpm install in a workspace with local package #7678](https://github.com/pnpm/pnpm/issues/7678)
 - []()
 - []()
 - []()
