@@ -449,9 +449,13 @@
 - [React - Effect Hook ( Clean-up )](https://velog.io/@enjoywater/React-Effect-Hook-Clean-up)
 - [[React] 제어 컴포넌트(Controlled Component)와 비제어 컴포넌트(Uncontrolled Component)](https://dori-coding.tistory.com/entry/React-%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8Controlled-Component%EC%99%80-%EB%B9%84%EC%A0%9C%EC%96%B4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8Uncontrolled-Component)
 - [React Uncontrolled & Controlled Component, 프로처럼 사용하기](https://blog.leaphop.co.kr/blogs/33/React_Uncontrolled___Controlled_Component__%ED%94%84%EB%A1%9C%EC%B2%98%EB%9F%BC_%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>September, 2024</summary>
+
+- [좋은 UI설계서란 무엇일까?](https://brunch.co.kr/@supernova9/195)
 - []()
 - []()
 - []()

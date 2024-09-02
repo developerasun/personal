@@ -539,7 +539,7 @@
 - [How to answer install question in dockerfile?](https://stackoverflow.com/questions/52257866/how-to-answer-install-question-in-dockerfile)
 - [nixpacks docs: Configuration File Reference](https://nixpacks.com/docs/configuration/file)
 - [github: nixpacks: Support for pnpm v9 #1091](https://github.com/railwayapp/nixpacks/issues/1091)
-- []()
+- [[Docker] 도커 컨테이너 외부 통신: host.docker.internal](https://da2uns2.tistory.com/entry/Docker-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%99%B8%EB%B6%80-%ED%86%B5%EC%8B%A0)
 - []()
 - []()
 - []()

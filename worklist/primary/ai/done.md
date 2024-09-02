@@ -19,6 +19,15 @@
 - [ChatGPT API란?](https://velog.io/@yule/OpenAI-API-%EB%B0%9C%EA%B8%89)
 - [Why does it say "Error: model requires more system memory than is available"?](https://www.reddit.com/r/ollama/comments/1ezle9s/why_does_it_say_error_model_requires_more_system/)
 - [Ollama should error with insufficient system memory and VRAM #4955](https://github.com/ollama/ollama/issues/4955)
+
+</details>
+
+<details>
+<summary>September, 2024</summary>
+
+- [Writing A Webnovel With Chat GPT4](https://www.reddit.com/r/ChatGPT/comments/11viez9/writing_a_webnovel_with_chat_gpt4/)
+- []()
+- []()
 - []()
 - []()
 - []()
