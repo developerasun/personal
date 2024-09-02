@@ -820,6 +820,19 @@
 - [MySQL PARTITION BY Clause](https://www.tutorialspoint.com/mysql-partition-by-clause)
 - [Influxdb 2.0 Doesnt pass token on login #84340](https://github.com/home-assistant/core/issues/84340)
 - [Authorization not found when running influxdb 2.x in compose #23589](https://github.com/influxdata/influxdb/issues/23589)
+
+</details>
+
+<details>
+<summary>September, 2024</summary>
+
+- [influx docs: Query data with Flux](https://docs.influxdata.com/influxdb/cloud/query-data/flux/)
+- [InfluxDB2 "Unauthorized" issue when sending data point to influxdb via apache camel](https://stackoverflow.com/questions/77302912/influxdb2-unauthorized-issue-when-sending-data-point-to-influxdb-via-apache-ca)
+- [influxdb (Authentication)](https://blog.naver.com/theswice/221291716198)
+- [influx docs: Install and use the influx CLI](https://docs.influxdata.com/influxdb/v2/tools/influx-cli/?t=Linux)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
