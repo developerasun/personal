@@ -26,7 +26,7 @@
 <summary>September, 2024</summary>
 
 - [Writing A Webnovel With Chat GPT4](https://www.reddit.com/r/ChatGPT/comments/11viez9/writing_a_webnovel_with_chat_gpt4/)
-- []()
+- [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
 - []()
 - []()
 - []()
