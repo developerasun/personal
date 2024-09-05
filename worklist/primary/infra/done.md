@@ -540,6 +540,19 @@
 - [nixpacks docs: Configuration File Reference](https://nixpacks.com/docs/configuration/file)
 - [github: nixpacks: Support for pnpm v9 #1091](https://github.com/railwayapp/nixpacks/issues/1091)
 - [[Docker] 도커 컨테이너 외부 통신: host.docker.internal](https://da2uns2.tistory.com/entry/Docker-%EB%8F%84%EC%BB%A4-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%99%B8%EB%B6%80-%ED%86%B5%EC%8B%A0)
+
+</details>
+
+<details>
+<summary>September, 2024</summary>
+
+- [Docker 기초 (17) - 도커 컴포즈 Grafana + MySQL 구축](https://velog.io/@ghdud0503/Docker-%EA%B8%B0%EC%B4%88-17-%EB%8F%84%EC%BB%A4-%EC%BB%B4%ED%8F%AC%EC%A6%88-Grafana-MySQL-%EA%B5%AC%EC%B6%95)
+- [grafana docs: Get started with Grafana and InfluxDB](https://grafana.com/docs/grafana/latest/getting-started/get-started-grafana-influxdb/)
+- [New Docker Install with persistent storage, Permission problem](https://community.grafana.com/t/new-docker-install-with-persistent-storage-permission-problem/10896/1)
+- [[Issue 해결] mkdir: can't create directory '/var/lib/grafana/plugins': Permission denied GF_PATHS_DATA='/var/lib/grafana' is not writable.](https://jayoung977.tistory.com/entry/Issue-%ED%95%B4%EA%B2%B0-mkdir-cant-create-directory-varlibgrafanaplugins-Permission-denied-GFPATHSDATAvarlibgrafana-is-not-writable)
+- [Mkdir: can’t create directory ‘/var/lib/grafana/plugins’: Permission denied #51931](https://github.com/grafana/grafana/issues/51931)
+- [Grafana provisioning dashboards in Docker](https://superuser.com/questions/1477291/grafana-provisioning-dashboards-in-docker)
+- []()
 - []()
 - []()
 - []()
