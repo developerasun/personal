@@ -834,6 +834,13 @@
 - [Logging/Grafana Loki 통한 로그 수집하기](https://medium.com/@dudwls96/logging-grafana-loki-%ED%86%B5%ED%95%9C-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91%ED%95%98%EA%B8%B0-d57ba1b75ab3)
 - [influx docs: Compare schemas](https://docs.influxdata.com/influxdb/v2/write-data/best-practices/schema-design/#compare-schemas)
 - [influx docs: Keywords](https://docs.influxdata.com/flux/v0/spec/lexical-elements/#keywords)
+- [bullmq docs: Metrics](https://docs.bullmq.io/guide/metrics)
+- [Is process.on("uncaughtException", ...) good practice?](https://www.reddit.com/r/node/comments/fmyhgb/is_processonuncaughtexception_good_practice/)
+- [How to declare a variable in MySQL?](https://stackoverflow.com/questions/11754781/how-to-declare-a-variable-in-mysql)
+- [Points beyond retention policy dropped for infinite retention policy #15050](https://github.com/influxdata/influxdb/issues/15050)
+- [Promise.race로 타임아웃 기능 만들기](https://youtube.com/shorts/ShHuPrGvrlg?si=o94rMbmvhXuK6sS9)
+- []()
+- []()
 - []()
 - []()
 
