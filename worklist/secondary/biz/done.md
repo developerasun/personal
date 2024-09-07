@@ -6,7 +6,7 @@
 - [Mixpanel in Next 13?](https://www.reddit.com/r/nextjs/comments/169j5h2/mixpanel_in_next_13/)
 - [GA4 vs 믹스패널 vs 앰플리튜드 : 뭐가 다를까요? 차이점 쉽게 이해하기](https://mixpanel.mfitlab.com/blog/2023-09-01-mixpanel-vs-ga4-vs-amplitude)
 - [리텐션을 측정하는 세 가지 방법](https://blog.ab180.co/posts/retention-series-3-1)
-- []()
+- [[Ep6] 개인앱도 데이터를 봐야만 하는 이유📈(w/Amplitude)](https://youtu.be/HLLCpzQgy2g?si=b06pfiMjuZC9_LiB)
 - []()
 - []()
 - []()

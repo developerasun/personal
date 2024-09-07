@@ -27,7 +27,7 @@
 
 - [Writing A Webnovel With Chat GPT4](https://www.reddit.com/r/ChatGPT/comments/11viez9/writing_a_webnovel_with_chat_gpt4/)
 - [Best practices for prompt engineering with the OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-the-openai-api)
-- []()
+- [아빠가 된 개발자는 AI 에이전트를 어떻게 활용할까?](https://youtu.be/-59bKxwir5Q?si=eCdoU8G16HVAF3W8)
 - []()
 - []()
 - []()

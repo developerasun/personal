@@ -164,7 +164,7 @@
 - [Linux tools you NEED TO KNOW. FIND && GREP #linux #linuxcommands #programming #coding](https://youtube.com/shorts/shrd1M17Sbo?si=dnpALVkMDWJE5JRF)
 - [Linux commands you NEED TO KNOW. FZF and kill #coding #linuxcommands #linux](https://youtube.com/shorts/iUHfq_JN4G8?si=XJlflaLb2VUa7OLr)
 - [[암호학] 암호학의 기본 용어 정리](https://shoark7.github.io/programming/knowledge/basic-terms-for-cryptography)
-- []()
+- [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://youtube.com/shorts/UQuKHudhJ84?si=tVajVnWnidm5Di8_)
 - []()
 - []()
 - []()

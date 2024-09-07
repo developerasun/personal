@@ -552,7 +552,7 @@
 - [[Issue 해결] mkdir: can't create directory '/var/lib/grafana/plugins': Permission denied GF_PATHS_DATA='/var/lib/grafana' is not writable.](https://jayoung977.tistory.com/entry/Issue-%ED%95%B4%EA%B2%B0-mkdir-cant-create-directory-varlibgrafanaplugins-Permission-denied-GFPATHSDATAvarlibgrafana-is-not-writable)
 - [Mkdir: can’t create directory ‘/var/lib/grafana/plugins’: Permission denied #51931](https://github.com/grafana/grafana/issues/51931)
 - [Grafana provisioning dashboards in Docker](https://superuser.com/questions/1477291/grafana-provisioning-dashboards-in-docker)
-- []()
+- [Getting started with Grafana Loki - under 4 minutes](https://youtu.be/qE6hEHNH9dE?si=WxqdMV6SD_gIxMUy)
 - []()
 - []()
 - []()
