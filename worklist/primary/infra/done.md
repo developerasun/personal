@@ -553,6 +553,11 @@
 - [Mkdir: can’t create directory ‘/var/lib/grafana/plugins’: Permission denied #51931](https://github.com/grafana/grafana/issues/51931)
 - [Grafana provisioning dashboards in Docker](https://superuser.com/questions/1477291/grafana-provisioning-dashboards-in-docker)
 - [Getting started with Grafana Loki - under 4 minutes](https://youtu.be/qE6hEHNH9dE?si=WxqdMV6SD_gIxMUy)
+- [grafana docs: Promtail and Log Rotation](https://grafana.com/docs/loki/latest/send-data/promtail/logrotation/#promtail-and-log-rotation)
+- [[K8S] Loki 적용해보기](https://velog.io/@sororiri/61pbpv6q)
+- [[로그 분석/시각화 -2] 실제 서비스에 적용해보기(PLG : Promtail / Loki/ Grafana)](https://mag1c.tistory.com/501)
+
+- []()
 - []()
 - []()
 - []()
