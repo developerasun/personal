@@ -165,8 +165,8 @@
 - [Linux commands you NEED TO KNOW. FZF and kill #coding #linuxcommands #linux](https://youtube.com/shorts/iUHfq_JN4G8?si=XJlflaLb2VUa7OLr)
 - [[암호학] 암호학의 기본 용어 정리](https://shoark7.github.io/programming/knowledge/basic-terms-for-cryptography)
 - [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://youtube.com/shorts/UQuKHudhJ84?si=tVajVnWnidm5Di8_)
-- []()
-- []()
+- [케이블을 묶는 최선의 방법 (서버랙 만들기 Ep.2)](https://youtu.be/gg4Gu_CzR-4?si=LoaHduLSCRcGG-21)
+- [들고다니지 않는 외장하드? 시놀로지 NAS로 16TB 개인서버 만들기!(Synology DS218play Unboxing&Setup)](https://youtu.be/T6JMHrgRPzc?si=2pQ_3qe7P-prcdpU)
 - []()
 - []()
 

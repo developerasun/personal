@@ -64,7 +64,7 @@
 - [합법적으로 세금 0원 내는 방법 | 사업자 내기 전이라면 꼭 보세요!](https://youtu.be/A9KpZEuFaaQ?si=ijJq-AfnSIYyxIhJ)
 - [직장인이 사업 할때 챙겨야할 세금 (개인사업자 / 프리랜서 포함)](https://youtu.be/oJceYo3JIJQ?si=GnXZdVdBVFvVmbfm)
 - [35세 전에 창업한 청년 사장님은 소득세 감면받아요](https://finsupport.naver.com/contentsGuide/326)
-- []()
+- [퇴사 후, 아이디어가 돈이 되기까지 걸린 시간은?](https://eopla.net/magazines/20832#)
 - []()
 - []()
 - []()
