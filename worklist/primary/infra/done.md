@@ -556,9 +556,8 @@
 - [grafana docs: Promtail and Log Rotation](https://grafana.com/docs/loki/latest/send-data/promtail/logrotation/#promtail-and-log-rotation)
 - [[K8S] Loki 적용해보기](https://velog.io/@sororiri/61pbpv6q)
 - [[로그 분석/시각화 -2] 실제 서비스에 적용해보기(PLG : Promtail / Loki/ Grafana)](https://mag1c.tistory.com/501)
-
-- []()
-- []()
+- [[Loki] Python으로 Loki에 로그 보내는 방법](https://nyyang.tistory.com/177)
+- [Send logs directly to Loki without use of agents](https://stackoverflow.com/questions/67316535/send-logs-directly-to-loki-without-use-of-agents)
 - []()
 - []()
 
