@@ -458,6 +458,11 @@
 - [좋은 UI설계서란 무엇일까?](https://brunch.co.kr/@supernova9/195)
 - [[Next.js] Not Found Errors / Unexpected Errors 처리하기 - app router](https://velog.io/@mjieun/Next.js-Not-Found-Errors-Unexpected-Errors-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-app-router)
 - [Adding Amplitude Analytics to a NextJS App Tutorial](https://youtu.be/hAhq0uH5Kcc?si=ZeUmAWsmvFxZ1tJe)
+- [7분만에 끝내는 검색엔진 최적화(SEO) 구동 원리](https://youtu.be/i4r1fUeLJcw?si=1K3LT2eJ5BwMWYGX)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 

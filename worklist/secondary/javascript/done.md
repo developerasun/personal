@@ -412,7 +412,7 @@
 - [Even if you add a module in the same workspace as a dependency, I cannot import it #4799](https://github.com/orgs/pnpm/discussions/4799)
 - [ERR_PNPM_WORKSPACE_PKG_NOT_FOUND when pnpm install in a workspace with local package #7678](https://github.com/pnpm/pnpm/issues/7678)
 - [[Javascript][node.js] hash table을 구현](https://medium.com/@clgh0331/javascript-node-js-hash-table%EC%9D%84-%EA%B5%AC%ED%98%84-f1442b24571c)
-- []()
+- [옵저버를 좀 더 유연하고 확장성있게 PubSub 패턴(pubsub design pattern)](https://youtube.com/shorts/bZ6gE3W2CMU?si=JQNwuuuigz8nPwTp)
 - []()
 - []()
 - []()
