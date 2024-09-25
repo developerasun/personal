@@ -558,6 +558,12 @@
 - [[로그 분석/시각화 -2] 실제 서비스에 적용해보기(PLG : Promtail / Loki/ Grafana)](https://mag1c.tistory.com/501)
 - [[Loki] Python으로 Loki에 로그 보내는 방법](https://nyyang.tistory.com/177)
 - [Send logs directly to Loki without use of agents](https://stackoverflow.com/questions/67316535/send-logs-directly-to-loki-without-use-of-agents)
+- [The ins, outs, and benefits of using Grafana Loki as a backend logging solution](https://youtu.be/XIUrxhApTfE?si=02S3faqOEGIteK32)
+- [SQL indexing best practices | How to make your database FASTER!](https://youtu.be/BIlFTFrEFOI?si=zB45lWTcTguRxjNA)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
