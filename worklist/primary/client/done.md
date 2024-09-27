@@ -459,7 +459,7 @@
 - [[Next.js] Not Found Errors / Unexpected Errors 처리하기 - app router](https://velog.io/@mjieun/Next.js-Not-Found-Errors-Unexpected-Errors-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0-app-router)
 - [Adding Amplitude Analytics to a NextJS App Tutorial](https://youtu.be/hAhq0uH5Kcc?si=ZeUmAWsmvFxZ1tJe)
 - [7분만에 끝내는 검색엔진 최적화(SEO) 구동 원리](https://youtu.be/i4r1fUeLJcw?si=1K3LT2eJ5BwMWYGX)
-- []()
+- [Next.Js에 구글 애드센스(Adsense) 등록하기](https://elfinlas.github.io/next-js/230404_nextjs_in_adsense/)
 - []()
 - []()
 - []()

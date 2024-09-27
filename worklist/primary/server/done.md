@@ -846,9 +846,9 @@
 - [Nest.js 리소스 생성 오류 해결 방법](https://velog.io/@modolee/how-to-fix-nestjs-cli-with-typescript-version)
 - [github: bull board: with-nestjs-module](https://github.com/felixmosh/bull-board/tree/master/examples/with-nestjs-module)
 - [Does bull board work with bull mq?](https://www.reddit.com/r/node/comments/1ehhoxh/does_bull_board_work_with_bull_mq/)
-- []()
-- []()
-- []()
+- [nest docs: Server-Sent Events](https://docs.nestjs.com/techniques/server-sent-events)
+- [nest docs: Keep alive connections](https://docs.nestjs.com/faq/keep-alive-connections)
+- [mdn docs: Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
 - []()
 - []()
 
