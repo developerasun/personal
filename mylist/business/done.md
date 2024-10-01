@@ -77,7 +77,7 @@
 - [toss: DSR이란 무엇인가요?](https://service.toss.im/toss-feed/money-tip/external/article?postId=4745&referrer=share&is_retargeting=True&onelinkclid=5a5c6686-a070-4ff4-bffb-2f267a4e79a3&c=conversion_core_performance&pid=referral)
 - [단기임대 #인테리어 #부업 #에어비엔비 저의 요즘 근황이예요:)](https://youtube.com/shorts/DS_OW5GTL8E?si=HZZaCuNG1S47ufJ_)
 - [직장인 사장님 첫 겸업신고](https://youtube.com/shorts/JWqxR4PNAkg?si=E9tdoR945O4rZ9UM)
-- []()
+- [직장인이 후회하지 않으려면 해야할 단 1가지(대기업,전문직도 예외없음)](https://youtu.be/eWEE_E0rUOk?si=4B1Sz5RXZJgwh5oU)
 - []()
 - []()
 - []()

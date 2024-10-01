@@ -460,6 +460,17 @@
 - [Adding Amplitude Analytics to a NextJS App Tutorial](https://youtu.be/hAhq0uH5Kcc?si=ZeUmAWsmvFxZ1tJe)
 - [7분만에 끝내는 검색엔진 최적화(SEO) 구동 원리](https://youtu.be/i4r1fUeLJcw?si=1K3LT2eJ5BwMWYGX)
 - [Next.Js에 구글 애드센스(Adsense) 등록하기](https://elfinlas.github.io/next-js/230404_nextjs_in_adsense/)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [CSS Grid: How do I put everything on a single row?](https://stackoverflow.com/questions/61180545/css-grid-how-do-i-put-everything-on-a-single-row)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
