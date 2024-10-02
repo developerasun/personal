@@ -467,10 +467,10 @@
 <summary>October, 2024</summary>
 
 - [CSS Grid: How do I put everything on a single row?](https://stackoverflow.com/questions/61180545/css-grid-how-do-i-put-everything-on-a-single-row)
-- []()
-- []()
-- []()
-- []()
+- [How I added a sitemap to Next.js website (next-sitemap)](https://youtu.be/zS-6oiwvNnc?si=gBGMSStfPV3eNfuF)
+- [[Next] next-sitemap 사용하기](https://jforj.tistory.com/311)
+- [next docs: Generating a sitemap using code (.js, .ts)](https://nextjs.org/docs/app/api-reference/file-conventions/metadata/sitemap#generating-a-sitemap-using-code-js-ts)
+- [next docs: robots.txt](https://nextjs.org/docs/app/api-reference/file-conventions/metadata/robots)
 - []()
 - []()
 - []()

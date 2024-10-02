@@ -562,6 +562,16 @@
 - [SQL indexing best practices | How to make your database FASTER!](https://youtu.be/BIlFTFrEFOI?si=zB45lWTcTguRxjNA)
 - [How to use S3 as storage for Loki logs?](https://stackoverflow.com/questions/71959031/how-to-use-s3-as-storage-for-loki-logs)
 - [17. 로깅 시스템 구축 – 로키](https://jennifersoft.com/ko/blog/kubernetes/2024-01-17-kubernetes-17/)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [Loki errors when specifying s3 endpoint in its config |WebIdentityErr: failed to retrieve credentials\ncaused by: SerializationError](https://github.com/grafana/loki/issues/12095)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
