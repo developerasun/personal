@@ -569,9 +569,9 @@
 <summary>October, 2024</summary>
 
 - [Loki errors when specifying s3 endpoint in its config |WebIdentityErr: failed to retrieve credentials\ncaused by: SerializationError](https://github.com/grafana/loki/issues/12095)
-- []()
-- []()
-- []()
+- [github: loki: When using single store (tsdb, boltdb-shipper), indexes and chunks are shipped to object storage but queries are (partly) empty](https://github.com/grafana/loki/issues/10529)
+- [github: loki: Storage: Allow setting a constant prefix for all created keys #10096](https://github.com/grafana/loki/pull/10096#issuecomment-1658941838)
+- [사용자 수 모니터링 빠르게 시작하기 (Grafana + Prometheus)](https://solo5star.dev/posts/50/)
 - []()
 - []()
 - []()
