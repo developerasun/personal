@@ -572,7 +572,7 @@
 - [github: loki: When using single store (tsdb, boltdb-shipper), indexes and chunks are shipped to object storage but queries are (partly) empty](https://github.com/grafana/loki/issues/10529)
 - [github: loki: Storage: Allow setting a constant prefix for all created keys #10096](https://github.com/grafana/loki/pull/10096#issuecomment-1658941838)
 - [사용자 수 모니터링 빠르게 시작하기 (Grafana + Prometheus)](https://solo5star.dev/posts/50/)
-- []()
+- [MySQL에서 ZFS 사용 시 고려 사항](https://docs.oracle.com/cd/E56343_01/html/E53992/chapterzfs-db3.html)
 - []()
 - []()
 - []()
