@@ -849,6 +849,19 @@
 - [nest docs: Server-Sent Events](https://docs.nestjs.com/techniques/server-sent-events)
 - [nest docs: Keep alive connections](https://docs.nestjs.com/faq/keep-alive-connections)
 - [mdn docs: Server-sent events](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [[10분 테코톡] 모디의 MySQL의 실행 계획](https://youtu.be/usEsrsaSSuU?si=UV-PPrG7btIGVsX9)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 

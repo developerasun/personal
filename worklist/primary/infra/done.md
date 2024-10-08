@@ -581,6 +581,12 @@
 - [인벤토리 가치 - 게시자 콘텐츠가 없는 화면에 Google 게재 광고 | Google 게시자 정책](https://youtu.be/XRGe72oOmF0?si=pl6TeRDJbYkWO5gU)
 - [RgbitCode 구글 애드센스 승인 / NextJS 에 구글애드센스 컴포넌트화 해서 집어넣는 방법](https://rgbitcode.com/blog/senspond/46)
 - [Google-served ads on screens without publisher-content](https://support.google.com/publisherpolicies/answer/11112688#zippy=%2Ctips-for-understanding-this-policy)
+- [What is SRV in DNS? (service record)](https://youtu.be/XoYPz-3pkEw?si=-l1plDremAa1dwCZ)
+- [TeamCity로 CI/CD 적용하기](https://yuricoding.tistory.com/180#google_vignette)
+- [Storage: Allow setting a constant prefix for all created keys (grafana#10096)](https://github.com/inloco/loki/commit/2065f33e8085d873515ee8e9295750def0f55af8#diff-a0f350ad9b077568317808a605403162b85e380ceb375d220b5c03b7d2cd461fR331)
+- []()
+- []()
+- []()
 - []()
 - []()
 

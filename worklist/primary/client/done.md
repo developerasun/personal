@@ -479,9 +479,9 @@
 - [robots.txt 10분 안에 끝내는 총정리 가이드](https://seo.tbwakorea.com/blog/robots-txt-complete-guide/)
 - [HTML <ins> 태그 – 올바른 이해와 사용 방법](https://codingeverybody.kr/html-ins-%ED%83%9C%EA%B7%B8/)
 - [[Next.js] Google AdSense 광고 적용 및 이해하기](https://1ilsang.dev/posts/google-adsense)
-- []()
-- []()
-- []()
+- [Javascript enter key pressed event alternative for mobile site](https://stackoverflow.com/questions/16317293/javascript-enter-key-pressed-event-alternative-for-mobile-site)
+- [CSS: inset 에 대해 알아보자.](https://velog.io/@planic324/CSS-inset-%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- [나는 분명 inset을 사용한 적이 없는데 CSS 출력물에 inset이 들어있던 건에 대해서](https://nabigraphics.medium.com/%EB%82%98%EB%8A%94-%EB%B6%84%EB%AA%85-inset%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-%EC%A0%81%EC%9D%B4-%EC%97%86%EB%8A%94%EB%8D%B0-css-%EC%B6%9C%EB%A0%A5%EB%AC%BC%EC%97%90-inset%EC%9D%B4-%EB%93%A4%EC%96%B4%EC%9E%88%EB%8D%98-%EA%B1%B4%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-97ed9c52ae33)
 - []()
 - []()
 
