@@ -856,12 +856,15 @@
 <summary>October, 2024</summary>
 
 - [[10분 테코톡] 모디의 MySQL의 실행 계획](https://youtu.be/usEsrsaSSuU?si=UV-PPrG7btIGVsX9)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [[MySQL] MySQL Variables(변수) 만들기](https://velog.io/@inyong_pang/MySQL-MySQL-variables%EB%B3%80%EC%88%98-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EC%9D%91%EC%9A%A9%ED%95%98%EA%B8%B0getidPK)
+- [[삼쾌한 IT강의] MySQL 변수 종류 및 사용법](https://three-pleasure.tistory.com/256)
+- [[MYSQL] 📚 LIMIT / OFFSET 쿼리](https://inpa.tistory.com/entry/MYSQL-%F0%9F%93%9A-LIMIT-OFFSET)
+- [Can I use MySQL functions in the LIMIT offset](https://stackoverflow.com/questions/33168004/can-i-use-mysql-functions-in-the-limit-offset)
+- [[MySQL] LIMIT / OFFSET 쿼리(페이징처리)](https://codingpool.tistory.com/95)
+- [http의 개념(keep-alive, connectless, 응답 헤더, 요청 헤더)](https://joosjuliet.github.io/http/)
+- [node docs: server.keepAliveTimeout](https://nodejs.org/api/http.html#serverkeepalivetimeout)
+- [nest docs: Keep alive connections](https://docs.nestjs.com/faq/keep-alive-connections)
+- [NestJS 혹은 Express에서 간헐적으로 502 응답이 오는 경우](https://velog.io/@dramatic/NestJS-%ED%98%B9%EC%9D%80-Express%EC%97%90%EC%84%9C-%EA%B0%84%ED%97%90%EC%A0%81%EC%9C%BC%EB%A1%9C-502-%EC%9D%91%EB%8B%B5%EC%9D%B4-%EC%98%A4%EB%8A%94-%EA%B2%BD%EC%9A%B0)
 - []()
 - []()
 
