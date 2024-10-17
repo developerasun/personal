@@ -865,6 +865,11 @@
 - [node docs: server.keepAliveTimeout](https://nodejs.org/api/http.html#serverkeepalivetimeout)
 - [nest docs: Keep alive connections](https://docs.nestjs.com/faq/keep-alive-connections)
 - [NestJS 혹은 Express에서 간헐적으로 502 응답이 오는 경우](https://velog.io/@dramatic/NestJS-%ED%98%B9%EC%9D%80-Express%EC%97%90%EC%84%9C-%EA%B0%84%ED%97%90%EC%A0%81%EC%9C%BC%EB%A1%9C-502-%EC%9D%91%EB%8B%B5%EC%9D%B4-%EC%98%A4%EB%8A%94-%EA%B2%BD%EC%9A%B0)
+- [스트레스 테스트 (feat.connection pool)](https://velog.io/@daechan_jo/%EC%84%B1%EB%8A%A5%ED%85%8C%EC%8A%A4%ED%8A%B8-feat.connection-pool)
+- [[MySQL] LOCK 확인 및 해제 방법](https://velog.io/@joney0715/SQL-LOCK-%ED%99%95%EC%9D%B8-%EB%B0%8F-%ED%95%B4%EC%A0%9C-%EB%B0%A9%EB%B2%95)
+- [Mysql (Maria) Db 테이블락 확인하고 강제중지 방법.](https://hjjungdev.tistory.com/153)
+- [프로그래머 면접 질문: 디바운싱과 쓰로틀링을 설명하시오!](https://youtube.com/shorts/p718CsWuu_8?si=D96rpztbWIkE2wVM)
+- [프로그래머 면접 질문: 액세스토큰과 리프레시토큰을 설명하시오!](https://youtube.com/shorts/MfnWSNWiiUw?si=9U2WAuV6YQ1_1sSU)
 - []()
 - []()
 
