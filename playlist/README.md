@@ -175,8 +175,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [레드벨벳 웬디 독무대](https://youtube.com/shorts/iJGDdsezj7Y?si=kQPssvSFnfJVz1fA)
 1. [Momoland (모모랜드) – Bboom Bboom (뿜뿜) Lyrics (Han|Rom|Eng|Color Coded)](https://youtu.be/cMl9_IixsGk?si=AJ409pGnEKODJ9nE)
 1. [BAP - 대박사건](https://youtu.be/edsYWXnR2bc?si=Q9rJHKXZx8xKvqFB)
-1. []()
-1. []()
+1. [DAY6(데이식스) - 한 페이지가 될 수 있게 [가사/Lyrics]](https://youtu.be/oYvgISKD5Y8?si=0pRh4ByGG1-Yf4Ex)
+1. [QWER - Discord (디스코드) [가사/Lyrics]](https://youtu.be/m_1swoaL1SA?si=LMOns6zxf_yXyQp2)
 1. []()
 
 ### UFO - Unidentified Fucking good songs On my mind
@@ -195,6 +195,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [창모 (CHANGMO) - 태지 [UNDERGROUND ROCKSTAR]ㅣLyrics/가사](https://youtu.be/YMdiuSkKSbI?si=8amZOGGvsX6sx_Wk)
 1. [전투력 상승하는 노래 The Score - Enemies [가사/해석/lyrics]](https://youtu.be/QgD4alRSRSM?si=MJHdlSNNCjaJU9fc)
 1. [영웅이 될 수 없으면 그냥 악당이 될래 [𝐏𝐋𝐀𝐘𝐋𝐈𝐒𝐓][치명적인 팝송]](https://youtu.be/UWFPuiFmyYk?si=YGtqH_4ns9pWsPp4)
+1. [Why don't we - Fallin' (Adrenaline) 1 hour with lyrics [가사/해석]](https://youtu.be/oF47_ZU3Tik?si=Wr7piiL-7fqJBdD2)
+1. []()
+1. []()
 1. []()
 1. []()
 
