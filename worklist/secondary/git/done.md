@@ -188,6 +188,15 @@
 <summary>July, 2024</summary>
 
 - [사내 비공개 라이브러리를 github packages를 통해 배포하고 자동화까지 해보자 (a — z)](https://medium.com/@cksal4785911/%EC%82%AC%EB%82%B4-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-github-packages%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0-%EC%9E%90%EB%8F%99%ED%99%94%EA%B9%8C%EC%A7%80-%ED%95%B4%EB%B3%B4%EC%9E%90-a-z-e2ea3cc97eb3)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [How can I revert multiple Git commits?](https://stackoverflow.com/questions/1463340/how-can-i-revert-multiple-git-commits)
+- [Git에서 커밋 되돌리기 - 마지막 커밋을 취소하는 방법](https://www.freecodecamp.org/korean/news/giteseo-keomis-doedolrigi-majimag-keomiseul-cwisohaneun-bangbeob/)
+- []()
 - []()
 - []()
 - []()
