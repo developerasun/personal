@@ -490,9 +490,15 @@
 - [Just stackoverflow error #coding #programming #javascript #python](https://www.youtube.com/shorts/J1PghkRp_Cc)
 - [Download Any File From URL in HTML and JavaScript](https://www.youtube.com/shorts/PG-F6qwptoM)
 - [How do I do a single row, vertically centered, layout in CSS grid?](https://stackoverflow.com/questions/50801447/how-do-i-do-a-single-row-vertically-centered-layout-in-css-grid)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [HTTP multipart/form-data 이해하기](https://lena-chamna.netlify.app/post/http_multipart_form-data/)
+- [HTTP multipart/form-data 란?](https://velog.io/@shin6403/HTTP-multipartform-data-%EB%9E%80)
+- [위키백과: 바이너리 라지 오브젝트](https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC_%EB%9D%BC%EC%A7%80_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
 - []()
 - []()
 - []()

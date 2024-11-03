@@ -870,6 +870,19 @@
 - [Mysql (Maria) Db 테이블락 확인하고 강제중지 방법.](https://hjjungdev.tistory.com/153)
 - [프로그래머 면접 질문: 디바운싱과 쓰로틀링을 설명하시오!](https://youtube.com/shorts/p718CsWuu_8?si=D96rpztbWIkE2wVM)
 - [프로그래머 면접 질문: 액세스토큰과 리프레시토큰을 설명하시오!](https://youtube.com/shorts/MfnWSNWiiUw?si=9U2WAuV6YQ1_1sSU)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [nest docs: File upload](https://docs.nestjs.com/techniques/file-upload)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
