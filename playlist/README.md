@@ -177,6 +177,15 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [BAP - 대박사건](https://youtu.be/edsYWXnR2bc?si=Q9rJHKXZx8xKvqFB)
 1. [DAY6(데이식스) - 한 페이지가 될 수 있게 [가사/Lyrics]](https://youtu.be/oYvgISKD5Y8?si=0pRh4ByGG1-Yf4Ex)
 1. [QWER - Discord (디스코드) [가사/Lyrics]](https://youtu.be/m_1swoaL1SA?si=LMOns6zxf_yXyQp2)
+1. [BLACKPINK (블랙핑크) - 불장난 (PLAYING WITH FIRE) (Color Coded Lyrics Eng/Rom/Han/가사)](https://youtu.be/1gIRJ7nggLQ?si=Zhg9YXdduNQ4KiZ_)
+1. [TimeFeveR(타임피버) - 비트코인 (Prod. HOWOW) Official MV [ENG/JP]](https://youtu.be/YVRym_-pAxw?si=WZ7uce7HZt297eg6)
+1. [타임피버(TimeFeveR) - 현실창조 | 가사 (Lyrics)](https://youtu.be/lipLw21MsHY?si=Hqlk_LN_w6j5N7rz)
+1. [타임피버(TimeFeveR) - 빌어먹을 | 가사 (Lyrics)](https://youtu.be/q3C0GjgGDcg?si=2QDtHNheruSbgNGl)
+1. [BLACKPINK Lovesick Girls Lyrics (블랙핑크 Lovesick Girls 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/G8tl5az_W-c?si=fTLpzCfK4n42gkNr)
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 
 ### UFO - Unidentified Fucking good songs On my mind
