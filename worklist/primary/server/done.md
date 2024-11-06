@@ -877,8 +877,15 @@
 <summary>October, 2024</summary>
 
 - [nest docs: File upload](https://docs.nestjs.com/techniques/file-upload)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>November, 2024</summary>
+
+- [paypal community: parter fee](https://www.paypal-community.com/t5/Transactions-Archives/Partner-fee/td-p/1590541)
+- [Drop Column from Large Table](https://stackoverflow.com/questions/23173789/drop-column-from-large-table)
+- [Update mysql big table hang too time](https://stackoverflow.com/questions/31030368/update-mysql-big-table-hang-too-time)
 - []()
 - []()
 - []()
