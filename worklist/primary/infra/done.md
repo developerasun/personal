@@ -586,6 +586,19 @@
 - [Storage: Allow setting a constant prefix for all created keys (grafana#10096)](https://github.com/inloco/loki/commit/2065f33e8085d873515ee8e9295750def0f55af8#diff-a0f350ad9b077568317808a605403162b85e380ceb375d220b5c03b7d2cd461fR331)
 - [LocalStack 활용한 AWS 테스트 환경 구성하기](https://medium.com/@dudwls96/localstack-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-9b81ec51749c)
 - [Localstack 을 활용한 AWS 인프라 통합테스트](https://tech.inflab.com/202202-integration-test-with-localstack/)
+
+</details>
+
+<details>
+<summary>Nov, 2024</summary>
+
+- [caddy docs: Wildcard certificates](https://caddyserver.com/docs/caddyfile/patterns#wildcard-certificates)
+- [Caddy에서 Cloudflare를 이용한 와일드카드 인증서 사용하기.](https://svrforum.com/docker/726538)
+- [Caddy local certificates expiration](https://caddy.community/t/caddy-local-certificates-expiration/15518)
+- [caddy docs: tls internal](https://caddyserver.com/docs/caddyfile/directives/tls#internal)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
