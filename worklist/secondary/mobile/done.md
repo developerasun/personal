@@ -77,6 +77,14 @@
 
 - [React-native에서 webview를 사용할 경우 푸쉬알람을 구현할 수 있을까요?](https://okky.kr/questions/1101400)
 - [React Native WebView Component // Masterclass](https://youtu.be/d5fMOEodxc4?si=Km-mo4BIBMAN656f)
+
+</details>
+
+<details>
+<summary>November, 2024</summary>
+
+- [안드로이드 추천인 기능 어떻게 구현하나요.](https://okky.kr/questions/462390)
+- []()
 - []()
 - []()
 

@@ -274,7 +274,7 @@
 - [How to store NFT metadata URI in ERC1155 Solidity 🧐](https://youtu.be/19SSvs32m8I?si=D2HsksCI6K42N8EC)
 - [Etherscan showing 0 holders](https://ethereum.stackexchange.com/questions/85320/etherscan-showing-0-holders)
 - [How is the Etherscan TokenTracker able to show holder balances?](https://ethereum.stackexchange.com/questions/40023/how-is-the-etherscan-tokentracker-able-to-show-holder-balances)
-- []()
+- [이더리움, '펙트라(Pectra) 업그레이드'로 70% 상승 촉발 가능성](https://m.coinreaders.com/130831)
 - []()
 - []()
 - []()
