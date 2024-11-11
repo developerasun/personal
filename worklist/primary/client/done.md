@@ -501,6 +501,18 @@
 - [위키백과: 바이너리 라지 오브젝트](https://ko.wikipedia.org/wiki/%EB%B0%94%EC%9D%B4%EB%84%88%EB%A6%AC_%EB%9D%BC%EC%A7%80_%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8)
 - [[NextJS] Lottie를 사용해 보자!](https://velog.io/@seola1ne/NextJS-Lottie%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B3%B4%EC%9E%90)
 - [Nextjs 에서 gif 호출 시 500 error 발생하는 문제](https://sig03.medium.com/nextjs-%EC%97%90%EC%84%9C-gif-%ED%98%B8%EC%B6%9C-%EC%8B%9C-500-error-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EB%AC%B8%EC%A0%9C-37ecaefaec23)
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [next docs: remotePatterns](https://nextjs.org/docs/pages/api-reference/components/image#remotepatterns)
+- [next docs: Type checking next.config.ts](https://nextjs.org/docs/pages/api-reference/config/typescript#type-checking-nextconfigts)
+- [vercel github: next.config.ts #35969](https://github.com/vercel/next.js/discussions/35969)
+- [[next.js] 외부 이미지 불러오는 방법](https://velog.io/@acwell94/next.js-%EC%99%B8%EB%B6%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- []()
+- []()
 - []()
 - []()
 - []()
