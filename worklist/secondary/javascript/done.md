@@ -419,8 +419,13 @@
 <summary>October, 2024</summary>
 
 - [npm scripts pre post](https://chinsun9.github.io/2021/09/09/npm-scripts-pre-post/)
-- []()
-- []()
+
+</details>
+
+<summary>October, 2024</summary>
+
+- [dotenvx docs: Add Encryption](https://dotenvx.com/docs/quickstart#add-encryption)
+- [Shared code/types between frontend and nodejs backend in monorepo](https://www.reddit.com/r/typescript/comments/e9qsg2/shared_codetypes_between_frontend_and_nodejs/)
 - []()
 - []()
 - []()

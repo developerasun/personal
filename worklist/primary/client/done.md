@@ -511,7 +511,13 @@
 - [next docs: Type checking next.config.ts](https://nextjs.org/docs/pages/api-reference/config/typescript#type-checking-nextconfigts)
 - [vercel github: next.config.ts #35969](https://github.com/vercel/next.js/discussions/35969)
 - [[next.js] 외부 이미지 불러오는 방법](https://velog.io/@acwell94/next.js-%EC%99%B8%EB%B6%80-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%88%EB%9F%AC%EC%98%A4%EB%8A%94-%EB%B0%A9%EB%B2%95)
-- []()
+
+</details>
+
+<details>
+<summary>October, 2024</summary>
+
+- [mdn docs: <object> 로부터 <iframe>까지 — 기타 임베딩 기술](https://developer.mozilla.org/ko/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 - []()
 - []()
 - []()

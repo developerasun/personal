@@ -907,7 +907,7 @@
 - [Minio: Render images in browser](https://stackoverflow.com/questions/63700504/minio-render-images-in-browser)
 - [Upload and Retrieve Images by Integrating MinIO With NestJS](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d)
 - [[MYSQL] JSON_EXTRACT 사용하기](https://dbaant.tistory.com/4#google_vignette)
-- []()
+- [github: NestJS Throttler Redis Storage](https://github.com/jmcdo29/nest-lab/tree/main/packages/throttler-storage-redis)
 - []()
 - []()
 - []()
