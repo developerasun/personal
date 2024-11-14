@@ -84,7 +84,7 @@
 <summary>November, 2024</summary>
 
 - [안드로이드 추천인 기능 어떻게 구현하나요.](https://okky.kr/questions/462390)
-- []()
+- [스플래시 화면, 왜 중요하고 어떻게 구성하면 좋을까?](https://blog.wishket.com/%EC%8A%A4%ED%94%8C%EB%9E%98%EC%8B%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%ED%95%A0%EA%B9%8C/)
 - []()
 - []()
 

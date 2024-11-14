@@ -908,9 +908,9 @@
 - [Upload and Retrieve Images by Integrating MinIO With NestJS](https://betterprogramming.pub/upload-and-retrieve-images-by-integrating-minio-with-nestjs-419e4e629b5d)
 - [[MYSQL] JSON_EXTRACT 사용하기](https://dbaant.tistory.com/4#google_vignette)
 - [github: NestJS Throttler Redis Storage](https://github.com/jmcdo29/nest-lab/tree/main/packages/throttler-storage-redis)
-- []()
-- []()
-- []()
+- [Redis Sorted Set을 이용한 랭킹 관리](https://medium.com/sjk5766/redis-sorted-set%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%9E%AD%ED%82%B9-%EA%B4%80%EB%A6%AC-38d28712a8b9)
+- [redis docs: ZCARD](https://redis.io/docs/latest/commands/zcard/)
+- [nest docs: Middleware](https://docs.nestjs.com/middleware)
 - []()
 - []()
 

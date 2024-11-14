@@ -281,7 +281,7 @@
 - [Hardhat vs Foundry: Choosing the Right Ethereum Development Tool](https://metamask.io/news/developers/hardhat-vs-foundry-choosing-the-right-ethereum-development-tool/)
 - [플래시 론의 의미](https://www.ledger.com/ko/academy/glossary/flash-loan)
 - [베스팅의 의미](https://www.ledger.com/ko/academy/glossary/%EB%B2%A0%EC%8A%A4%ED%8C%85)
-- []()
+- [ERC-4626 알아보기](https://medium.com/@aiden.p/erc-4626-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8ed6d514e22e)
 - []()
 - []()
 - []()

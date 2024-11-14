@@ -167,6 +167,17 @@
 - [개발자도구가 열려도 안전한 사이트를 만듭시다!!!](https://youtube.com/shorts/UQuKHudhJ84?si=tVajVnWnidm5Di8_)
 - [케이블을 묶는 최선의 방법 (서버랙 만들기 Ep.2)](https://youtu.be/gg4Gu_CzR-4?si=LoaHduLSCRcGG-21)
 - [들고다니지 않는 외장하드? 시놀로지 NAS로 16TB 개인서버 만들기!(Synology DS218play Unboxing&Setup)](https://youtu.be/T6JMHrgRPzc?si=2pQ_3qe7P-prcdpU)
+
+</details>
+
+<details>
+<summary>November, 2024</summary>
+
+- [💠 옵저버(Observer) 패턴 - 완벽 마스터하기](https://inpa.tistory.com/entry/GOF-%F0%9F%92%A0-%EC%98%B5%EC%A0%80%EB%B2%84Observer-%ED%8C%A8%ED%84%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
