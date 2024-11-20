@@ -196,6 +196,13 @@
 
 - [How can I revert multiple Git commits?](https://stackoverflow.com/questions/1463340/how-can-i-revert-multiple-git-commits)
 - [Git에서 커밋 되돌리기 - 마지막 커밋을 취소하는 방법](https://www.freecodecamp.org/korean/news/giteseo-keomis-doedolrigi-majimag-keomiseul-cwisohaneun-bangbeob/)
+
+</details>
+
+<details>
+<summary>November, 2024</summary>
+
+- [[Git] git stash 사용해 변경 사항 저장하고 꺼내기](https://kotlinworld.com/279)
 - []()
 - []()
 - []()
