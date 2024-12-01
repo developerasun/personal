@@ -916,6 +916,13 @@
 - [[MYSQL] 실행쿼리 강제 종료 (KILL)](https://hotinme35.tistory.com/13)
 - [[Mysql] INFORMATION_SCHEMA 중 TABLES 및 COLUMNS 정보 조회](https://antimidal.tistory.com/6)
 - [[MySQL]information_schema란 ? (정의 및 테이블 종류)](https://rk1993.tistory.com/230)
+
+</details>
+
+<details>
+<summary>December, 2024</summary>
+
+- [Paypal Business account for Freelancers in India: Step-by-Step](https://wise.com/in/blog/paypal-business-account-for-freelancers?utm_source=chatgpt.com)
 - []()
 - []()
 - []()
