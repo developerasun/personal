@@ -518,7 +518,12 @@
 <summary>October, 2024</summary>
 
 - [mdn docs: <object> 로부터 <iframe>까지 — 기타 임베딩 기술](https://developer.mozilla.org/ko/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
-- []()
+
+</details>
+
+<details>
+<summary>December, 2024</summary>
+
 - []()
 - []()
 - []()

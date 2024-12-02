@@ -426,8 +426,13 @@
 
 - [dotenvx docs: Add Encryption](https://dotenvx.com/docs/quickstart#add-encryption)
 - [Shared code/types between frontend and nodejs backend in monorepo](https://www.reddit.com/r/typescript/comments/e9qsg2/shared_codetypes_between_frontend_and_nodejs/)
-- []()
-- []()
+
+</details>
+
+<summary>November, 2024</summary>
+
+- [padStart와 padEnd 사용하기](https://velog.io/@suld2495/padStart%EC%99%80-padEnd-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [mdn docs: String.prototype.padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
 - []()
 - []()
 - []()

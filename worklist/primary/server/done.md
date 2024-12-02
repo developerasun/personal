@@ -923,9 +923,9 @@
 <summary>December, 2024</summary>
 
 - [Paypal Business account for Freelancers in India: Step-by-Step](https://wise.com/in/blog/paypal-business-account-for-freelancers?utm_source=chatgpt.com)
-- []()
-- []()
-- []()
+- [github: nest websocket example](https://github.com/stuyy/nestjs-websocket-gateway-example/)
+- [zsh: no matches found when $ curl -s -X localhost:60702/api/bundle?name=light%20reading | j q '.'](https://stackoverflow.com/questions/52467094/zsh-no-matches-found-when-curl-s-x-localhost60702-api-bundlename-light20)
+- [MiniSearch docs: use case](https://lucaong.github.io/minisearch/#md:usage)
 - []()
 - []()
 - []()
