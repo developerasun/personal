@@ -145,7 +145,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 "이 노래 어디서 찾았어?" 틀기만 하면 옆에서 다 물어봐요 😌🎧 도입부터 너무 좋은 팝송 모음](https://youtu.be/y6h9cUw7Xw4?si=rC1dhSrCK_oM0ozt)
 1. [Paul Russell - Lil Boo Thang (Lyric Video)](https://youtu.be/MoCaWpRAkVA?si=I1SisxhbJm7CaRj_)
 1. [DEAMN - Save Me (Full Album) 1 Hour](https://youtu.be/8gdjpa2KWpI?si=6CivyxYnEyiN4rfB)
-1. []()
+1. [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?si=DyfZzO38JdjDjhmA)
 1. []()
 1. []()
 
@@ -182,6 +182,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [타임피버(TimeFeveR) - 현실창조 | 가사 (Lyrics)](https://youtu.be/lipLw21MsHY?si=Hqlk_LN_w6j5N7rz)
 1. [타임피버(TimeFeveR) - 빌어먹을 | 가사 (Lyrics)](https://youtu.be/q3C0GjgGDcg?si=2QDtHNheruSbgNGl)
 1. [BLACKPINK Lovesick Girls Lyrics (블랙핑크 Lovesick Girls 가사) [Color Coded Lyrics/Han/Rom/Eng]](https://youtu.be/G8tl5az_W-c?si=fTLpzCfK4n42gkNr)
+1. [[Playlist] 에라 모르겠다 오늘은 빅뱅이다 | The Ultimate BIGBANG Playlist](https://youtu.be/OsA3iPO2fEg?si=TlFI-hjAbzK0-nQf)
+1. []()
 1. []()
 1. []()
 1. []()
