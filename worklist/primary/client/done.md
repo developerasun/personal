@@ -524,7 +524,7 @@
 <details>
 <summary>December, 2024</summary>
 
-- []()
+- [next docs: Image component: fill](https://nextjs.org/docs/app/api-reference/components/image#fill)
 - []()
 - []()
 - []()
