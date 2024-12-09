@@ -525,8 +525,12 @@
 <summary>December, 2024</summary>
 
 - [next docs: Image component: fill](https://nextjs.org/docs/app/api-reference/components/image#fill)
-- []()
-- []()
+- [[SWR] useSWR에서 fetching data를 caching 하는 조건](https://velog.io/@with-key/SWR-useSWR%EC%97%90%EC%84%9C-fetching-data%EB%A5%BC-caching-%ED%95%98%EB%8A%94-%EC%A1%B0%EA%B1%B4)
+- [swr docs: Combining with isLoading and isValidating for better UX](https://swr.vercel.app/docs/advanced/understanding#combining-with-isloading-and-isvalidating-for-better-ux)
+- [swr docs: Revalidate on Mount](https://swr.vercel.app/docs/revalidation#revalidate-on-mount)
+- [swr docs: Revalidate on Interval](https://swr.vercel.app/docs/revalidation#revalidate-on-interval)
+- [토스 - 금융을 즐겁고 쉬운 경험으로 만드는 법](https://lottiefiles.com/kr/case-studies/toss)
+- [swr docs: Modify the Cache Data](https://swr.vercel.app/ko/docs/advanced/cache#modify-the-cache-data)
 - []()
 - []()
 - []()

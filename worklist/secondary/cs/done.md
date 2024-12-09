@@ -174,9 +174,14 @@
 <summary>November, 2024</summary>
 
 - [💠 옵저버(Observer) 패턴 - 완벽 마스터하기](https://inpa.tistory.com/entry/GOF-%F0%9F%92%A0-%EC%98%B5%EC%A0%80%EB%B2%84Observer-%ED%8C%A8%ED%84%B4-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>December, 2024</summary>
+
+- [linux command to get size of files and directories present in a particular folder? [closed]](https://stackoverflow.com/questions/11720079/linux-command-to-get-size-of-files-and-directories-present-in-a-particular-folde)
+- [메이크(Make) 자동화 사용법 | AI시대 자동화 시작하기 단계별 가이드](https://www.magicaiprompts.com/blog/make-com-usage-guide-ai-era-automation#google_vignette)
 - []()
 - []()
 - []()
