@@ -596,9 +596,13 @@
 - [Caddy에서 Cloudflare를 이용한 와일드카드 인증서 사용하기.](https://svrforum.com/docker/726538)
 - [Caddy local certificates expiration](https://caddy.community/t/caddy-local-certificates-expiration/15518)
 - [caddy docs: tls internal](https://caddyserver.com/docs/caddyfile/directives/tls#internal)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>Dec, 2024</summary>
+
+- [SMTP의 보안 시스템 :: SPF, DKIM, DMARC 란?](https://firecatlibrary.tistory.com/135)
 - []()
 - []()
 - []()

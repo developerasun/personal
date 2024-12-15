@@ -182,6 +182,10 @@
 
 - [linux command to get size of files and directories present in a particular folder? [closed]](https://stackoverflow.com/questions/11720079/linux-command-to-get-size-of-files-and-directories-present-in-a-particular-folde)
 - [메이크(Make) 자동화 사용법 | AI시대 자동화 시작하기 단계별 가이드](https://www.magicaiprompts.com/blog/make-com-usage-guide-ai-era-automation#google_vignette)
+- [더 이상 외면할 수 없는 양자컴퓨터](https://yozm.wishket.com/magazine/detail/2888/?utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()

@@ -146,6 +146,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Paul Russell - Lil Boo Thang (Lyric Video)](https://youtu.be/MoCaWpRAkVA?si=I1SisxhbJm7CaRj_)
 1. [DEAMN - Save Me (Full Album) 1 Hour](https://youtu.be/8gdjpa2KWpI?si=6CivyxYnEyiN4rfB)
 1. [Katy Perry - Dark Horse ft. Juicy J](https://youtu.be/0KSOMA3QBU0?si=DyfZzO38JdjDjhmA)
+1. [Reiley - Let It Ring (Lyrics)](https://youtu.be/XvU9TFTH2SA?si=fg9-wWSanjTPdqkB)
+1. [Señorita - Shawn Mendes [Lyrics] | Ed Sheeran, One Direction, Ali Gatie](https://youtu.be/9N2LvG1dArA?si=LRQeIPQ965OOnMXT)
+1. []()
+1. []()
 1. []()
 1. []()
 

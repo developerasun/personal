@@ -312,7 +312,7 @@
 - [월드코인 홍채인식 90만원 에어드랍 받는 방법](https://contents.premium.naver.com/gjoker/cryptodinolab/contents/240219041648859vb)
 - [ERC-7621: Basket Token](https://eips.ethereum.org/EIPS/eip-7621)
 - [ledger academy: 비수탁형 지갑의 의미](https://www.ledger.com/ko/academy/glossary/non-custodial-wallet)
-- []()
+- [Floki, Mastercard launch 13-crypto debit card in Europe](https://cointelegraph.com/news/floki-mastercard-launch-13-crypto-debit-card-europe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound)
 - []()
 - []()
 - []()
