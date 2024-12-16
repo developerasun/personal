@@ -951,7 +951,11 @@
 - [NestJS Interceptor와 Lifecycle](https://blog-ko.superb-ai.com/nestjs-interceptor-and-lifecycle/)
 - [nest docs: Exception filters](https://docs.nestjs.com/exception-filters#built-in-http-exceptions)
 - [nest docs: Custom route decorators](https://docs.nestjs.com/custom-decorators)
-- []()
+- [NESTJS를 배워보자(10) - Interceptors](https://velog.io/@cxzaqq/NESTJS%EB%A5%BC-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%9010-Interceptors)
+- [How to use Nest.js's @Headers properly?](https://stackoverflow.com/questions/54081720/how-to-use-nest-jss-headers-properly)
+- [nest docs: custom decorator: Passing data#](https://docs.nestjs.com/custom-decorators#passing-data)
+- [rxjs docs: Purity](https://rxjs.dev/guide/overview#purity)
+- [rxjs docs: Observable](https://rxjs.dev/guide/observable)
 - []()
 - []()
 
