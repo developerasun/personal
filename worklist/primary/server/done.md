@@ -956,6 +956,10 @@
 - [nest docs: custom decorator: Passing data#](https://docs.nestjs.com/custom-decorators#passing-data)
 - [rxjs docs: Purity](https://rxjs.dev/guide/overview#purity)
 - [rxjs docs: Observable](https://rxjs.dev/guide/observable)
+- [Redis 특정 인덱스 전체 데이터(키) 삭제 FLUSHDB / FLUSHALL / 주의사항 / 빠르게 삭제하기](https://sbarrys.tistory.com/216)
+- [Redis: Delete All Keys – Redis-CLI](https://www.shellhacks.com/redis-delete-all-keys-redis-cli/)
+- [mdn docs: Accept-Language](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Accept-Language)
+- []()
 - []()
 - []()
 
