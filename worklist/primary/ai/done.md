@@ -51,9 +51,9 @@
 - ["Torch is not able to use GPU"](https://www.reddit.com/r/StableDiffusion/comments/z6nkh0/torch_is_not_able_to_use_gpu/)
 - [구글 코랩에 스테이블 디퓨전 모델 파일 추가 | Google Colb에 Stable Diffusion Web UI 모델 파일 설치 | 스테이블 디퓨전 사용법](https://youtu.be/CpCNbh8wLR0?si=vU_RH3Z8hto2hZNg)
 - [[무료/초보] 스테이블 디퓨전 웹UI를 구글 코랩에 설치하기 | Google Colb에 Stable Diffusion Web UI 설치 하기 A-Z | 스테이블 디퓨전 사용법](https://youtu.be/aqwGPLlEKCI?si=tU6SElhnj64NtPXB)
-- []()
-- []()
-- []()
-- []()
+- [숏폼이 대세인 건 알겠는데 AI로 만든 쇼츠도 수익화가 가능한가요? ](https://typecast.ai/kr/learn/is-it-okay-to-make-videos-with-ai-when-uploading-on-youtube/)
+- [유튜브, 쇼츠에 AI 동영상 제작 기능 추가…올해 안에 지원](https://www.yna.co.kr/view/AKR20240919012400075)
+- [최신 AI 쇼츠 제작 방법 완벽 가이드 | AI 쇼츠 만들기](https://blog.kooky-ai.com/ai-%EC%87%BC%EC%B8%A0-%EC%9E%90%EB%8F%99%ED%99%94-%EC%9C%A0%EB%A3%8C%EA%B0%95%EC%9D%98-19836)
+- [NVIDIA unveils its most affordable tiny supercomputer](https://youtube.com/shorts/rT_bOEzCz74?si=XCPYfkBnletsiBbr)
 
 </details>
