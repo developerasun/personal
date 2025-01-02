@@ -969,3 +969,17 @@
 - []()
 
 </details>
+
+<details>
+<summary>Jan, 2025</summary>
+
+- [TTL in seconds - fractional seconds support #2359](https://github.com/phpredis/phpredis/issues/2359)
+- [[MySQL] JSON 데이터 조회](https://velog.io/@rudnf003/MySQL-JSON-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>

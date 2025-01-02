@@ -532,11 +532,18 @@
 - [토스 - 금융을 즐겁고 쉬운 경험으로 만드는 법](https://lottiefiles.com/kr/case-studies/toss)
 - [swr docs: Modify the Cache Data](https://swr.vercel.app/ko/docs/advanced/cache#modify-the-cache-data)
 - [mdn docs: <pre>: 미리 서식 정의된 텍스트 요소](https://developer.mozilla.org/ko/docs/Web/HTML/Element/pre)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Does SWR cache persist on page reload ? #592](https://github.com/vercel/swr/discussions/592)
+- [swr docs: 여러 항목 변경](https://swr.vercel.app/ko/docs/mutation#mutate-multiple-items)
+- [swr docs: Conditional Fetching](https://swr.vercel.app/docs/conditional-fetching)
+
+</details>
+
+<details>
+<summary>Jan, 2025</summary>
+
+- [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
+- [next docs: Markdown and MDX](https://nextjs.org/docs/app/building-your-application/configuring/mdx)
+- [next docs: Progressive Web Applications (PWA)](https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps)
 - []()
 - []()
 
