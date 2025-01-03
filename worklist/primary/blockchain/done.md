@@ -347,7 +347,7 @@
 - [Hand Mined Bitcoin](https://youtube.com/shorts/MrOge-JV5EI?si=3XF18xK_yzAhCk3n)
 - [[뉴스] 업비트 투자자보호센터, EU 가상자산법 MiCA 번역본 공개](https://www.dunamu.com/news/850)
 - [가상자산사업자(VASP)란? - VASP의 정의와 종류, 그리고 전망](https://blog.useb.co.kr/vasp)
-- []()
+- [BlackRock’s Bitcoin ETF tops rivals in 2024 net inflows](https://cointelegraph.com/news/blackrock-bitcoin-etf-tops-rivals-2024-net-inflows)
 - []()
 - []()
 - []()

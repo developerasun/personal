@@ -544,6 +544,11 @@
 - [Next.js 15 마이그레이션 할 게 없다?](https://velog.io/@composite/Next.js-15-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%A0-%EA%B2%8C-%EC%97%86%EB%8B%A4)
 - [next docs: Markdown and MDX](https://nextjs.org/docs/app/building-your-application/configuring/mdx)
 - [next docs: Progressive Web Applications (PWA)](https://nextjs.org/docs/app/building-your-application/configuring/progressive-web-apps)
+- [react docs: useId](https://ko.react.dev/reference/react/useId)
+- [mdn docs: EventTarget.dispatchEvent()](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/dispatchEvent)
+- [react docs: useSyncExternalStore](https://ko.react.dev/reference/react/useSyncExternalStore)
+- [[React 18+] storage를 상태로 관리하기 (useSyncExternalStore)](https://medium.com/hal-ang/react-18-storage%EB%A5%BC-%EC%83%81%ED%83%9C%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-usesyncexternalstore-181e6d5778d3)
+- []()
 - []()
 - []()
 

@@ -57,3 +57,20 @@
 - [NVIDIA unveils its most affordable tiny supercomputer](https://youtube.com/shorts/rT_bOEzCz74?si=XCPYfkBnletsiBbr)
 
 </details>
+
+<details>
+<summary>Jan, 2025</summary>
+
+- [노는 PC방 GPU로 인공지능 학습시킨다](https://www.hankyung.com/article/202409019411i)
+- [VRAM이란? 게임 및 비주얼 애플리케이션을 지원하는 그래픽 메모리 이해하기](https://www.purestorage.com/kr/knowledge/what-is-vram.html)
+- [vram 차이가 큰가요?](https://quasarzone.com/bbs/qf_vga/views/77337)
+- [VRAM의 용량은 어느 정도면 충분할까요?](https://www.corsair.com/kr/ko/explorer/gamer/gaming-pcs/how-much-vram-is-enough/?srsltid=AfmBOorocAR_Q_6TiHp8Rbk4ft2mDHzjxMiEwtYE6any91hncP3loq7i)
+- [노트북 기본 메모리 16GB 시대, AI PC가 앞당긴다](https://zdnet.co.kr/view/?no=20240627151630)
+- [[IT TREND] 온디바이스(On-Device) AI란 무엇일까](https://www.clunix.com/insight/it_trends.php?boardid=ittrend&mode=view&idx=755)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
