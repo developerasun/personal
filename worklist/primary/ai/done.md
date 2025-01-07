@@ -67,7 +67,7 @@
 - [VRAM의 용량은 어느 정도면 충분할까요?](https://www.corsair.com/kr/ko/explorer/gamer/gaming-pcs/how-much-vram-is-enough/?srsltid=AfmBOorocAR_Q_6TiHp8Rbk4ft2mDHzjxMiEwtYE6any91hncP3loq7i)
 - [노트북 기본 메모리 16GB 시대, AI PC가 앞당긴다](https://zdnet.co.kr/view/?no=20240627151630)
 - [[IT TREND] 온디바이스(On-Device) AI란 무엇일까](https://www.clunix.com/insight/it_trends.php?boardid=ittrend&mode=view&idx=755)
-- []()
+- [오픈AI GPTs 수익화에 대한 최신 업데이트.](https://www.threads.net/@choi.openai/post/C_PUxMgpqHr?hl=ko)
 - []()
 - []()
 - []()
