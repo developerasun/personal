@@ -13,3 +13,12 @@
 - []()
 
 </details>
+
+<details>
+<summary>Jan, 2025</summary>
+
+- [게이미피케이션, 우리 서비스에도 적용해보자!](https://brunch.co.kr/@b30afb04c9f54dc/8)
+- [초기 스타트업을 위한 뉴스레터 마케팅 3단계 가이드](https://1point.kr/blog/insights/newsletter-marketing/)
+- []()
+
+</details>

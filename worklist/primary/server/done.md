@@ -987,6 +987,10 @@
 - [백엔드 Nest.js 코드 베이스 - 기본구조](https://blog.hyperhire.in/si%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B0%B1%EC%97%94%EB%93%9C-nestjs-%EC%BD%94%EB%93%9C-%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EA%B8%B0%EB%B3%B8%EA%B5%AC%EC%A1%B0-2564)
 - [[NestJS] ResponseEntity와 정적 팩토리 메서드](https://dev-iamkanguk.tistory.com/entry/NestJS-ResponseEntity%EC%99%80-%EC%A0%95%EC%A0%81-%ED%8C%A9%ED%86%A0%EB%A6%AC-%EB%A9%94%EC%84%9C%EB%93%9C)
 - [Cannot update entity because entity id is not set in the entity. #7643](https://github.com/typeorm/typeorm/issues/7643)
+- [redisgate: Redis Configuration file](http://www.redisgate.com/redis/server/redis_conf_han.php)
+- [HTTP 418 에러의 의미를 아시나요? I'm a teapot!](https://haneepark.github.io/2019/12/24/418-im-a-teapot/)
+- [mdn docs: 418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+- []()
 - []()
 - []()
 
