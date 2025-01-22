@@ -89,3 +89,15 @@
 - []()
 
 </details>
+
+<details>
+<summary>Jan, 2025</summary>
+
+- [Ep2. 앱 개발 기초 3가지만 알면 됩니다! (레이아웃, 액티비티,이벤트)](https://youtu.be/LkBMmOdjm3E?si=8Loi-lAdgv2im-N4)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
