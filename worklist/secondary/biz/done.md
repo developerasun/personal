@@ -20,7 +20,7 @@
 - [게이미피케이션, 우리 서비스에도 적용해보자!](https://brunch.co.kr/@b30afb04c9f54dc/8)
 - [초기 스타트업을 위한 뉴스레터 마케팅 3단계 가이드](https://1point.kr/blog/insights/newsletter-marketing/)
 - [Most efficient way to advertise a website?](https://www.reddit.com/r/marketing/comments/wocvxm/most_efficient_way_to_advertise_a_website/?rdt=57645)
-- []()
+- [돈 없는 초기 스타트업이 할 수 있는 마케팅 15가지](https://letter.wepick.kr/510/4414883/)
 - []()
 - []()
 - []()
