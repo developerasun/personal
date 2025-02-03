@@ -548,6 +548,15 @@
 - [mdn docs: EventTarget.dispatchEvent()](https://developer.mozilla.org/ko/docs/Web/API/EventTarget/dispatchEvent)
 - [react docs: useSyncExternalStore](https://ko.react.dev/reference/react/useSyncExternalStore)
 - [[React 18+] storage를 상태로 관리하기 (useSyncExternalStore)](https://medium.com/hal-ang/react-18-storage%EB%A5%BC-%EC%83%81%ED%83%9C%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-usesyncexternalstore-181e6d5778d3)
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [리액트는 state의 변화에만 반응합니다! (+lazy init)](https://youtube.com/shorts/2t2irmMBfRA?si=9GJQG4uzkUND3MX2)
+- []()
+- []()
 - []()
 - []()
 - []()

@@ -72,6 +72,16 @@
 - [AI 관련 프로그램은 걍 엔비디아 말곤 답이 없군요.](https://quasarzone.com/bbs/qf_vga/views/5544101)
 - [nvidia: 비교 GeForce 그래픽 카드](https://www.nvidia.com/ko-kr/geforce/graphics-cards/compare/)
 - [엔비디아 젯슨 시리즈란?](https://blog.naver.com/ycpiglet/222252194863)
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [딥러닝 강사가 DeepSeek 직접 써 보고 감탄한 이유](https://youtube.com/shorts/eyFQpWECK-g?si=krxm113Rd-cM59SQ)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
