@@ -604,6 +604,17 @@
 
 - [SMTP의 보안 시스템 :: SPF, DKIM, DMARC 란?](https://firecatlibrary.tistory.com/135)
 - [cloudflare docs: turnstile: Widget](https://developers.cloudflare.com/turnstile/concepts/widget/#_top)
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [노트북 유선랜 연결하는 법과 연결안될 때 해결방법](https://m.blog.naver.com/rkwjs123/222269575035)
+- [테더링과 핫스팟, 뭐가 다를까?](https://m.blog.naver.com/ezpbill/221264819360)
+- [ipTIME의 DDNS를 이용하여 운영 서버 구축하기(포트포워딩)](https://chung-develop.tistory.com/59#google_vignette)
+- [개인용 서버 만들기 3편(포트포워딩과 DDNS 설정)](https://ckdals29672.tistory.com/5)
+- []()
 - []()
 - []()
 
