@@ -614,7 +614,16 @@
 - [테더링과 핫스팟, 뭐가 다를까?](https://m.blog.naver.com/ezpbill/221264819360)
 - [ipTIME의 DDNS를 이용하여 운영 서버 구축하기(포트포워딩)](https://chung-develop.tistory.com/59#google_vignette)
 - [개인용 서버 만들기 3편(포트포워딩과 DDNS 설정)](https://ckdals29672.tistory.com/5)
-- []()
+- [사무실 아이피타임(Iptime) 와이파이공유기](https://m.blog.naver.com/skbiznet/221633581973)
+- [무선랜 iptime은 뭔가요? 7](https://m.ppomppu.co.kr/new/bbs_view.php?id=help&no=426824)
+- [공유기 관리 페이지 접속 방법 (WiFi 비번 설정 등)](https://blog.notepads.cc/135)
+- [ipTIME 공유기, 관리자 페이지 진입 방법 및 설정방법](https://m.blog.naver.com/m_file/220245586536)
+
+- [[정보처리기사: 운영체제] 라운드 로빈(Round Robin, RR) 스케줄링 알고리즘](https://myallinone.tistory.com/entry/%EB%9D%BC%EC%9A%B4%EB%93%9C-%EB%A1%9C%EB%B9%88Round-Robin-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%A7%81-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
+- [DHCP란?](https://jwprogramming.tistory.com/35)
+- [[홈서버 구축] 잠자는 노트북(맥북)으로 홈서버 구축하기 (feat. DHCP, 포트 포워딩](https://sarangkkun.tistory.com/entry/make-home-server-with-dhcp-port-forwarding)
+- [안쓰는 노트북으로 홈서버 구축하기](https://truthfinder.tistory.com/220)
+- [SSH란? | 보안 셸(SSH) 프로토콜](https://www.cloudflare.com/ko-kr/learning/access-management/what-is-ssh/)
 - []()
 - []()
 
