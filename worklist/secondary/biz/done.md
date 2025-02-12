@@ -21,7 +21,13 @@
 - [초기 스타트업을 위한 뉴스레터 마케팅 3단계 가이드](https://1point.kr/blog/insights/newsletter-marketing/)
 - [Most efficient way to advertise a website?](https://www.reddit.com/r/marketing/comments/wocvxm/most_efficient_way_to_advertise_a_website/?rdt=57645)
 - [돈 없는 초기 스타트업이 할 수 있는 마케팅 15가지](https://letter.wepick.kr/510/4414883/)
-- []()
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [잘 나가는 모바일게임의 리텐션율은 얼마나 될까?](https://brunch.co.kr/@mobiinside/1914)
 - []()
 - []()
 - []()
