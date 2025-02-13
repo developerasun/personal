@@ -624,6 +624,11 @@
 - [[홈서버 구축] 잠자는 노트북(맥북)으로 홈서버 구축하기 (feat. DHCP, 포트 포워딩](https://sarangkkun.tistory.com/entry/make-home-server-with-dhcp-port-forwarding)
 - [안쓰는 노트북으로 홈서버 구축하기](https://truthfinder.tistory.com/220)
 - [SSH란? | 보안 셸(SSH) 프로토콜](https://www.cloudflare.com/ko-kr/learning/access-management/what-is-ssh/)
+- [How to use an ip and port on a A DNS record](https://community.cloudflare.com/t/how-to-use-an-ip-and-port-on-a-a-dns-record/70923)
+- [IP Address with Port Number to DNS](https://community.cloudflare.com/t/ip-address-with-port-number-to-dns/201050)
+- [cloudflare docs: Network ports](https://developers.cloudflare.com/fundamentals/reference/network-ports/)
+- [cloudflare docs: DDNS(Dynamic DNS)란 무엇입니까?](https://www.cloudflare.com/ko-kr/learning/dns/glossary/dynamic-dns/)
+- []()
 - []()
 - []()
 

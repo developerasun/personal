@@ -992,6 +992,16 @@
 - [mdn docs: 418 I'm a teapot](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
 - [nest docs: Migration guide](https://docs.nestjs.com/migration-guide)
 - [[MySQL] 컬럼명 변경 / 컬럼 타입 및 디폴트값 변경 / 컬럼 삭제 및 추가 (예시로 쉽게)](https://wnwa.tistory.com/50)
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [우분투 노트북 덮개 닫아도 대기모드에 진입하지 않게 설정하기](https://dontdiethere.tistory.com/m/27)
+- [노트북 닫아도 화면 안꺼지게 하기](https://koreanming.tistory.com/m/52?category=957223)
+- [윈도우 11 클램쉘 모드 사용 방법](https://m.blog.naver.com/nanstar119/223120347922)
+- []()
 - []()
 - []()
 - []()
