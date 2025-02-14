@@ -28,7 +28,7 @@
 <summary>Feb, 2025</summary>
 
 - [잘 나가는 모바일게임의 리텐션율은 얼마나 될까?](https://brunch.co.kr/@mobiinside/1914)
-- []()
+- [amazon ads: 커넥티드 TV 광고 설명](https://advertising.amazon.com/ko-kr/library/guides/connected-tv-advertising#a4)
 - []()
 - []()
 - []()
