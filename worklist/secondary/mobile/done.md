@@ -94,7 +94,15 @@
 <summary>Jan, 2025</summary>
 
 - [Ep2. 앱 개발 기초 3가지만 알면 됩니다! (레이아웃, 액티비티,이벤트)](https://youtu.be/LkBMmOdjm3E?si=8Loi-lAdgv2im-N4)
-- []()
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [우수한 모바일 앱 유지율의 비결: 좋은 유지율이란?](https://www.adjust.com/ko/blog/what-makes-a-good-retention-rate/)
+- [어플의 평균 유지율(day 1 리텐션, day 30 리텐션)](https://kugancity.tistory.com/entry/%EB%A7%88%EC%BC%80%ED%8C%85-%EC%96%B4%ED%94%8C%EC%9D%98-day-1-retention-%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0#google_vignette)
+- [리텐션에 대한 근본적인 오해](https://brunch.co.kr/@e7c15b62bf754f4/19)
 - []()
 - []()
 - []()

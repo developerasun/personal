@@ -185,8 +185,14 @@
 - [더 이상 외면할 수 없는 양자컴퓨터](https://yozm.wishket.com/magazine/detail/2888/?utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
 - [위키백과: 최상위 비트](https://ko.wikipedia.org/wiki/%EC%B5%9C%EC%83%81%EC%9C%84_%EB%B9%84%ED%8A%B8)
 - [MSB(Most Significant Bit) & LSB(Least Significant Bit](https://nextmoveon.tistory.com/342)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>Feb, 2025</summary>
+
+- [[컴퓨터] cmd창에서 D드라이브로 이동하는 방법](https://sunmay.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-cmd%EC%B0%BD%EC%97%90%EC%84%9C-D%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [kt wifi: 인터넷 와이파이 요금제](https://product.kt.com/wDic/productDetail.do?ItemCode=1503)
 - []()
 - []()
 
