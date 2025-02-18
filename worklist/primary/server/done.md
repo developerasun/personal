@@ -1016,9 +1016,9 @@
 - [How do I find my username and servername for windows SSH server](https://superuser.com/questions/1661724/how-do-i-find-my-username-and-servername-for-windows-ssh-server)
 - [How to list the size of a directoy and subdirectories and files inside it by terminal?](https://askubuntu.com/questions/426809/how-to-list-the-size-of-a-directoy-and-subdirectories-and-files-inside-it-by-ter)
 - [How do I find out which process is listening on a TCP or UDP port on Windows? [closed]](https://stackoverflow.com/questions/48198/how-do-i-find-out-which-process-is-listening-on-a-tcp-or-udp-port-on-windows)
-- []()
-- []()
-- []()
+- [How to change directory within Ubuntu WSL in Windows format?](https://stackoverflow.com/questions/62723987/how-to-change-directory-within-ubuntu-wsl-in-windows-format)
+- [How to set up local Windows directory in WSL correctly?](https://unix.stackexchange.com/questions/730704/how-to-set-up-local-windows-directory-in-wsl-correctly)
+- [[윈도우] 하드디스크 포맷하는 법, 디스크 D드라이브 초기화 포맷 방법](https://jhnyang.tistory.com/m/entry/%ED%95%98%EB%93%9C%EB%94%94%EC%8A%A4%ED%81%AC-%ED%8F%AC%EB%A7%B7%ED%95%98%EB%8A%94-%EB%B2%95-%EB%94%94%EC%8A%A4%ED%81%AC-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%98%EB%8A%94-%EB%B2%95)
 - []()
 
 </details>

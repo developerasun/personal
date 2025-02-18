@@ -433,9 +433,14 @@
 
 - [padStart와 padEnd 사용하기](https://velog.io/@suld2495/padStart%EC%99%80-padEnd-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [mdn docs: String.prototype.padStart()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart)
-- []()
-- []()
-- []()
+
+</details>
+
+<summary>Feb, 2025</summary>
+
+- [“Cannot Find Matching Keyid” Errors or “Corepack/PNPM Not Found” on GitHub Actions](https://vercel.com/guides/corepack-errors-github-actions#%E2%80%9Ccannot-find-matching-keyid%E2%80%9D-errors-or-%E2%80%9Ccorepack/pnpm-not-found%E2%80%9D-on-github-actions)
+- [pnpm docs: Corepack 사용하기](https://pnpm.io/ko/installation#corepack-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+- [node docs: Node v22.11.0 (LTS)](https://nodejs.org/ko/blog/release/v22.11.0)
 - []()
 - []()
 
