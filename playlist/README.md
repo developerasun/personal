@@ -158,6 +158,11 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Shanguy - Lava (Tekst / Lyrics)](https://youtu.be/-sbMHeK9v-g?si=-hOpoJz_9bryowKu)
 1. [HRVY & Matoma - Good Vibes [Official Audio]](https://youtu.be/_kJglW2ZnzE?si=NXCt5kTqsIz_ewR4)
 1. [Lvly feat. Frank Moody - On The Clock](https://youtu.be/mqSOyzpGoQQ?si=eWY2ZNfqss_o1B5f)
+1. [불후의명곡🔥🔥 | 나 없인 의미없지: Eminem - Without Me (2002) [가사해석/번역]](https://youtu.be/Ha-NRBE0HWo?si=2p-pPF1fb5vTKuqB)
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 
