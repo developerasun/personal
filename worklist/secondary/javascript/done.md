@@ -441,6 +441,9 @@
 - [“Cannot Find Matching Keyid” Errors or “Corepack/PNPM Not Found” on GitHub Actions](https://vercel.com/guides/corepack-errors-github-actions#%E2%80%9Ccannot-find-matching-keyid%E2%80%9D-errors-or-%E2%80%9Ccorepack/pnpm-not-found%E2%80%9D-on-github-actions)
 - [pnpm docs: Corepack 사용하기](https://pnpm.io/ko/installation#corepack-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [node docs: Node v22.11.0 (LTS)](https://nodejs.org/ko/blog/release/v22.11.0)
+- [타입스크립트 타입 호환성 문제 해결하기 "as const vs satisfies"](https://soobing.github.io/typescript/as-const-vs-satisfies/)
+- []()
+- []()
 - []()
 - []()
 
