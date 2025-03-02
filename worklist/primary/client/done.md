@@ -557,7 +557,13 @@
 - [리액트는 state의 변화에만 반응합니다! (+lazy init)](https://youtube.com/shorts/2t2irmMBfRA?si=9GJQG4uzkUND3MX2)
 - [[ HTML ] Referrer 관리](https://itjava.tistory.com/25)
 - [HTML <iframe> Tag](https://www.w3schools.com/tags/tag_iframe.ASP)
-- []()
+
+</details>
+
+<details>
+<summary>Mar, 2025</summary>
+
+- [swr docs: 데이터 프리필](https://swr.vercel.app/ko/docs/prefetching#pre-fill-data)
 - []()
 - []()
 - []()

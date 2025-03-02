@@ -647,7 +647,13 @@
 - [docker docs: Container discovery](https://docs.docker.com/engine/network/drivers/overlay/#container-discovery)
 - [docker build with --build-arg with multiple arguments](https://stackoverflow.com/questions/42297387/docker-build-with-build-arg-with-multiple-arguments)
 - [[Docker]Portainer 설치 및 사용](https://velog.io/@hyeokkr/DockerPortainer-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%82%AC%EC%9A%A9)
-- []()
+
+</details>
+
+<details>
+<summary>Mar, 2025</summary>
+
+- [github: minio: Can't see the image in a direct link. #16545](https://github.com/minio/minio/discussions/16545)
 - []()
 - []()
 - []()

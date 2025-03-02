@@ -1023,6 +1023,17 @@
 - [github/vscode-remote-release: Git pull hangs forever #985](https://github.com/microsoft/vscode-remote-release/issues/985)
 - [MySQL - Query records between yesterday and today but with a specific time](https://dba.stackexchange.com/questions/280066/mysql-query-records-between-yesterday-and-today-but-with-a-specific-time)
 - [[Linux] ssh 터널링(ssh port forwarding) - Local / Remote / Dynamic Tunneling](https://hbase.tistory.com/328)
+
+</details>
+
+<details>
+<summary>March, 2025</summary>
+
+- [mysql docs: can not connect via "Standard TCP/IP over SSH" using ed25519 key](https://bugs.mysql.com/bug.php?id=94620)
+- [Access denied for 'none'. Trying to access a MySQL Workbench database via SSH using RStudio](https://stackoverflow.com/questions/63729446/access-denied-for-none-trying-to-access-a-mysql-workbench-database-via-ssh-us)
+- [Location of OpenSSH configuration file on Windows](https://superuser.com/questions/1537763/location-of-openssh-configuration-file-on-windows)
+- [Windows 10 OpenSSH server 설치](https://javakong.tistory.com/59)
+- [계정 비밀번호 입력없이 Ubuntu에 자동 SSH 자동 로그인 접속하기](https://m.blog.naver.com/love_tolty/222389756439)
 - []()
 - []()
 - []()
