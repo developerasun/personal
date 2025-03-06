@@ -374,7 +374,7 @@
 - [파이코인 업비트 상장 가능하나요? PI 오픈넷 출시 임박](https://www.btcc.com/ko-KR/academy/research-analysis/analysis-of-the-possibility-of-picoin-being-listed-on-upbit)
 - [Ethers.js: Watch events - How to avoid on load event](https://kenwagatsuma.com/en/blog/ethersjs-watch-events-how-to-avoid-on-load-event)
 - [Obtain transaction hash from event (ethersjs)](https://ethereum.stackexchange.com/questions/99700/obtain-transaction-hash-from-event-ethersjs)
-- []()
+- [Ledger의 스테이킹 글로서리](https://www.ledger.com/ko/academy/ledgers-staking-glossary)
 - []()
 - []()
 - []()

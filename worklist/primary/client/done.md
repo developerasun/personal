@@ -564,6 +564,11 @@
 <summary>Mar, 2025</summary>
 
 - [swr docs: 데이터 프리필](https://swr.vercel.app/ko/docs/prefetching#pre-fill-data)
+- [[NextJS] 클라이언트 컴포넌트와 서버 컴포넌트의 합성 패턴](https://velog.io/@yonghyeun/NextJS-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%9D%98-%ED%95%A9%EC%84%B1-%ED%8C%A8%ED%84%B4)
+- [Can not delete cache key in SWR](https://stackoverflow.com/questions/77109409/can-not-delete-cache-key-in-swr)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
