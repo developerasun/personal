@@ -375,6 +375,6 @@
 - [Ethers.js: Watch events - How to avoid on load event](https://kenwagatsuma.com/en/blog/ethersjs-watch-events-how-to-avoid-on-load-event)
 - [Obtain transaction hash from event (ethersjs)](https://ethereum.stackexchange.com/questions/99700/obtain-transaction-hash-from-event-ethersjs)
 - [Ledger의 스테이킹 글로서리](https://www.ledger.com/ko/academy/ledgers-staking-glossary)
-- []()
-- []()
+- [Wrapped Bitcoin Meaning](https://www.ledger.com/academy/glossary/wrapped-bitcoin)
+- [How to Send a Private Transaction on Ethereum](https://docs.alchemy.com/docs/how-to-send-a-private-transaction-on-ethereum)
 - []()
