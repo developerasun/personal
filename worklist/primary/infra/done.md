@@ -657,7 +657,19 @@
 - [cloudflare docs: 메일 서버란?](https://www.cloudflare.com/ko-kr/learning/email-security/what-is-a-mail-server/)
 - [cloudflare docs: Send emails from Workers](https://developers.cloudflare.com/email-routing/email-workers/send-email-workers/)
 - [Swarmpit 클러스터 구축기](https://bluehorn07.github.io/2023/05/28/swarmpit-cluster-review/)
-- []()
+
+</details>
+
+<details>
+<summary>Apr, 2025</summary>
+
+- [패킷 분석 툴, 와이어샤크(WireShark) 사용법 (필터링, 검증, 처음 사용해보는 사람을 위한 안내)](https://jeong-pro.tistory.com/155)
+- [msfconsole - brute Force attack](https://it-mandarine.tistory.com/69)
+- [지금 시대에도 통하는 브루트포스 공격, 암호화폐 채굴단이 증명](https://m.boannews.com/html/detail.html?idx=99115&kind=)
+- [[리눅스] fail2ban 명령어 완벽 가이드 사용법(보안 침해 방지 도구)](https://monkeybusiness.tistory.com/696)
+- [무작위 공격 방지를 위해 Fail2Ban 도입하기](https://velog.io/@invidam/init-fail2ban)
+- [Tailscale의 편의기능(Magic DNS, Tail SSH, Web SSH) 사용하기](https://svrforum.com/svr/941723)
+- [Install Tailscale on Ubuntu 24.04 (noble)](https://tailscale.com/kb/1476/install-ubuntu-2404)
 - []()
 - []()
 - []()
