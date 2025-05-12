@@ -1038,8 +1038,18 @@
 - [pocketbase migrate](https://fig.io/manual/pocketbase/migrate)
 - [포켓베이스 백업](https://velog.io/@k_ddaddi/%ED%8F%AC%EC%BC%93%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B0%B1%EC%97%85)
 - [How does the backup API work? Does it have limitations? #2970](https://github.com/pocketbase/pocketbase/discussions/2970)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>May, 2025</summary>
+
+- [액세스 토큰 리프레시 토큰 어디에 저장해야 하나요?(웹 버전)](https://youtube.com/shorts/EnetEaN1h3M?si=-klt_48pTxU-XOgc)
+- [토스 페이먼츠 개발자센터 - 멱등성이 뭔가요?](https://docs.tosspayments.com/blog/what-is-idempotency#%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
+- [caddy docs: log](https://caddyserver.com/docs/caddyfile/directives/log)
+- [Caddy — Configure Logging and Access Logs](https://futurestud.io/tutorials/caddy-configure-logging-and-access-logs)
+- [NestJS의 liveness/readiness 엔드포인트](https://www.daleseo.com/nestjs-health/)
+- [모바일 앱이나 리액트네이티브에서는 토큰 어디에 저장해야 해요??](https://www.youtube.com/shorts/fyCVYLEXs2c)
 - []()
 - []()
 - []()

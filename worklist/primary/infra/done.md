@@ -670,8 +670,14 @@
 - [무작위 공격 방지를 위해 Fail2Ban 도입하기](https://velog.io/@invidam/init-fail2ban)
 - [Tailscale의 편의기능(Magic DNS, Tail SSH, Web SSH) 사용하기](https://svrforum.com/svr/941723)
 - [Install Tailscale on Ubuntu 24.04 (noble)](https://tailscale.com/kb/1476/install-ubuntu-2404)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>May, 2025</summary>
+
+- [우리 부서에서 데이터 독 사용 검토하기](https://ray5273.tistory.com/entry/%EC%9A%B0%EB%A6%AC-%EB%B6%80%EC%84%9C%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%85-%EC%82%AC%EC%9A%A9-%EA%B2%80%ED%86%A0%ED%95%98%EA%B8%B0)
+- [[Terraform] 테라폼을 이용해 AWS S3 만들기](https://velog.io/@xav/Terraform-%ED%85%8C%EB%9D%BC%ED%8F%BC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-AWS-S3-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 - []()
 
 </details>
