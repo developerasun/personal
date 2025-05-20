@@ -678,6 +678,20 @@
 
 - [우리 부서에서 데이터 독 사용 검토하기](https://ray5273.tistory.com/entry/%EC%9A%B0%EB%A6%AC-%EB%B6%80%EC%84%9C%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%8F%85-%EC%82%AC%EC%9A%A9-%EA%B2%80%ED%86%A0%ED%95%98%EA%B8%B0)
 - [[Terraform] 테라폼을 이용해 AWS S3 만들기](https://velog.io/@xav/Terraform-%ED%85%8C%EB%9D%BC%ED%8F%BC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4-AWS-S3-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+- [웹 방화벽을 써야 하는 이유 (부제: cloudflare를 쓰는 이유)](https://www.pincoin.co.kr/blog/www/3/cloudflare-WAF-%EC%9B%B9%EB%B0%A9%ED%99%94%EB%B2%BD-%EC%93%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+- [자바스크립트(JavaScript) Challenge를 사용한 봇 트래픽 필터링](https://blog.naver.com/techtrip/222271478434)
+- [JS Challenge란 무엇인가요?](https://www.aioncloud.com/ko/js-challenge%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94/)
+- [클라우드 플레어 WAF 방화벽 설정하는 방법!](https://ittraveler.tistory.com/entry/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%A0%88%EC%96%B4-WAF-%EB%B0%A9%ED%99%94%EB%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+- [Cloudflare WAF: 업계를 선도하는 웹 앱 방화벽(WAF)으로 최신 공격 차단하기](https://www.cloudflare.com/ko-kr/application-services/products/waf/)
+- [#058. 인프라: cloudflare WAF 설정하기](https://iamjoy.tistory.com/109)
+- [cloudflare를 이용한 방화벽 설정](https://lehero.tistory.com/312)
+- [Website needs to review the security of your connection before proceeding](https://community.cloudflare.com/t/website-needs-to-review-the-security-of-your-connection-before-proceeding/561261)
+- [Sentry로 우아하게 프론트엔드 에러 추적하기](https://tech.kakaopay.com/post/frontend-sentry-monitoring/)
+- [AWS WAF로 특정 IP만 허용하도록 Custom Rule 추가하기](https://jaykos96.tistory.com/50)
+- [Cloudflare (클라우드플레어) 아이피만 접속 허용 방법](https://webpd.net/index.php?rp=%2Fknowledgebase%2F18%2FCloudflare-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%ED%94%8C%EB%A0%88%EC%96%B4-%EC%95%84%EC%9D%B4%ED%94%BC%EB%A7%8C-%EC%A0%91%EC%86%8D-%ED%97%88%EC%9A%A9-%EB%B0%A9%EB%B2%95.html&language=korean)
+- []()
+- []()
+- []()
 - []()
 
 </details>
