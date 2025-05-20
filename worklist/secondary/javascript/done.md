@@ -442,6 +442,14 @@
 - [pnpm docs: Corepack 사용하기](https://pnpm.io/ko/installation#corepack-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 - [node docs: Node v22.11.0 (LTS)](https://nodejs.org/ko/blog/release/v22.11.0)
 - [타입스크립트 타입 호환성 문제 해결하기 "as const vs satisfies"](https://soobing.github.io/typescript/as-const-vs-satisfies/)
+
+</details>
+
+<summary>May, 2025</summary>
+
+- [JavaScript의 새로운 슈퍼파워: 명시적 리소스 관리 (v8.dev)](https://news.hada.io/topic?id=20962&utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
+- [이걸 알면 배열 작업이 엄청나게 빨라집니다. 이터레이터, 지연평가](https://youtube.com/shorts/wX1Z9eb5Nmk?si=-NjWEAHXJobEK4nv)
+- [자바스크립트 디자인 패턴: RORO 객체로 받고 객체로 반환하는 편리함에 대하여](https://taegon.kim/archives/8058)
 - []()
 - []()
 - []()
