@@ -692,8 +692,8 @@
 - [ojtube: AWS를 떠나기로 했습니다](https://youtube.com/shorts/j4nGtWQ46dI?si=-nUBRHLcq4QLzKMl)
 - [ojtube: 미니 PC, 홈페이지 돌리는 데 괜찮을까?](https://youtube.com/shorts/tNBd-tUL9H4?si=ur_hW3AZcnXSvyY_)
 - [API Gateway의 이해](https://velog.io/@youngerjesus/API-Gateway%EC%9D%98-%EC%9D%B4%ED%95%B4)
-- []()
-- []()
+- [[AWS] RDS 스냅샷(수동 스냅샷 생성, 자동 스냅샷 활성화, 스냅샷을 통한 복구 방법, 스냅샷 요금)](https://onfonf.tistory.com/126)
+- [AWS rds 스냅샵으로 DB 복원 하기](https://velog.io/@junghoyoon/AWS-rds-%EC%8A%A4%EB%83%85%EC%83%B5%EC%9C%BC%EB%A1%9C-DB-%EB%B3%B5%EC%9B%90-%ED%95%98%EA%B8%B0)
 - []()
 - []()
 

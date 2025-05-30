@@ -1052,7 +1052,7 @@
 - [모바일 앱이나 리액트네이티브에서는 토큰 어디에 저장해야 해요??](https://www.youtube.com/shorts/fyCVYLEXs2c)
 - [Redis, Collection - Lists ](https://jakpentest.tistory.com/entry/Redis-Collection-Lists)
 - [Promise.try가 나왔습니다!! 동기 비동기 둘 다 프로미스로 만들어버리기](https://youtube.com/shorts/84FJMJiMGgo?si=eiHGu125A-BPAC_n)
-- []()
+- [주니어 개발자를 위한 블로킹과 논블로킹 개념 잡기](https://yozm.wishket.com/magazine/detail/3160/?h=T019C5W0D6Y&utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
 - []()
 - []()
 - []()
