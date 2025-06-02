@@ -79,11 +79,21 @@
 <summary>Feb, 2025</summary>
 
 - [딥러닝 강사가 DeepSeek 직접 써 보고 감탄한 이유](https://youtube.com/shorts/eyFQpWECK-g?si=krxm113Rd-cM59SQ)
-- []()
-- []()
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [civitai - 表情包合集 2|emoticon_collection(A3.1)](https://civitai.com/models/516752/2oremoticoncollectiona31)
+- [civitai - 【Meme_Maker】 Oldstore_Style](https://civitai.com/models/708915/mememaker-oldstorestyle)
+- [civitai - meme ponntaitachi animalization 鼬](https://civitai.com/models/1086219/meme-ponntaitachi-animalization)
+- [civitai - WorldSaboten Style [Illu0.1]](https://civitai.com/models/1538635/worldsaboten-style-illu01)
+- [civitai - Featherfall Illustrious-XL](https://civitai.com/models/1516361/featherfall-illustrious-xl)
+- [civitai - Angry Dog Noises | Chibi Meme Concept | IllustriousXL and NoobAI](https://civitai.com/models/1318400/angry-dog-noises-or-chibi-meme-concept-or-illustriousxl-and-noobai?modelVersionId=1488431)
+- [civitai - Sesield (Bweeeh artist) Chibi Style](https://civitai.com/models/19756/sesield-bweeeh-artist-chibi-style)
+- [civitai - [NoobAI-XL EPS v1.1] Qiqi Fallen | Meme](https://civitai.com/models/1437335?modelVersionId=1624740)
+- [velog - MCP 알아보기](https://velog.io/@rnrn99/MCP-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
 - []()
 - []()
 
