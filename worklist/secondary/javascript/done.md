@@ -416,12 +416,14 @@
 
 </details>
 
+<details>
 <summary>October, 2024</summary>
 
 - [npm scripts pre post](https://chinsun9.github.io/2021/09/09/npm-scripts-pre-post/)
 
 </details>
 
+<details>
 <summary>October, 2024</summary>
 
 - [dotenvx docs: Add Encryption](https://dotenvx.com/docs/quickstart#add-encryption)
@@ -429,6 +431,7 @@
 
 </details>
 
+<details>
 <summary>November, 2024</summary>
 
 - [padStart와 padEnd 사용하기](https://velog.io/@suld2495/padStart%EC%99%80-padEnd-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
@@ -436,6 +439,7 @@
 
 </details>
 
+<details>
 <summary>Feb, 2025</summary>
 
 - [“Cannot Find Matching Keyid” Errors or “Corepack/PNPM Not Found” on GitHub Actions](https://vercel.com/guides/corepack-errors-github-actions#%E2%80%9Ccannot-find-matching-keyid%E2%80%9D-errors-or-%E2%80%9Ccorepack/pnpm-not-found%E2%80%9D-on-github-actions)
@@ -445,11 +449,22 @@
 
 </details>
 
+<details>
 <summary>May, 2025</summary>
 
 - [JavaScript의 새로운 슈퍼파워: 명시적 리소스 관리 (v8.dev)](https://news.hada.io/topic?id=20962&utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
 - [이걸 알면 배열 작업이 엄청나게 빨라집니다. 이터레이터, 지연평가](https://youtube.com/shorts/wX1Z9eb5Nmk?si=-NjWEAHXJobEK4nv)
 - [자바스크립트 디자인 패턴: RORO 객체로 받고 객체로 반환하는 편리함에 대하여](https://taegon.kim/archives/8058)
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [Iterator Pattern](https://velog.io/@ye-geeee/Iterator-Pattern)
+- [코딩테스트에서 많이 사용하는 문법 - JavaScript편](https://velog.io/@sean2337/%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%97%90%EC%84%9C-%EB%A7%8E%EC%9D%B4-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%AC%B8%EB%B2%95-JavaScript%ED%8E%B8)
+- [[JavaScript] 해시 적용 방법](https://velog.io/@sean2337/JavaScript-%ED%95%B4%EC%8B%9C-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+- [zerocho - 실패했는데 상태 코드가 200인 경우…?](https://youtube.com/shorts/BEIng-2BH24?si=57wP6awwfEk-BhKY)
 - []()
 - []()
 - []()
