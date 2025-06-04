@@ -94,6 +94,11 @@
 - [civitai - Sesield (Bweeeh artist) Chibi Style](https://civitai.com/models/19756/sesield-bweeeh-artist-chibi-style)
 - [civitai - [NoobAI-XL EPS v1.1] Qiqi Fallen | Meme](https://civitai.com/models/1437335?modelVersionId=1624740)
 - [velog - MCP 알아보기](https://velog.io/@rnrn99/MCP-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
+- [civitai - Cartoony Anime Style](https://civitai.com/models/627178/cartoony-anime-style)
+- [civitai - Pokemon Sprite PixelArt 768](https://civitai.com/models/161280/pokemon-sprite-pixelart-768?modelVersionId=181514)
+- [civitai - TrickcalRevive(穿越异世界恶作剧)](https://civitai.com/models/202740/trickcalrevive)
+- []()
+- []()
 - []()
 - []()
 
