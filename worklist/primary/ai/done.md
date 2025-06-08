@@ -97,8 +97,8 @@
 - [civitai - Cartoony Anime Style](https://civitai.com/models/627178/cartoony-anime-style)
 - [civitai - Pokemon Sprite PixelArt 768](https://civitai.com/models/161280/pokemon-sprite-pixelart-768?modelVersionId=181514)
 - [civitai - TrickcalRevive(穿越异世界恶作剧)](https://civitai.com/models/202740/trickcalrevive)
-- []()
-- []()
+- [civitai - Pixel Art Sprite - Elin - Style IllustriousXL - Noob LORA](https://civitai.com/models/1084875/pixel-art-sprite-elin-style-illustriousxl-noob-lora)
+- [civitai - ネットミーム　見せられないよ！ / meme miserarenai yo ! （ holding sign）](https://civitai.com/models/1650120/meme-miserarenai-yo-holding-sign)
 - []()
 - []()
 
