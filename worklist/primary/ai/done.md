@@ -99,6 +99,12 @@
 - [civitai - TrickcalRevive(穿越异世界恶作剧)](https://civitai.com/models/202740/trickcalrevive)
 - [civitai - Pixel Art Sprite - Elin - Style IllustriousXL - Noob LORA](https://civitai.com/models/1084875/pixel-art-sprite-elin-style-illustriousxl-noob-lora)
 - [civitai - ネットミーム　見せられないよ！ / meme miserarenai yo ! （ holding sign）](https://civitai.com/models/1650120/meme-miserarenai-yo-holding-sign)
+- [civitai - (ILXL) Bed Invitation / ベッドへの誘い](https://civitai.com/models/1655315/ilxl-bed-invitation)
+- [civitai - りんぞう / rinzou style | NAI style for Illustrious](https://civitai.com/models/1027991/rinzou-style-or-nai-style-for-illustrious)
+- [civitai - Artist Style: Uenomigi](https://civitai.com/models/1017822/artist-style-uenomigi)
+- [civitai - Cartoony Anime Style](https://civitai.com/models/627178/cartoony-anime-style)
+- [civitai - 〖트릭컬 리바이브//トリックカルリバイブ//穿越异世界恶作剧〗 Trickcal RE:VIVE Style](https://civitai.com/models/1021418/trickcal-revive-style)
+- []()
 - []()
 - []()
 
