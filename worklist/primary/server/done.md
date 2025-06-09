@@ -1053,7 +1053,13 @@
 - [Redis, Collection - Lists ](https://jakpentest.tistory.com/entry/Redis-Collection-Lists)
 - [Promise.try가 나왔습니다!! 동기 비동기 둘 다 프로미스로 만들어버리기](https://youtube.com/shorts/84FJMJiMGgo?si=eiHGu125A-BPAC_n)
 - [주니어 개발자를 위한 블로킹과 논블로킹 개념 잡기](https://yozm.wishket.com/magazine/detail/3160/?h=T019C5W0D6Y&utm_source=slack&utm_medium=bot&utm_campaign=T019C5W0D6Y)
-- []()
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [SELECT ~ FOR UPDATE 구문( 동시성 제어의 핵심)](https://aeon2580.tistory.com/entry/SELECT-FOR-UPDATE%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4%EC%9D%98-%ED%95%B5%EC%8B%AC)
 - []()
 - []()
 
