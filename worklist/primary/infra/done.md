@@ -701,7 +701,7 @@
 <summary>June, 2025</summary>
 
 - [Tailscale과 VPN - 쉽고 안전한 원격 연결의 모든 것](https://puddingcamp.com/topics/about-tailscale)
-- []()
+- [Account compromised, AWS root email changed](https://www.reddit.com/r/aws/comments/12xo9gy/account_compromised_aws_root_email_changed/)
 - []()
 - []()
 - []()

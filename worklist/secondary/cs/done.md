@@ -193,6 +193,15 @@
 
 - [[컴퓨터] cmd창에서 D드라이브로 이동하는 방법](https://sunmay.tistory.com/entry/%EC%BB%B4%ED%93%A8%ED%84%B0-cmd%EC%B0%BD%EC%97%90%EC%84%9C-D%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%A1%9C-%EC%9D%B4%EB%8F%99%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [kt wifi: 인터넷 와이파이 요금제](https://product.kt.com/wDic/productDetail.do?ItemCode=1503)
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [배열(Array)과 리스트(List)](https://velog.io/@enamu/%EB%B0%B0%EC%97%B4Array%EA%B3%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8List)
+- [[프로그래머스] Lv.1 예산 (greedy, 탐욕, 그리디 알고리즘, Java)](https://pixx.tistory.com/188)
+- [[코딩 테스트] 채점 기준 [ep - 1]](https://velog.io/@opqr/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B1%84%EC%A0%90-%EA%B8%B0%EC%A4%80-ep-1)
 - []()
 - []()
 
