@@ -1060,6 +1060,10 @@
 <summary>June, 2025</summary>
 
 - [SELECT ~ FOR UPDATE 구문( 동시성 제어의 핵심)](https://aeon2580.tistory.com/entry/SELECT-FOR-UPDATE%EB%8F%99%EC%8B%9C%EC%84%B1-%EC%A0%9C%EC%96%B4%EC%9D%98-%ED%95%B5%EC%8B%AC)
+- [InnoDB의 Lock 처리 방식](https://miintto.github.io/docs/mysql-select-for-update)
+- [[Node.js] 멀티 쓰레드, 멀티 프로세스로 병렬 처리하기](https://it-techtree.tistory.com/entry/nodejs-processing-http-request-in-parallel#google_vignette)
+- [[NestJS] Worker Thread를 사용해봅시다.](https://formulous.tistory.com/21)
+- [Nginx 악성 봇(로봇 SemrushBot) 차단](https://www.fedoralinux.or.kr/forums/topic/23735)
 - []()
 - []()
 
