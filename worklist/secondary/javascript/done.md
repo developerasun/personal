@@ -466,7 +466,7 @@
 - [[JavaScript] 해시 적용 방법](https://velog.io/@sean2337/JavaScript-%ED%95%B4%EC%8B%9C-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95)
 - [zerocho - 실패했는데 상태 코드가 200인 경우…?](https://youtube.com/shorts/BEIng-2BH24?si=57wP6awwfEk-BhKY)
 - [OpenGL, WebGL이 뭘까? (Three.js)](https://velog.io/@muscatcola/WebGL)
-- []()
+- [PROOF JavaScript is a Multi-Threaded language](https://youtu.be/-JE8P2TiJEg?si=6Zyzb7263zbKM-KN)
 - []()
 - []()
 
