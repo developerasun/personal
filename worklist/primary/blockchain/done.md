@@ -377,4 +377,8 @@
 - [Ledger의 스테이킹 글로서리](https://www.ledger.com/ko/academy/ledgers-staking-glossary)
 - [Wrapped Bitcoin Meaning](https://www.ledger.com/academy/glossary/wrapped-bitcoin)
 - [How to Send a Private Transaction on Ethereum](https://docs.alchemy.com/docs/how-to-send-a-private-transaction-on-ethereum)
+- [해시원 - BIP39](https://wiki1.kr/index.php/BIP39)
+- [HD wallets and Derivation paths](https://help.myetherwallet.com/en/articles/5867305-hd-wallets-and-derivation-paths)
+- []()
+- []()
 - []()

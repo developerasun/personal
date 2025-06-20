@@ -1078,8 +1078,8 @@
 - [bullmq docs: Sandboxed processors](https://docs.bullmq.io/guide/workers/sandboxed-processors)
 - [NestJS - ConfigService GET method is undefined when called within onModuleInit()](https://stackoverflow.com/questions/76077468/nestjs-configservice-get-method-is-undefined-when-called-within-onmoduleinit)
 - [백업은 기본 중의 기본...](https://brunch.co.kr/@supims/452)
-- []()
-- []()
+- [로드 밸런싱 알고리즘 별 장단점](https://velog.io/@lom/%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B3%84-%EC%9E%A5%EB%8B%A8%EC%A0%90)
+- [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs)
 - []()
 - []()
 

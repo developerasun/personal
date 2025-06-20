@@ -570,7 +570,13 @@
 - [Next.js - 서버 컴포넌트 & 클라이언트 컴포넌트](https://choi-hyunho.com/nextjs-server-component#heading-app-1)
 - [next docs: notFound](https://nextjs.org/docs/app/api-reference/functions/not-found)
 - [react docs: useActionState](https://react.dev/reference/react/useActionState)
-- []()
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [404 page isn't server rendered when using notFound() #62228](https://github.com/vercel/next.js/issues/62228#issuecomment-2025084206)
 - []()
 - []()
 

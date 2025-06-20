@@ -202,6 +202,9 @@
 - [배열(Array)과 리스트(List)](https://velog.io/@enamu/%EB%B0%B0%EC%97%B4Array%EA%B3%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8List)
 - [[프로그래머스] Lv.1 예산 (greedy, 탐욕, 그리디 알고리즘, Java)](https://pixx.tistory.com/188)
 - [[코딩 테스트] 채점 기준 [ep - 1]](https://velog.io/@opqr/%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%B1%84%EC%A0%90-%EA%B8%B0%EC%A4%80-ep-1)
+- [자료구조는 정말 중요할까?](https://velog.io/@yukina1418/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%8A%94-%EC%A0%95%EB%A7%90-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-%EC%9E%91%EC%84%B1%EC%A4%91)
+- [[Spring] AES 암호화 알고리즘에 대해](https://velog.io/@choidongkuen/Spring-AES-256-%EC%95%94%ED%98%B8%ED%99%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%B4)
+- [[자료구조] 자료 구조 공부에 대한 생각 정리](https://velog.io/@neoneoneo/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B3%B5%EB%B6%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
 - []()
 - []()
 
