@@ -29,6 +29,15 @@
 
 - [잘 나가는 모바일게임의 리텐션율은 얼마나 될까?](https://brunch.co.kr/@mobiinside/1914)
 - [amazon ads: 커넥티드 TV 광고 설명](https://advertising.amazon.com/ko-kr/library/guides/connected-tv-advertising#a4)
+
+</details>
+
+<details>
+<summary>June, 2025</summary>
+
+- [인프랩 스타트업 투자 재무적 Log 1 (Found ~ Angel)](https://www.hyungjoo.me/%ec%9d%b8%ed%94%84%eb%9e%a9-%ec%9e%ac%eb%ac%b4%ec%a0%81-log-1/)
+- [3년간 인디게임 2개를 출시했지만 실패했던 이유](https://growy.tistory.com/77)
+- []()
 - []()
 - []()
 - []()

@@ -1080,6 +1080,9 @@
 - [백업은 기본 중의 기본...](https://brunch.co.kr/@supims/452)
 - [로드 밸런싱 알고리즘 별 장단점](https://velog.io/@lom/%EB%A1%9C%EB%93%9C-%EB%B0%B8%EB%9F%B0%EC%8B%B1-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%B3%84-%EC%9E%A5%EB%8B%A8%EC%A0%90)
 - [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs)
+- [[MongoDB란?] 네카라배가 MongoDB를 사용하는 이유](https://www.elancer.co.kr/blog/detail/740)
+- [[Nestjs] passport와 jwt를 이용한 로그인 인증 파이프라인](https://velog.io/@ninthsun91/Nestjs-passport%EC%99%80-jwt%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%9D%B8%EC%A6%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8)
+- []()
 - []()
 - []()
 
