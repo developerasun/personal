@@ -205,6 +205,9 @@
 - [자료구조는 정말 중요할까?](https://velog.io/@yukina1418/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%8A%94-%EC%A0%95%EB%A7%90-%EC%A4%91%EC%9A%94%ED%95%A0%EA%B9%8C-%EC%9E%91%EC%84%B1%EC%A4%91)
 - [[Spring] AES 암호화 알고리즘에 대해](https://velog.io/@choidongkuen/Spring-AES-256-%EC%95%94%ED%98%B8%ED%99%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EC%97%90-%EB%8C%80%ED%95%B4)
 - [[자료구조] 자료 구조 공부에 대한 생각 정리](https://velog.io/@neoneoneo/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9E%90%EB%A3%8C-%EA%B5%AC%EC%A1%B0-%EA%B3%B5%EB%B6%80%EC%97%90-%EB%8C%80%ED%95%9C-%EC%83%9D%EA%B0%81-%EC%A0%95%EB%A6%AC)
+- [마이크로 서비스 아키텍처 & 모놀리틱 아키텍처](https://velog.io/@dsunni/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%AA%A8%EB%86%80%EB%A6%AC%ED%8B%B1-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
+- [[아키텍처] 모놀리식 아키텍처 VS 마이크로 서비스 아키텍처(MSA)](https://memodayoungee.tistory.com/155)
+- []()
 - []()
 - []()
 
