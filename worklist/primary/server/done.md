@@ -1085,8 +1085,11 @@
 - [github: caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare?tab=readme-ov-file#sample-caddyfile)
 - [let's encrypt: Staging Environment](https://letsencrypt.org/docs/staging-environment/)
 - [caddy docs: acme_ca](https://caddyserver.com/docs/caddyfile/options#acme-ca)
-- []()
-- []()
+- [caddy: "Cannot negotiate ALPN protocol" when run simple docker #192](https://github.com/abiosoft/caddy-docker/issues/192)
+- [리눅스 실습 서버 만들기 - part1. 윈도우에서 wsl로 우분투 리눅스 서버 생성](https://seonybob3210.tistory.com/35)
+- [wsl vs vm](https://balang.tistory.com/32)
+- [XSS(Cross Site Scripting) 공격이란?](https://4rgos.tistory.com/1)
+- [cloudflare docs: Setting Cron Triggers](https://developers.cloudflare.com/workers/examples/cron-trigger/)
 - []()
 
 </details>
