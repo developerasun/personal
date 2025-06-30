@@ -110,8 +110,8 @@
 - [civitai - Shut up and take my money! (Meme) concept](https://civitai.com/models/1193191/shut-up-and-take-my-money-meme-concept)
 - [civitai - Cube Concept - Wuthering Waves](https://civitai.com/models/1670738?modelVersionId=1891053)
 - [civitai - Kindergarten Uniform - Clothing](https://civitai.com/models/1651266/kindergarten-uniform-clothing)
-- []()
-- []()
-- []()
+- [civitai - Cartoon Style](https://civitai.com/models/153519/cartoon-style)
+- [civitai - Comic expression : scornful eyes(jitome) set B / ジト目セット B](https://civitai.com/models/135056?modelVersionId=148791)
+- [civitai - Anime Chibi Emoji LoRA](https://civitai.com/models/202597/anime-chibi-emoji-lora?modelVersionId=228095)
 
 </details>
