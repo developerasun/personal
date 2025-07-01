@@ -708,6 +708,17 @@
 - [Cloudflare 터널은 실제로 어떻게 작동하나요?](https://www.reddit.com/r/selfhosted/comments/1i64me9/how_does_a_cloudflare_tunnel_work_really/?tl=ko)
 - [외부 포트오픈이 안되는 환경에서 서버 운영하기.(Feat. 클라우드플레어 터널)](https://svrforum.com/svr/1029447)
 - [네트워크 보안을 지키면서 외부 접속을 활성화 하는 정석, Cloudflare Tunnel](https://blog.naver.com/hospital82/223327279052)
+
+</details>
+
+<details>
+<summary>July, 2025</summary>
+
+- [웹 인증 및 SSO 가이드 - mTLS 인증](https://wiki.kreonet.net/web-auth-sso/mtls-51119765.html)
+- [cloudflare docs: 상호 TLS(mTLS)란 무엇일까요?](https://www.cloudflare.com/ko-kr/learning/access-management/what-is-mutual-tls/)
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()

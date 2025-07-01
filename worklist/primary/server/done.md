@@ -1093,3 +1093,11 @@
 - []()
 
 </details>
+
+<details>
+<summary>July, 2025</summary>
+
+- [Event Loop (이벤트 루프)](https://velog.io/@thms200/Event-Loop-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
+- [[자료구조] 힙(Heap) 이해하기](https://velog.io/@gnwjd309/data-structure-heap)
+
+</details>

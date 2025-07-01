@@ -577,7 +577,13 @@
 <summary>June, 2025</summary>
 
 - [404 page isn't server rendered when using notFound() #62228](https://github.com/vercel/next.js/issues/62228#issuecomment-2025084206)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>July, 2025</summary>
+
+- [mdn docs: translate3d()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translate3d)
+- [[React] useRef란?](https://velog.io/@jinyoung985/React-useRef%EB%9E%80)
 
 </details>
