@@ -115,3 +115,21 @@
 - [civitai - Anime Chibi Emoji LoRA](https://civitai.com/models/202597/anime-chibi-emoji-lora?modelVersionId=228095)
 
 </details>
+
+<details>
+<summary>July, 2025</summary>
+
+- [civitai - Pointing to the Side (meme) | 🤣👉](https://civitai.com/models/1693654/pointing-to-the-side-meme-or?modelVersionId=1916778)
+- [civitai - [Illust&XL&Pony] fanning self / fanning face / 手うちわ](https://civitai.com/models/440806?modelVersionId=1391723)
+- [civitai - 呐~给你充 meme holding charging cable [a31 | pony]](https://civitai.com/models/626580/meme-holding-charging-cable-a31-or-pony)
+- [civitai - Ath_Q 版平涂 flat-color-style(A3.1)](https://civitai.com/models/441345/athqflat-color-stylea31?modelVersionId=491577)
+- [civitai - middle finger / flipping off (now left and right hand are separated)](https://civitai.com/models/190750/middle-finger-flipping-off-now-left-and-right-hand-are-separated)
+- [civitai - [OpenPose] Salute](https://civitai.com/models/140711/openpose-salute)
+- [civitai - Shocked Face [Meme] [One Piece]](https://civitai.com/models/137179/shocked-face-meme-one-piece)
+- [civitai - 눈치... / IllustriousXL](https://civitai.com/models/1451390/illustriousxl)
+- [civitai - Angry Dog Noises | Chibi Meme Concept | IllustriousXL and NoobAI](https://civitai.com/models/1318400/angry-dog-noises-or-chibi-meme-concept-or-illustriousxl-and-noobai)
+- []()
+- []()
+- []()
+
+</details>
