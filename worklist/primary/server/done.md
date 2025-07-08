@@ -1099,5 +1099,10 @@
 
 - [Event Loop (이벤트 루프)](https://velog.io/@thms200/Event-Loop-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%A3%A8%ED%94%84)
 - [[자료구조] 힙(Heap) 이해하기](https://velog.io/@gnwjd309/data-structure-heap)
+- [[Spring] 직렬화 (Serialization)와 역직렬화 (Deserialization) 의 정의 및 스프링에서 사용하는 방법](https://mingyum119.tistory.com/308)
+- []()
+- []()
+- []()
+- []()
 
 </details>

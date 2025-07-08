@@ -716,9 +716,9 @@
 
 - [웹 인증 및 SSO 가이드 - mTLS 인증](https://wiki.kreonet.net/web-auth-sso/mtls-51119765.html)
 - [cloudflare docs: 상호 TLS(mTLS)란 무엇일까요?](https://www.cloudflare.com/ko-kr/learning/access-management/what-is-mutual-tls/)
-- []()
-- []()
-- []()
+- [[Sentry] Sentry, 진짜 총 정리 다 정리 완전 정리 (self-hosted)](https://infiduk.github.io/2024/10/30/sentry.html)
+- [npm: @sentry/cloudflare](https://www.npmjs.com/package/@sentry/cloudflare)
+- [github: angular chat demo](https://github.com/Pinedo11/nestDemo-ChatClient)
 - []()
 - []()
 - []()
