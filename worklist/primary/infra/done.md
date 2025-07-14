@@ -719,7 +719,10 @@
 - [[Sentry] Sentry, 진짜 총 정리 다 정리 완전 정리 (self-hosted)](https://infiduk.github.io/2024/10/30/sentry.html)
 - [npm: @sentry/cloudflare](https://www.npmjs.com/package/@sentry/cloudflare)
 - [github: angular chat demo](https://github.com/Pinedo11/nestDemo-ChatClient)
-- []()
+- [Cloudflare R2 instead of S3 storage? #145](https://github.com/pocketbase/pocketbase/discussions/145)
+- [How to use minio with pocketbase? #90](https://github.com/pocketbase/pocketbase/discussions/90)
+- [[딥러닝 환경 세팅] WSL2 환경에서 원격 SSH 코딩 서버 구축하기 (VSCode)](https://21june.tistory.com/3)
+- [[Windows] 자동 시작 프로그램 설정/차단 방법 (작업 관리자, msconfig)](https://blockdmask.tistory.com/637)
 - []()
 - []()
 
