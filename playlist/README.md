@@ -176,6 +176,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [개신나는 노래🔴Confetti - Ride Of Your Life 가사해석/팝송추천](https://youtu.be/xDXPPLI3S2s?si=W77tbcW-nd7IwoH8)
 1. [MAGIC! - Rude (lyrics) (TikTok)](https://youtu.be/-LCq-fVvTC4?si=9IIM5571y0L7RDpK)
 1. [What You Got (Ayo) - Blanks (Lyrics)](https://youtu.be/puve4-GhoOU?si=oV7ttLpdLgLnQNE-)
+1. [Nicky Youre - Eyes On You (Lyrics)](https://youtu.be/VqTGOApKsCY?si=eXcUzmDnNeZZzxQz)
+1. [Nicky Youre, dazy - Sunroof (Official Music Video)](https://youtu.be/G5xSLbYMr-I?si=I2781G1atUrmrRRq)
+1. []()
+1. []()
 1. []()
 1. []()
 
