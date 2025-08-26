@@ -46,7 +46,15 @@
 1. [Go: how to check if a string contains multiple substrings?](https://stackoverflow.com/questions/47131996/go-how-to-check-if-a-string-contains-multiple-substrings)
 1. [GO: Method Receiver - Pointer v/s Value](https://medium.com/globant/go-method-receiver-pointer-vs-value-ffc5ab7acdb)
 1. [How to remove quotes from around a string in Golang](https://stackoverflow.com/questions/44222554/how-to-remove-quotes-from-around-a-string-in-golang)
-1. []()
+
+</details>
+
+<details>
+<summary>August, 2025</summary>
+
+1. [Go Pointer Explained in 2 Minutes 1 | Golang for Beginners #coding](https://youtube.com/shorts/qTjNoRgiL6A?si=HxUV5TVaEeQyjh2F)
+1. [Go Pointer Explained in 2 Minutes 2 | Golang for Beginners #coding](https://youtube.com/shorts/qTjNoRgiL6A?si=7OijWj0rmew4HSqo)
+1. [Every Golang Dev Should Know This: Atomic Values #shorts](https://youtube.com/shorts/iM06_ceOMQo?si=v5OhF4d2vPNxNTd0)
 1. []()
 1. []()
 

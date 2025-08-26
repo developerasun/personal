@@ -587,3 +587,15 @@
 - [[React] useRef란?](https://velog.io/@jinyoung985/React-useRef%EB%9E%80)
 
 </details>
+
+<details>
+<summary>August, 2025</summary>
+
+- [Svelte 5: Props Rune](https://youtube.com/shorts/455ziBaeDa0?si=KtYDQcc1yA4xyClK)
+- [Svelte 5: $derived Rune](https://youtube.com/shorts/fGYPtM_GT5E?si=gl9n7N9xTrrN5fcC)
+- [Svelte 5: $state Rune #svelte #sveltekit #coding #programming](https://youtube.com/shorts/ZZ3zQG230rk?si=ugaKTVmY6V2R4gtJ)
+- []()
+- []()
+- []()
+
+</details>
