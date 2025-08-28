@@ -179,7 +179,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Nicky Youre - Eyes On You (Lyrics)](https://youtu.be/VqTGOApKsCY?si=eXcUzmDnNeZZzxQz)
 1. [Nicky Youre, dazy - Sunroof (Official Music Video)](https://youtu.be/G5xSLbYMr-I?si=I2781G1atUrmrRRq)
 1. [Crash Adams - Destination (Official Lyric Video)](https://youtu.be/P9K_j1i_yHs?si=sbKSoEL-vrrWVyd7)
-1. []()
+1. [Maroon5 - Lucky Strike](https://youtu.be/GazL49c9G2w?si=OkQMsUR8gfIF-SgR)
 1. []()
 1. []()
 
@@ -220,7 +220,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Lil Nekh (릴네크) - Red Light (Feat. BIG Naughty) (Prod. 코드 쿤스트) [고등래퍼4 Semi Final 2]ㅣLyrics/가사](https://youtu.be/4QqXl5Otnao?si=LShEQRPzpUF7Xerp)
 1. [도넛맨 (Donutman) - SmileㅣLyrics/가사](https://youtu.be/GDgVLawGfw4?si=0ZxCw2th_A9Oii_V)
 1. [𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 들을때마다 짜릿한 G-DRAGON 지디 노래모음🎵](https://youtu.be/UX8B6WzptLU?si=hLumDqvhvrRWsp1M)
-1. []()
+1. [TimeFeveR(타임피버) '나비효과 (Butterfly effect)' #4 Official MV [ENG/JP]](https://youtu.be/V5Qjk85Z3I4?si=T53YYxaxffbpG6e4)
 1. []()
 1. []()
 

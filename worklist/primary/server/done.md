@@ -1117,3 +1117,12 @@
 - []()
 
 </details>
+
+<details>
+<summary>August, 2025</summary>
+
+- [sqlite: 1. EXPLAIN QUERY PLAN 명령](https://runebook.dev/ko/docs/sqlite/eqp#google_vignette)
+- []()
+- []()
+
+</details>

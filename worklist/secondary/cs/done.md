@@ -212,3 +212,16 @@
 - []()
 
 </details>
+
+<details>
+<summary>August, 2025</summary>
+
+- [VSCode에서 제대로 Debugging 하는 방법](https://chanmuzi.tistory.com/m/502)
+- [Debug Java code in Visual Studio Code](https://youtube.com/shorts/1uxapNRQUCs?si=_yV54N1G5J1VUDEP)
+- [Debug Python in vscode! 👨🏼‍💻#programming #tech #code #python](https://youtube.com/shorts/wPkXrf5rGCY?si=WgXbk1LtfpPbhIR7)
+- []()
+- []()
+- []()
+- []()
+
+</details>
