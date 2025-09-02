@@ -380,7 +380,7 @@
 - [해시원 - BIP39](https://wiki1.kr/index.php/BIP39)
 - [HD wallets and Derivation paths](https://help.myetherwallet.com/en/articles/5867305-hd-wallets-and-derivation-paths)
 - [My First Development on Solana](https://velog.io/@seanlion/My-First-Development-on-Solana)
-- []()
+- [oz forum: Create2 & create3](https://forum.openzeppelin.com/t/create2-create3/37224/1)
 - []()
 - []()
 - []()

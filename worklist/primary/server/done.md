@@ -1122,6 +1122,19 @@
 <summary>August, 2025</summary>
 
 - [sqlite: 1. EXPLAIN QUERY PLAN 명령](https://runebook.dev/ko/docs/sqlite/eqp#google_vignette)
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [wadiz blog: 분산 환경 속에서 ‘따닥’을 외치다](https://blog.wadiz.kr/%EB%B6%84%EC%82%B0-%ED%99%98%EA%B2%BD-%EC%86%8D%EC%97%90%EC%84%9C-%EB%94%B0%EB%8B%A5%EC%9D%84-%EC%99%B8%EC%B9%98%EB%8B%A4/)
+- [[프로젝트/기술적 의사결정] Redis 분산락으로 재고 감소 동시성 - 이슈 해결하기 (1/2)](https://developer-jinnie.tistory.com/99)
+- [[항해플러스 7기 백엔드] 6주차 회고 - 주요 기능 별 Locking 방법 비교/분석, Redis 를 사용한 분산락(RedissonLock) 도입](https://developer-ek.tistory.com/139)
+- [MySQL의 계정 생성 및 권한 부여 방법](https://jay-so.tistory.com/67)
+- []()
+- []()
+- []()
 - []()
 - []()
 

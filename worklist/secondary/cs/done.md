@@ -219,9 +219,15 @@
 - [VSCode에서 제대로 Debugging 하는 방법](https://chanmuzi.tistory.com/m/502)
 - [Debug Java code in Visual Studio Code](https://youtube.com/shorts/1uxapNRQUCs?si=_yV54N1G5J1VUDEP)
 - [Debug Python in vscode! 👨🏼‍💻#programming #tech #code #python](https://youtube.com/shorts/wPkXrf5rGCY?si=WgXbk1LtfpPbhIR7)
-- []()
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [싱글 스레드(single thread)란?](https://shung2.tistory.com/1066)
+- [mdn docs: 퍼즈 테스팅 (Fuzz testing)](https://developer.mozilla.org/ko/docs/Glossary/Fuzzing)
+- [toss payments: 멱등성이 뭔가요?](https://docs.tosspayments.com/blog/what-is-idempotency#%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 - []()
 
 </details>
