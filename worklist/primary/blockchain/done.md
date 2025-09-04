@@ -385,6 +385,8 @@
 - [alchemy docs: Intro to Smart Wallets](https://www.alchemy.com/docs/wallets/concepts/intro-to-account-kit)
 - [동일한 스마트 컨트랙트 주소로 배포 CREATE2](https://tech-talks.tistory.com/entry/%EB%8F%99%EC%9D%BC%ED%95%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-%EC%A3%BC%EC%86%8C%EB%A1%9C-%EB%B0%B0%ED%8F%AC-CREATE2)
 - [viem docs: Cross-Chain USDC Transfers (CCTP V2)](https://viem.sh/circle-usdc/guides/cross-chain)
+- [[Solidity] ERC20 Permit이란?](https://rainbow96bear.tistory.com/entry/Solidity-ERC20-Permit%EC%9D%B4%EB%9E%80#google_vignette)
+- [우분투에 솔리디티 컴파일러 설치](https://next-block.tistory.com/entry/%EC%9A%B0%EB%B6%84%ED%88%AC%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0-%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EC%84%A4%EC%B9%98)
 - []()
 - []()
 - []()

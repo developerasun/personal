@@ -228,6 +228,10 @@
 - [싱글 스레드(single thread)란?](https://shung2.tistory.com/1066)
 - [mdn docs: 퍼즈 테스팅 (Fuzz testing)](https://developer.mozilla.org/ko/docs/Glossary/Fuzzing)
 - [toss payments: 멱등성이 뭔가요?](https://docs.tosspayments.com/blog/what-is-idempotency#%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
+- [[컴퓨터구조] 워드(Word)란?](https://jyostudy.tistory.com/114)
+- []()
+- []()
+- []()
 - []()
 
 </details>
