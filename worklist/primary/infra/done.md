@@ -723,6 +723,14 @@
 - [How to use minio with pocketbase? #90](https://github.com/pocketbase/pocketbase/discussions/90)
 - [[딥러닝 환경 세팅] WSL2 환경에서 원격 SSH 코딩 서버 구축하기 (VSCode)](https://21june.tistory.com/3)
 - [[Windows] 자동 시작 프로그램 설정/차단 방법 (작업 관리자, msconfig)](https://blockdmask.tistory.com/637)
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [Docker Compose에서 각 서비스 컨테이너에 쓰이는 환경변수를 다루는 방법](https://seongjin.me/environment-variables-in-docker-compose/)
+- []()
 - []()
 - []()
 
