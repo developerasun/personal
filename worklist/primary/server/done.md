@@ -1133,5 +1133,13 @@
 - [[항해플러스 7기 백엔드] 6주차 회고 - 주요 기능 별 Locking 방법 비교/분석, Redis 를 사용한 분산락(RedissonLock) 도입](https://developer-ek.tistory.com/139)
 - [MySQL의 계정 생성 및 권한 부여 방법](https://jay-so.tistory.com/67)
 - [[NestJS] 요청에서 withCredentials 사용할 때 서버에서 origin을 와일드카드(\*)로 사용하면 안 됨](https://blog.thereed.io/main/25/article/%5BNestJS%5D%20%EC%9A%94%EC%B2%AD%EC%97%90%EC%84%9C%20withCredentials%20%EC%82%AC%EC%9A%A9%ED%95%A0%20%EB%95%8C%20%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C%20origin%EC%9D%84%20%EC%99%80%EC%9D%BC%EB%93%9C%EC%B9%B4%EB%93%9C%28*%29%EB%A1%9C%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%A9%B4%20%EC%95%88%20%EB%90%A8-443bc8678f7ab0a9adc8eaebb04d34b8)
+- [[PostgreSQL] 자료형 (데이터타입) - 기본](https://codecamp.tistory.com/m/7)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 </details>
