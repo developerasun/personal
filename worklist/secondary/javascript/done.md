@@ -467,6 +467,16 @@
 - [zerocho - 실패했는데 상태 코드가 200인 경우…?](https://youtube.com/shorts/BEIng-2BH24?si=57wP6awwfEk-BhKY)
 - [OpenGL, WebGL이 뭘까? (Three.js)](https://velog.io/@muscatcola/WebGL)
 - [PROOF JavaScript is a Multi-Threaded language](https://youtu.be/-JE8P2TiJEg?si=6Zyzb7263zbKM-KN)
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [dotenv + jest 테스트 환경 구축하기](https://m.blog.naver.com/greenmint0_0/222954232598?recommendTrackingCode=2)
+- []()
+- []()
+- []()
 - []()
 - []()
 

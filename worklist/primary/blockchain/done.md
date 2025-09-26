@@ -420,7 +420,7 @@
 - [github: @tronweb3/tronwallet-adapter-metamask](https://github.com/tronweb3/tronwallet-adapter/blob/main/packages/adapters/metamask/README.md)
 - [DID는 지갑인가요? Web3 신원 미신에 대해 이야기해봅시다](https://www.chaincatcher.com/ko/article/2082369)
 - [github: codestates - DIDNOW](https://github.com/codestates/DIDNOW/blob/main/SC/contracts/libs/DidUtils.sol)
-- []()
+- ["AI 거래 시대 연다"…클라우드플레어, 스테이블코인 '넷 달러' 발표](https://zdnet.co.kr/view/?no=20250926170922#_DYAD)
 - []()
 - []()
 - []()
