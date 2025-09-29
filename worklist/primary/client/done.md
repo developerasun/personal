@@ -594,6 +594,15 @@
 - [Svelte 5: Props Rune](https://youtube.com/shorts/455ziBaeDa0?si=KtYDQcc1yA4xyClK)
 - [Svelte 5: $derived Rune](https://youtube.com/shorts/fGYPtM_GT5E?si=gl9n7N9xTrrN5fcC)
 - [Svelte 5: $state Rune #svelte #sveltekit #coding #programming](https://youtube.com/shorts/ZZ3zQG230rk?si=ugaKTVmY6V2R4gtJ)
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [vocs docs: Blog](https://vocs.dev/docs/guides/blog)
+- [vocs docs: Components](https://vocs.dev/docs/guides/components)
+- []()
 - []()
 - []()
 - []()
