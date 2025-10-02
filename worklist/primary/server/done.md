@@ -1139,8 +1139,18 @@
 - [[kafka/Docker] 도커로 카프카를 띄워보고, 토픽 생성 후 메시지를 보내보자.](https://9hyuk9.tistory.com/92)
 - [kafkajs docs: Getting Started](https://kafka.js.org/docs/getting-started)
 - [kafkajs docs: Transactions](https://kafka.js.org/docs/transactions)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>October, 2025</summary>
+
+- [github: csrf-sync](https://github.com/Psifi-Solutions/csrf-sync/blob/main/src/tests/csrfsync.test.ts)
+- [[Traefik] Traefik에서 Let's Encrypt 인증서 발급 문제 해결](https://float.tistory.com/307#google_vignette)
+- [reddit: traefik: 내가 직접 SSL 인증서를 만들어야 해?](https://www.reddit.com/r/Traefik/comments/16kvdsu/do_i_have_manually_create_ssl_certificate/?tl=ko)
+- [[Kafka] Kafka 의 Topic 과 Partition](https://ggop-n.tistory.com/89#google_vignette)
+- [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머)](https://sjh836.tistory.com/186)
+- [Nest.js에서 Kafka 사용하기 (이벤트 기반)](https://sdg9670.github.io/nodejs/nestjs-kafka/)
 - []()
 - []()
 

@@ -730,6 +730,15 @@
 <summary>September, 2025</summary>
 
 - [Docker Compose에서 각 서비스 컨테이너에 쓰이는 환경변수를 다루는 방법](https://seongjin.me/environment-variables-in-docker-compose/)
+
+</details>
+
+<details>
+<summary>October, 2025</summary>
+
+- [sentry docs: Getting Started](https://develop.sentry.dev/self-hosted/#getting-started)
+- []()
+- []()
 - []()
 - []()
 - []()
