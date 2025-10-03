@@ -737,10 +737,6 @@
 <summary>October, 2025</summary>
 
 - [sentry docs: Getting Started](https://develop.sentry.dev/self-hosted/#getting-started)
-- []()
-- []()
-- []()
-- []()
-- []()
+- [docker mailserver docs: Basic Installation](https://docker-mailserver.github.io/docker-mailserver/latest/examples/tutorials/basic-installation/)
 
 </details>

@@ -602,8 +602,13 @@
 
 - [vocs docs: Blog](https://vocs.dev/docs/guides/blog)
 - [vocs docs: Components](https://vocs.dev/docs/guides/components)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>October, 2025</summary>
+
+- [ssgoi docs: view transitions](https://ssgoi.dev/ko)
 - []()
 - []()
 
