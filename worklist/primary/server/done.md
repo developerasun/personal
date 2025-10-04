@@ -1152,6 +1152,10 @@
 - [Kafka 기본 개념 (토픽, 파티션, 성능, 고가용성, 프로듀서, 컨슈머)](https://sjh836.tistory.com/186)
 - [Nest.js에서 Kafka 사용하기 (이벤트 기반)](https://sdg9670.github.io/nodejs/nestjs-kafka/)
 - [github: publicdatareader: kbland real estate api](https://github.com/WooilJeong/PublicDataReader/blob/main/assets%2Fdocs%2Fkbland%2FKbland.md)
+- [BillionMail MailServer, Newsletter & Email Marketing Full Installation Service](https://youtu.be/U91ZE6S7jw4?si=W05eD7X0HenaRe-l)
+- []()
+- []()
+- []()
 - []()
 
 </details>
