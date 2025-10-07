@@ -229,7 +229,13 @@
 - [mdn docs: 퍼즈 테스팅 (Fuzz testing)](https://developer.mozilla.org/ko/docs/Glossary/Fuzzing)
 - [toss payments: 멱등성이 뭔가요?](https://docs.tosspayments.com/blog/what-is-idempotency#%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 - [[컴퓨터구조] 워드(Word)란?](https://jyostudy.tistory.com/114)
-- []()
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [Noob Software Engineer vs O(n) Swaggy Engineer on Counting Elements, Leetcode 1426](https://youtube.com/shorts/1f7FgPd0jPI?si=IwHM2esNmAI2VkwS)
 - []()
 - []()
 - []()
