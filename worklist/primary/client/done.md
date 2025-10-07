@@ -609,6 +609,19 @@
 <summary>October, 2025</summary>
 
 - [ssgoi docs: view transitions](https://ssgoi.dev/ko)
+- [How To Deploy React App on GitHub Pages #github #reactjs #coding](https://youtube.com/shorts/i7BApxIsOYM?si=FF1MchhFDTgsIKSL)
+- [[Build] gh-pages에 deploy하기](https://lazyhysong.tistory.com/m/entry/Build-gh-pages%EC%97%90-deploy%ED%95%98%EA%B8%B0)
+- [github: viem: deploy-docs.yml](https://github.com/wevm/viem/blob/main/.github/workflows/deploy-docs.yml)
+- [Branch "x" is not allowed to deploy to github-pages due to environment protection rules. #39054](https://github.com/orgs/community/discussions/39054)
+- [Play CDN으로 간편하게 Tailwind 시작하기](https://www.daleseo.com/tailwind-play/#google_vignette)
+- [React vs HTMX - 2025 Comparison](https://youtu.be/lc9_TOZZt_4?si=7PlNY2UDFgEokwDM)
+- [나 혼자 다해먹을 htmx](https://velog.io/@betalabs/%EB%82%98-%ED%98%BC%EC%9E%90-%EB%8B%A4%ED%95%B4%EB%A8%B9%EC%9D%84-htmx)
+- [Golang에서 Template 사용하기 (Go Template)](https://code-kirin.me/blog/go/go-template/)
+- [HTMX in 60 seconds with ThePrimeagen](https://www.youtube.com/shorts/utq5nKyj-SM)
+- [HTMX vs JavaScript](https://www.youtube.com/shorts/uq5ARvvc0W0)
+- [HTMX in 50 seconds](https://www.youtube.com/shorts/FbO46Mc1JeE)
+- [HTMX hx-include attribute #htmx #webdevelopment #frontend #backend](https://youtube.com/shorts/_34UKLq5OOQ?si=PySRdx9FfrFOWtbV)
+- []()
 - []()
 - []()
 
