@@ -1160,8 +1160,8 @@
 - [goethereum docs: Setting up the Client](https://goethereumbook.org/en/client-setup/)
 - [Zig in 100 Seconds](https://youtu.be/kxT8-C1vmd4?si=gFkwZPp5J2H5Rc4Y)
 - [Zig for Impatient Devs](https://youtu.be/5I4ZkmMS4-0?si=C0rUndNtdMgV9-t6)
-- []()
-- []()
+- [gin docs: Model binding and validation](https://gin-gonic.com/en/docs/examples/binding-and-validation/)
+- [github: go-playground: validator](https://github.com/go-playground/validator/blob/master/_examples%2Fsimple%2Fmain.go)
 - []()
 - []()
 
