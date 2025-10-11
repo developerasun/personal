@@ -180,6 +180,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Nicky Youre, dazy - Sunroof (Official Music Video)](https://youtu.be/G5xSLbYMr-I?si=I2781G1atUrmrRRq)
 1. [Crash Adams - Destination (Official Lyric Video)](https://youtu.be/P9K_j1i_yHs?si=sbKSoEL-vrrWVyd7)
 1. [Maroon5 - Lucky Strike](https://youtu.be/GazL49c9G2w?si=OkQMsUR8gfIF-SgR)
+1. [Shawn Mendes - If I Can't Have You (Official Lyric Video)](https://youtu.be/MVITXvCuqeU?si=w16-_LN_MMUw7S2W)
+1. [no one here knows goner just hit 2.5 million streams 🙌 #popmusic #songwriter #pop #singing #piano](https://youtube.com/shorts/McP2op1cRYU?si=jS5g-uUEF83D_C8C)
+1. []()
 1. []()
 1. []()
 
