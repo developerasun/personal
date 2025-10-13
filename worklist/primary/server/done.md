@@ -1162,6 +1162,11 @@
 - [Zig for Impatient Devs](https://youtu.be/5I4ZkmMS4-0?si=C0rUndNtdMgV9-t6)
 - [gin docs: Model binding and validation](https://gin-gonic.com/en/docs/examples/binding-and-validation/)
 - [github: go-playground: validator](https://github.com/go-playground/validator/blob/master/_examples%2Fsimple%2Fmain.go)
+- [svix docs: Receive Webhooks with Go (Gin)](https://www.svix.com/guides/receiving/receive-webhooks-with-go-gin/)
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 
