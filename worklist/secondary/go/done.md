@@ -62,7 +62,16 @@
 <summary>September, 2025</summary>
 
 1. [Go 언어로 적용해보는 Computer Science - Deadlock](https://umi0410.github.io/blog/golang/go-deadlock/)
-1. []()
+
+</details>
+
+<details>
+<summary>October, 2025</summary>
+
+1. [[이더리움에서 배우는 Go언어] select 의 거의 모든 패턴들](https://hamait.tistory.com/1017)
+1. [go pattern: Fan-out, Fan-in](https://ocwokocw.tistory.com/325)
+1. [golang: 파이프라인(pipeline)이란?](https://happydhkim.tistory.com/entry/golang-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8pipeline%EC%9D%B4%EB%9E%80)
+1. [[Golang] recover 는 언제 사용하나?](https://hamait.tistory.com/1027)
 1. []()
 1. []()
 
