@@ -622,7 +622,7 @@
 - [HTMX in 50 seconds](https://www.youtube.com/shorts/FbO46Mc1JeE)
 - [HTMX hx-include attribute #htmx #webdevelopment #frontend #backend](https://youtube.com/shorts/_34UKLq5OOQ?si=PySRdx9FfrFOWtbV)
 - [How to send a Json in the request body using HTMX ?](https://www.reddit.com/r/htmx/comments/1icmnby/how_to_send_a_json_in_the_request_body_using_htmx/)
-- []()
+- [nextjs docs: image loading](https://nextjs.org/docs/app/api-reference/components/image#loading)
 - []()
 - []()
 - []()
