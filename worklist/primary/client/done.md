@@ -623,7 +623,7 @@
 - [HTMX hx-include attribute #htmx #webdevelopment #frontend #backend](https://youtube.com/shorts/_34UKLq5OOQ?si=PySRdx9FfrFOWtbV)
 - [How to send a Json in the request body using HTMX ?](https://www.reddit.com/r/htmx/comments/1icmnby/how_to_send_a_json_in_the_request_body_using_htmx/)
 - [nextjs docs: image loading](https://nextjs.org/docs/app/api-reference/components/image#loading)
-- []()
+- [React가 일을 하기 시작했다 - Activity (React 19.2 신기능)](https://youtube.com/shorts/RlEppB9pan8?si=s6JRo_P41v-zu6Qr)
 - []()
 - []()
 - []()

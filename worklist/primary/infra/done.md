@@ -739,7 +739,7 @@
 - [sentry docs: Getting Started](https://develop.sentry.dev/self-hosted/#getting-started)
 - [docker mailserver docs: Basic Installation](https://docker-mailserver.github.io/docker-mailserver/latest/examples/tutorials/basic-installation/)
 - [K3D: Deploying and accessing application](https://youtu.be/_rGedM2YpwM?si=DgjRjLAXUkX51pvu)
-- []()
+- [스티키 세션(Sticky Session), 세션 클러스터링(Session Clustering)이란? + 세션, 로드 밸런싱, Session Storage](https://woo0doo.tistory.com/26)
 - []()
 - []()
 - []()
