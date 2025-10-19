@@ -72,6 +72,9 @@
 1. [go pattern: Fan-out, Fan-in](https://ocwokocw.tistory.com/325)
 1. [golang: 파이프라인(pipeline)이란?](https://happydhkim.tistory.com/entry/golang-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8pipeline%EC%9D%B4%EB%9E%80)
 1. [[Golang] recover 는 언제 사용하나?](https://hamait.tistory.com/1027)
+1. [go blog: Concurrency is not parallelism](https://go.dev/blog/waza-talk)
+1. [go dev: Restoring sequencing.](https://go.dev/talks/2012/concurrency.slide#30)
+1. []()
 1. []()
 1. []()
 

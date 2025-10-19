@@ -211,6 +211,14 @@
 
 - [What's the purpose of actions/checkout@v3, when the repository is already checked out on job start?](https://stackoverflow.com/questions/76938677/whats-the-purpose-of-actions-checkoutv3-when-the-repository-is-already-checke)
 - [Github Actions를 이용해 CI/CD를 구축해보자(ssh 연결)](https://doooodle932.tistory.com/163)
+
+</details>
+
+<details>
+<summary>Oct, 2025</summary>
+
+- [gitlab docs: npm packages in the Package Registry all tiers](https://archives.docs.gitlab.com/15.11/ee/user/packages/npm_registry/)
+- []()
 - []()
 - []()
 
