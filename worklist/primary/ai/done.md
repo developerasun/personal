@@ -130,7 +130,13 @@
 - [civitai - Angry Dog Noises | Chibi Meme Concept | IllustriousXL and NoobAI](https://civitai.com/models/1318400/angry-dog-noises-or-chibi-meme-concept-or-illustriousxl-and-noobai)
 - [Gemini CLI 활용 방법과 숨겨진 가치](https://bcho.tistory.com/1480)
 - [터미널 AI 도구 Gemini CLI – 설치부터 간단 사용 후기까지](https://velog.io/@dnjstjdgus03/GeminiCLI)
-- []()
+
+</details>
+
+<details>
+<summary>Oct, 2025</summary>
+
+- [<에코용어사전> “LLM, 파인튜닝, RAG?” 낯설지만 꼭 알아야 할 AI 용어들](https://news.skecoplant.com/plant-tomorrow/18811/)
 - []()
 - []()
 - []()
