@@ -1168,7 +1168,7 @@
 - [[MySQL] 동시성 문제 해결 - 비관적 락 ( Pessimistic Lock )](https://programmer-hoo.tistory.com/81)
 - [[NestJS] NestJS에서 Swagger 사용법 (feat. API Documentation)](https://cdragon.tistory.com/entry/NestJS-NestJS%EC%97%90%EC%84%9C-Swagger-%EC%82%AC%EC%9A%A9%EB%B2%95-feat-API-Documentation)
 - [[MySQL] 동시성 문제 해결 - 비관적 락 ( Pessimistic Lock )](https://programmer-hoo.tistory.com/81)
-- []()
+- [nestjs docs: Server-Sent Events](https://docs.nestjs.com/techniques/server-sent-events)
 - []()
 - []()
 
