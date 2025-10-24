@@ -478,7 +478,7 @@
 - [EIP-681 URL and QRcode for "approve" function does not work #1828](https://github.com/MetaMask/metamask-mobile/issues/1828)
 - [ERC-6551의 특징과 사례](https://medium.com/decipher-media/erc-6551%EC%9D%98-%ED%8A%B9%EC%A7%95%EA%B3%BC-%EC%82%AC%EB%A1%80-91057d8410dd)
 - [alchemy docs: What is a hashing algorithm?](https://www.alchemy.com/docs/hashing-algorithm)
-- []()
+- [binance docs: When Is the Next Bitcoin Halving?](https://www.binance.com/en/events/bitcoin-halving)
 - []()
 - []()
 - []()

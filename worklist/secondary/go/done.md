@@ -97,8 +97,8 @@
 1. [예제로 배우는 Go 프로그래밍: 1. HTTP GET 호출](http://golang.site/go/article/102-HTTP-GET-%ED%98%B8%EC%B6%9C)
 1. [[Go] 고루틴(goroutine)과 채널(channel)](https://jh-labs.tistory.com/716)
 1. [gin docs: Testing](https://gin-gonic.com/en/docs/testing/)
-1. []()
-1. []()
+1. [[Go] context 사용하기](https://yoongrammer.tistory.com/36)
+1. [[golang] go context의 활용1(go context사용법 및 예제1)](https://frozenpond.tistory.com/162)
 1. []()
 1. []()
 
