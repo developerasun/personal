@@ -1169,6 +1169,10 @@
 - [[NestJS] NestJS에서 Swagger 사용법 (feat. API Documentation)](https://cdragon.tistory.com/entry/NestJS-NestJS%EC%97%90%EC%84%9C-Swagger-%EC%82%AC%EC%9A%A9%EB%B2%95-feat-API-Documentation)
 - [[MySQL] 동시성 문제 해결 - 비관적 락 ( Pessimistic Lock )](https://programmer-hoo.tistory.com/81)
 - [nestjs docs: Server-Sent Events](https://docs.nestjs.com/techniques/server-sent-events)
+- [Spring에서 Kotlin을 사용한다는 것은 어떤 의미일까?](https://joojinhyun.medium.com/spring%EC%97%90%EC%84%9C-kotlin%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%96%B4%EB%96%A4-%EC%9D%98%EB%AF%B8%EC%9D%BC%EA%B9%8C-134490c2ef65)
+- [속성 코틀린: 00. 코틀린에서의 단위 테스트: JUnit, Mockito, Kotest](https://wikidocs.net/297884)
+- [새로운 프로젝트(백엔드)를 위해 Java 대신 Kotlin을 선택해야 할까요?](https://www.reddit.com/r/Kotlin/comments/14bpuym/should_i_choose_kotlin_over_java_for_a_new/?tl=ko)
+- []()
 - []()
 - []()
 

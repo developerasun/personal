@@ -99,6 +99,10 @@
 1. [gin docs: Testing](https://gin-gonic.com/en/docs/testing/)
 1. [[Go] context 사용하기](https://yoongrammer.tistory.com/36)
 1. [[golang] go context의 활용1(go context사용법 및 예제1)](https://frozenpond.tistory.com/162)
+1. [go blog: Error handling and Go](https://go.dev/blog/error-handling-and-go)
+1. [Go 에러, 에러처리](https://eblo.tistory.com/234)
+1. [Error는 검사만 하지말고, 우아하게 처리하세요.](http://cloudrain21.com/golang-graceful-error-handling)
+1. [[Go] goroutine 과 channel 로 API 실행 시간 개선하기](https://junior-datalist.tistory.com/395)
 1. []()
 1. []()
 
