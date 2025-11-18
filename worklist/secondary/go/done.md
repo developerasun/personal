@@ -103,6 +103,18 @@
 1. [Go 에러, 에러처리](https://eblo.tistory.com/234)
 1. [Error는 검사만 하지말고, 우아하게 처리하세요.](http://cloudrain21.com/golang-graceful-error-handling)
 1. [[Go] goroutine 과 channel 로 API 실행 시간 개선하기](https://junior-datalist.tistory.com/395)
+
+</details>
+
+<details>
+<summary>November, 2025</summary>
+
+1. [How to exit Yaegi? #1424](https://github.com/traefik/yaegi/discussions/1424)
+1. [Context Cancellation in Go](https://youtube.com/shorts/V7kj5zh31us?si=dpG0PYJuLgnAr8tp)
+1. [Go (Golang) Tutorial #16 - Receiver Functions](https://youtu.be/HE6tbWlymmk?si=32jK0-vyVnFi7uYt)
+1. [Go (Golang) Tutorial #15 - Structs & Custom Types](https://youtu.be/zfMhSFpBSaw?si=KaBggAjAuHY5IZws)
+1. [Go (Golang) Tutorial #17 - Receiver Functions with Pointers](https://youtu.be/cgBA5k50At8?si=bOBh5XTmXGN1aCnS)
+1. []()
 1. []()
 1. []()
 

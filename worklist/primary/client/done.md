@@ -633,7 +633,14 @@
 - [[JS] URL.createObjectURL() / URL.revokeObjectURL(): 임시 URL 생성 / 해제](https://tensdiary.tistory.com/entry/JS-URLcreateObjectURL-URLrevokeObjectURL-%EC%9E%84%EC%8B%9C-URL-%EC%83%9D%EC%84%B1-%ED%95%B4%EC%A0%9C)
 - [BLOB URL (Object URL) 사용하기](http://www.mins01.com/mh/tech/read/1306#google_vignette)
 - [mdn docs: URL: canParse() static method](https://developer.mozilla.org/en-US/docs/Web/API/URL/canParse_static)
-- []()
+
+</details>
+
+<details>
+<summary>November, 2025</summary>
+
+- [Next.js how to disable source maps?](https://stackoverflow.com/questions/76659255/next-js-how-to-disable-source-maps)
+- [Should I block SEMrush in my robots.txt?](https://www.conductor.com/academy/robotstxt/faq/semrush/)
 - []()
 - []()
 - []()

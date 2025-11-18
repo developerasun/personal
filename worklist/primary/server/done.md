@@ -1172,7 +1172,16 @@
 - [Spring에서 Kotlin을 사용한다는 것은 어떤 의미일까?](https://joojinhyun.medium.com/spring%EC%97%90%EC%84%9C-kotlin%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80-%EC%96%B4%EB%96%A4-%EC%9D%98%EB%AF%B8%EC%9D%BC%EA%B9%8C-134490c2ef65)
 - [속성 코틀린: 00. 코틀린에서의 단위 테스트: JUnit, Mockito, Kotest](https://wikidocs.net/297884)
 - [새로운 프로젝트(백엔드)를 위해 Java 대신 Kotlin을 선택해야 할까요?](https://www.reddit.com/r/Kotlin/comments/14bpuym/should_i_choose_kotlin_over_java_for_a_new/?tl=ko)
-- []()
+
+</details>
+
+<details>
+<summary>November, 2025</summary>
+
+- [rxjs docs: finalize](https://rxjs.dev/api/operators/finalize)
+- [[NestJS] NestJS 트랜잭션(Transaction) 관리하기(With TypeORM)](https://cdragon.tistory.com/entry/NestJS-NestJS-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0With-TypeORM#google_vignette)
+- [RxJS 파이프라인 연산자](https://chalchichi.tistory.com/101)
+- [⚡ FastAPI in 30 Seconds](https://youtube.com/shorts/lX_G0l9jU94?si=PMbwkJ3Ih7vc33qI)
 - []()
 - []()
 
