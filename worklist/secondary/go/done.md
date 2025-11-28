@@ -122,6 +122,25 @@
 1. [Go Viper - Config file 읽어오기](https://velog.io/@myeong01/Go-Viper-Config-file-%EC%9D%BD%EC%96%B4%EC%98%A4%EA%B8%B0)
 1. [Go (Golang) Tutorial #7 - Loops](https://youtu.be/CL13xV2dHCg?si=LYAAubksXJUfNP6H)
 1. [Go (Golang) Tutorial #10 - Multiple Return Values](https://youtu.be/ypV7r1ODZCA?si=tSMbrU00MpAzloyb)
+1. [Be carful of nil \*pointers in Go](https://youtube.com/shorts/bThYax8lZ2Y?si=u3zuOo2HLhHmIX04)
+1. [POINTERS! As Fast As Possible!! #coding #programming #cplusplus #cpp #clanguage](https://youtube.com/shorts/Ub4gUyj2dkY?si=NTTaJq8rtRfkbdDq)
+1. []()
+1. []()
+1. []()
+1. []()
+
+</details>
+
+<details>
+<summary>December, 2025</summary>
+
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()
 1. []()
 1. []()
 
