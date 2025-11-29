@@ -474,6 +474,18 @@
 <summary>September, 2025</summary>
 
 - [dotenv + jest 테스트 환경 구축하기](https://m.blog.naver.com/greenmint0_0/222954232598?recommendTrackingCode=2)
+
+</details>
+
+<details>
+<summary>September, 2025</summary>
+
+- [[TS] filter 함수와 find 함수의 차이를 알아보자](https://velog.io/@jay2u8809/TS-filter-%ED%95%A8%EC%88%98%EC%99%80-find-%ED%95%A8%EC%88%98%EC%9D%98-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+- []()
+- []()
+- []()
+- []()
+- []()
 - []()
 - []()
 - []()
