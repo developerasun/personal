@@ -124,8 +124,11 @@
 1. [Go (Golang) Tutorial #10 - Multiple Return Values](https://youtu.be/ypV7r1ODZCA?si=tSMbrU00MpAzloyb)
 1. [Be carful of nil \*pointers in Go](https://youtube.com/shorts/bThYax8lZ2Y?si=u3zuOo2HLhHmIX04)
 1. [POINTERS! As Fast As Possible!! #coding #programming #cplusplus #cpp #clanguage](https://youtube.com/shorts/Ub4gUyj2dkY?si=NTTaJq8rtRfkbdDq)
-1. []()
-1. []()
+1. [gin docs: Using BasicAuth middleware](https://gin-gonic.com/en/docs/examples/using-basicauth-middleware/#_top)
+1. [Go Generate를 사용하여 생산성 향상: 코드 생성 자동화](https://leapcell.io/blog/ko/go-generate-reur-yonghago-saengsanseong-hyangsang-kodeu-saengseong-jadonghwa)
+1. [The most elegant field validation technique in Go #golang #backend #devops](https://youtube.com/shorts/XtFviEd6ZeQ?si=roGUVX0RfD1UwBJW)
+1. [Building Go Executables: Code Generation](https://youtu.be/bNop7gAMjdg?si=tiPsPu8VhoO3wKkM)
+1. [Master Go's Type Switch in 60 Seconds! | Golang Tutorial for Beginners](https://youtube.com/shorts/80_EL4E3QTQ?si=MwnxZqYfy4jYYBSa)
 1. []()
 1. []()
 
