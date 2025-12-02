@@ -129,6 +129,11 @@
 1. [The most elegant field validation technique in Go #golang #backend #devops](https://youtube.com/shorts/XtFviEd6ZeQ?si=roGUVX0RfD1UwBJW)
 1. [Building Go Executables: Code Generation](https://youtu.be/bNop7gAMjdg?si=tiPsPu8VhoO3wKkM)
 1. [Master Go's Type Switch in 60 Seconds! | Golang Tutorial for Beginners](https://youtube.com/shorts/80_EL4E3QTQ?si=MwnxZqYfy4jYYBSa)
+1. [Go (Golang) Tutorial #20 - Parsing Floats](https://youtu.be/ipUWKRPw43I?si=MGINcwTcXEUXLkpm)
+1. [#2 Golang - Mastering GORM Associations: One to many](https://youtu.be/W56STu1TU3Q?si=KYqwfWyHRyixdWRy)
+1. [Go (Golang) Tutorial #21 - Saving Files](https://youtu.be/J88pG3NeRoA?si=ygsAcqAaEkNMNHB6)
+1. [gorm docs: FOREIGN KEY Constraints](https://gorm.io/docs/belongs_to.html#FOREIGN-KEY-Constraints)
+1. [Iterators in Go](https://youtube.com/shorts/Cvisg_HTr0g?si=Fd4B2NkX6mU3uOsw)
 1. []()
 1. []()
 
