@@ -1,4 +1,4 @@
-# @asunlabs/personal
+# @developerasun/personal/playlist
 
 A collection of songs for developers coding up all night. Fully open sourced, PRs are welcome. Feel free to add your favorite song while coding.
 
