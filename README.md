@@ -1,22 +1,11 @@
-<h1 align="center">@asunlabs/personal 👋</h1>
-<p>
-  <a href="https://www.npmjs.com/package/personal" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/personal.svg">
-  </a>
-</p>
+# @developerasun/personal
 
-> I archive every TIL and playlist here
+Archieve what I do.
 
-## Author
+Sniff and Go fork it.
 
-👤 **Jake Sung**
+And send me some Bitcoin in return.
 
-- Github: [@developerasun](https://github.com/developerasun)
+Or Ethereum.
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
----
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+Or Gangnam Budongsan.
