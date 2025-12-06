@@ -134,15 +134,15 @@
 1. [Go (Golang) Tutorial #21 - Saving Files](https://youtu.be/J88pG3NeRoA?si=ygsAcqAaEkNMNHB6)
 1. [gorm docs: FOREIGN KEY Constraints](https://gorm.io/docs/belongs_to.html#FOREIGN-KEY-Constraints)
 1. [Iterators in Go](https://youtube.com/shorts/Cvisg_HTr0g?si=Fd4B2NkX6mU3uOsw)
-1. []()
-1. []()
 
 </details>
 
 <details>
 <summary>December, 2025</summary>
 
-1. []()
+1. [구조체 생성자를 가장 관용적이고 효율적으로 쓰는 방법은?](https://www.reddit.com/r/golang/comments/eezm31/most_idiomatic_efficient_way_to_write_a_struct/?tl=ko)
+1. [생각하는 Go 언어 프로그래밍 : 구조체에 생성자를 둘 수 있나?](https://goldenrabbit.co.kr/2021/10/07/%E1%84%80%E1%85%AE%E1%84%8C%E1%85%A9%E1%84%8E%E1%85%A6%E1%84%8B%E1%85%A6-%E1%84%89%E1%85%A2%E1%86%BC%E1%84%89%E1%85%A5%E1%86%BC%E1%84%8C%E1%85%A1%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%83%E1%85%AE%E1%86%AF/)
+1. [[Design Go] 팩토리 메소드 패턴](https://simplear.tistory.com/13)
 1. []()
 1. []()
 1. []()

@@ -1182,6 +1182,16 @@
 - [[NestJS] NestJS 트랜잭션(Transaction) 관리하기(With TypeORM)](https://cdragon.tistory.com/entry/NestJS-NestJS-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98Transaction-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0With-TypeORM#google_vignette)
 - [RxJS 파이프라인 연산자](https://chalchichi.tistory.com/101)
 - [⚡ FastAPI in 30 Seconds](https://youtube.com/shorts/lX_G0l9jU94?si=PMbwkJ3Ih7vc33qI)
+
+</details>
+
+<details>
+<summary>December, 2025</summary>
+
+- [[Redis] Redis Pipeline](https://junghyungil.tistory.com/220)
+- []()
+- []()
+- []()
 - []()
 - []()
 
