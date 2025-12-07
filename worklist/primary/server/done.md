@@ -1189,9 +1189,9 @@
 <summary>December, 2025</summary>
 
 - [[Redis] Redis Pipeline](https://junghyungil.tistory.com/220)
-- []()
-- []()
-- []()
+- [github: jasonlvhit/gocron: Can gocron work with gin #50](https://github.com/jasonlvhit/gocron/issues/50)
+- [configure cron with gin](https://github.com/huyntsgs/exercise/blob/master/main.go#L215)
+- [github: gorm/errors.go](https://github.com/go-gorm/gorm/blob/master/errors.go)
 - []()
 - []()
 
