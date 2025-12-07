@@ -233,16 +233,24 @@
 </details>
 
 <details>
-<summary>September, 2025</summary>
+<summary>October, 2025</summary>
 
 - [Noob Software Engineer vs O(n) Swaggy Engineer on Counting Elements, Leetcode 1426](https://youtube.com/shorts/1f7FgPd0jPI?si=IwHM2esNmAI2VkwS)
 
 </details>
 
 <details>
-<summary>September, 2025</summary>
+<summary>November, 2025</summary>
 
 - [wikipedia: God object](https://en.wikipedia.org/wiki/God_object)
+
+</details>
+
+<details>
+<summary>December, 2025</summary>
+
+- [Windows WSL 환경에서 Homebrew 설치하기](https://katfun.tistory.com/168)
+- []()
 - []()
 - []()
 
