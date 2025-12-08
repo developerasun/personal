@@ -1192,6 +1192,9 @@
 - [github: jasonlvhit/gocron: Can gocron work with gin #50](https://github.com/jasonlvhit/gocron/issues/50)
 - [configure cron with gin](https://github.com/huyntsgs/exercise/blob/master/main.go#L215)
 - [github: gorm/errors.go](https://github.com/go-gorm/gorm/blob/master/errors.go)
+- [gorm docs: Upsert / On Conflict](https://gorm.io/docs/create.html#Upsert-On-Conflict)
+- [gin docs: 여러 개의 서비스를 실행하기](https://gin-gonic.com/ko-kr/docs/examples/run-multiple-service/)
+- []()
 - []()
 - []()
 
