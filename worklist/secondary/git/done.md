@@ -218,7 +218,13 @@
 <summary>Oct, 2025</summary>
 
 - [gitlab docs: npm packages in the Package Registry all tiers](https://archives.docs.gitlab.com/15.11/ee/user/packages/npm_registry/)
-- []()
+
+</details>
+
+<details>
+<summary>December, 2025</summary>
+
+- [Getting Error: HttpError: Resource not accessible by integration when using actions-ecosystem/action-create-issue](https://stackoverflow.com/questions/73017107/getting-error-httperror-resource-not-accessible-by-integration-when-using-acti)
 - []()
 - []()
 
