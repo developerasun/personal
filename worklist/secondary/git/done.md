@@ -225,7 +225,7 @@
 <summary>December, 2025</summary>
 
 - [Getting Error: HttpError: Resource not accessible by integration when using actions-ecosystem/action-create-issue](https://stackoverflow.com/questions/73017107/getting-error-httperror-resource-not-accessible-by-integration-when-using-acti)
-- []()
+- [--force 는 위험하니, git의 --force-with-lease 를 사용해보자](https://velog.io/@rawoon/-force-%EB%8A%94-%EC%9C%84%ED%97%98%ED%95%98%EB%8B%88-git%EC%9D%98-force-with-lease-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90)
 - []()
 
 </details>
