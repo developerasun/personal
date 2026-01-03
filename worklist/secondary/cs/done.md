@@ -250,6 +250,15 @@
 <summary>December, 2025</summary>
 
 - [Windows WSL 환경에서 Homebrew 설치하기](https://katfun.tistory.com/168)
+
+</details>
+
+<details>
+<summary>January, 2026</summary>
+
+- [위키백과 - 그린 스레드](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%B0_%EC%8A%A4%EB%A0%88%EB%93%9C)
+- [Kernel vs User Level Threads](https://youtu.be/_5q8ZK6hwzM?si=zWAxNstFDk2SjZvR)
+- []()
 - []()
 - []()
 - []()

@@ -1207,6 +1207,18 @@
 - [[Golang] gorm으로 트랜잭션 다루는 방법](https://velog.io/@suji9709/Golang-gorm%EC%9C%BC%EB%A1%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EB%B0%A9%EB%B2%95)
 - [gorm docs: Upsert](https://gorm.io/gen/clause.html#Upsert)
 - [gorm docs: transaction Traditional API](https://gorm.io/docs/transactions.html#Traditional-API)
+
+</details>
+
+<details>
+<summary>January, 2026</summary>
+
+- [opennext docs: \_\_name issues](https://opennext.js.org/cloudflare/howtos/keep_names#__name-issues)
+- [Ruby on Rails in 100 Seconds](https://youtu.be/2DvrRadXwWY?si=SsH29SpBTgCVRn_k)
+- [Ruby in 100 Seconds](https://youtu.be/UYm0kfnRTJk?si=QE1SET6Ac3oUQyLW)
+- [Ingress](https://velog.io/@dbsxogh96/Ingress)
+- [gorm docs: Foreign Key Constraint](https://gorm.io/docs/constraints.html#Foreign-Key-Constraint)
+- [gorm docs: uniqueIndex](https://gorm.io/docs/indexes.html#uniqueIndex)
 - []()
 - []()
 - []()

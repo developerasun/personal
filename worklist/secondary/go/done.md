@@ -146,8 +146,16 @@
 1. [mockery docs: Getting Started](https://vektra.github.io/mockery/latest/installation/)
 1. [asdf docs: Getting Started: 1. Install asdf](https://asdf-vm.com/guide/getting-started.html#_1-install-asdf)
 1. [Golang. go 환경 asdf로 관리하기](https://ohdowon064.tistory.com/348)
-1. []()
-1. []()
+
+</details>
+
+<details>
+<summary>January, 2026</summary>
+
+1. [Go 언어 hex 알아보기](https://minwook-shin.github.io/learn-go-hex/#google_vignette)
+1. [golang - math/rand와 crypto/rand](https://jacking75.github.io/go_rand/)
+1. [고루틴(goroutine) 이란?](https://yoongrammer.tistory.com/9)
+1. [Http POST request with body Go](https://stackoverflow.com/questions/58142263/http-post-request-with-body-go)
 1. []()
 1. []()
 1. []()
