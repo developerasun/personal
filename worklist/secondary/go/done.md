@@ -156,8 +156,8 @@
 1. [golang - math/rand와 crypto/rand](https://jacking75.github.io/go_rand/)
 1. [고루틴(goroutine) 이란?](https://yoongrammer.tistory.com/9)
 1. [Http POST request with body Go](https://stackoverflow.com/questions/58142263/http-post-request-with-body-go)
-1. []()
-1. []()
+1. [github: Failed to find the "go" binary from PATH](https://github.com/golang/vscode-go/issues/971#issuecomment-927666108)
+1. [github: swaggo/swag: unkown LeftDelim and RightDelim in swag.Spec #1568](https://github.com/swaggo/swag/issues/1568)
 1. []()
 
 </details>
