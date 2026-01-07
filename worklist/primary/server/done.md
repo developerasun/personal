@@ -1221,6 +1221,10 @@
 - [gorm docs: uniqueIndex](https://gorm.io/docs/indexes.html#uniqueIndex)
 - [gorm docs: Locking](https://gorm.io/docs/advanced_query.html#Locking)
 - [gorm docs: IN with multiple columns](https://gorm.io/docs/advanced_query.html#IN-with-multiple-columns)
+- [Cloudflare Tunnel: Edge Computing](https://onidel.com/blog/tailscale-cloudflare-nginx-vps-2025)
+- [caddy docs: try_files](https://caddyserver.com/docs/caddyfile/directives/try_files#syntax)
+- [github: gin memsession](https://github.com/gin-contrib/sessions?tab=readme-ov-file#memstore)
+- [Handling Graceful shutdown in Go #golang #programming](https://youtube.com/shorts/J7Igi4SVh5k?si=Qm2rHsTRkmD5pDg3)
 - []()
 - []()
 
