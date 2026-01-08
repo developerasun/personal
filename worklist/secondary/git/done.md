@@ -229,3 +229,14 @@
 - []()
 
 </details>
+
+<details>
+<summary>January, 2026</summary>
+
+- [githug docs: GitHub CLI quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)
+- []()
+- []()
+- []()
+- []()
+
+</details>

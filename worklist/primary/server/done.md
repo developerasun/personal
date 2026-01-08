@@ -1225,7 +1225,7 @@
 - [caddy docs: try_files](https://caddyserver.com/docs/caddyfile/directives/try_files#syntax)
 - [github: gin memsession](https://github.com/gin-contrib/sessions?tab=readme-ov-file#memstore)
 - [Handling Graceful shutdown in Go #golang #programming](https://youtube.com/shorts/J7Igi4SVh5k?si=Qm2rHsTRkmD5pDg3)
-- []()
+- [[Linux] curl 명령어를 이용해 파일 및 리소스 다운받기](https://twpower.github.io/167-download-file-or-resource-using-curl-command)
 - []()
 
 </details>
