@@ -184,7 +184,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [no one here knows goner just hit 2.5 million streams 🙌 #popmusic #songwriter #pop #singing #piano](https://youtube.com/shorts/McP2op1cRYU?si=jS5g-uUEF83D_C8C)
 1. [랩퍼 스눕독이 만든 비공식 졸업가 #힙합 #랩 #래퍼](https://youtube.com/shorts/zkXdEidIckE?si=rm52i9Dv9ekY_eoB)
 1. [🌌순식간에 빌보드 2위 찍은 그 노래🌌: Tommy Richman - MILLION DOLLAR BABY (2024) [가사해석/번역/자막]](https://youtu.be/22KYynlWHg0?si=kUu9Dy2FJEGRUGIY)
-1. []()
+1. [요네즈 켄시 - IRIS OUT [가사/발음/해석]](https://youtu.be/AuD5WTCFVg8?si=AciDhExrqQkYRmIG)
 1. []()
 1. []()
 
@@ -212,7 +212,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [천재 찬혁 어떻게 화음을 시간차로 넣었지? #AKMU #아이유 #shorts](https://youtube.com/shorts/S-duvytEKPI?si=GxtkCqj3HoXuGOim)
 1. [KWON EUN BI (권은비) – Underwater Lyrics (Color Coded Han/Rom/Eng)](https://youtu.be/l0MnPiT5gk4?si=3LFAphnz8AqDjYwy)
 1. [레드벨벳 웬디 독무대](https://youtube.com/shorts/iJGDdsezj7Y?si=kQPssvSFnfJVz1fA)
-1. [Momoland (모모랜드) – Bboom Bboom (뿜뿜) Lyrics (Han|Rom|Eng|Color Coded)](https://youtu.be/cMl9_IixsGk?si=AJ409pGnEKODJ9nE)
 1. [BAP - 대박사건](https://youtu.be/edsYWXnR2bc?si=Q9rJHKXZx8xKvqFB)
 1. [DAY6(데이식스) - 한 페이지가 될 수 있게 [가사/Lyrics]](https://youtu.be/oYvgISKD5Y8?si=0pRh4ByGG1-Yf4Ex)
 1. [QWER - Discord (디스코드) [가사/Lyrics]](https://youtu.be/m_1swoaL1SA?si=LMOns6zxf_yXyQp2)
@@ -229,7 +228,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [DEAN - 21ㅣ Lyrics / 가사](https://youtu.be/PIebgrWYXSU?si=_O1pynGUyC3lkOPK)
 1. [양홍원이 각 잡고 탄 역대급 붐뱁 그루브](https://youtube.com/shorts/XEf-jlQfOB0?si=7-sa97w_lAEqEHKC)
 1. [넋 놓고 보게되는 만렙 고인물](https://youtube.com/shorts/-cMVwsKk8Vk?si=z6ro3oMVQpiYceDa)
-1. []()
+1. [노아주다 (noahjooda) - 힙합보단 사랑, 사랑보단 돈 (Feat. 베이식) 가사(lyrics)](https://youtu.be/EhKaflRVBpY?si=59y0afX2em7ABtKy)
 1. []()
 1. []()
 
