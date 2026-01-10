@@ -233,8 +233,8 @@
 <details>
 <summary>January, 2026</summary>
 
-- [githug docs: GitHub CLI quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)
-- []()
+- [github docs: GitHub CLI quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)
+- [github docs: Building and testing Go](https://docs.github.com/en/actions/tutorials/build-and-test-code/go)
 - []()
 - []()
 - []()

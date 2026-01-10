@@ -5,9 +5,9 @@
 - [Coding a Math Function in ZIG - In 60 Seconds! #ziglang](https://youtube.com/shorts/lnOQpYyFBrU?si=XPN1CmYKLtz5gbgC)
 - [How to detect memory leaks in Zig with the General Purpose Allocator GPA #ziglang #zig #memoryleak](https://youtube.com/shorts/CyyS7GkVLog?si=Gb1xEQvP2DYjBZXU)
 - [Intro to Zig](https://youtu.be/xidylV_4aSk?si=cM2caQId20efde_c)
-- []()
-- []()
-- []()
-- []()
+- [zig.guide: Assignment](https://zig.guide/language-basics/assignment/)
+- [zig.guide: Arrays](https://zig.guide/language-basics/arrays/)
+- [zig.guide: Pointers](https://zig.guide/language-basics/pointers/)
+- [zig.guide: Switch](https://zig.guide/language-basics/switch/)
 
 </details>
