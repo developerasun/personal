@@ -9,5 +9,13 @@
 - [zig.guide: Arrays](https://zig.guide/language-basics/arrays/)
 - [zig.guide: Pointers](https://zig.guide/language-basics/pointers/)
 - [zig.guide: Switch](https://zig.guide/language-basics/switch/)
+- [zig.guide: Formatting](https://zig.guide/standard-library/formatting/)
+- [zig.guide: Allocators](https://zig.guide/standard-library/allocators)
+- [zig guide: For loops](https://zig.guide/language-basics/for-loops/)
+- []()
+- []()
+- []()
+- []()
+- []()
 
 </details>
