@@ -258,7 +258,7 @@
 
 - [위키백과 - 그린 스레드](https://ko.wikipedia.org/wiki/%EA%B7%B8%EB%A6%B0_%EC%8A%A4%EB%A0%88%EB%93%9C)
 - [Kernel vs User Level Threads](https://youtu.be/_5q8ZK6hwzM?si=zWAxNstFDk2SjZvR)
-- []()
+- [Linus Torvalds explains why he loves C #programming](https://youtube.com/shorts/23wKWGktQOY?si=njIQXnx292IKC99i)
 - []()
 - []()
 - []()
