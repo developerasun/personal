@@ -1,8 +1,3 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/developerasun/personal)
-![Static Badge](https://img.shields.io/badge/Is_Jake_Working_On_This_Now-Yes-green)
-
-[![Coffee Chat](https://img.shields.io/badge/Coffee_Chat-795548?style=for-the-badge&logo=coffeescript&logoColor=white)](https://forms.gle/QrFAaXgbLnsxywhA7)
-
 # @developerasun/personal/playlist
 
 A collection of songs for developers coding up all night. Fully open sourced, PRs are welcome. Feel free to add your favorite song while coding.
