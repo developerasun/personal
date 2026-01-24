@@ -137,7 +137,18 @@
 <summary>Oct, 2025</summary>
 
 - [<에코용어사전> “LLM, 파인튜닝, RAG?” 낯설지만 꼭 알아야 할 AI 용어들](https://news.skecoplant.com/plant-tomorrow/18811/)
-- []()
+
+</details>
+
+<details>
+<summary>Jan, 2026</summary>
+
+- [CrewAI: Is it worth the hype?](https://youtube.com/shorts/pirM3XTMbLE?si=GN012nI-PnZ05JAa)
+- [How to build AI Agents with CrewAI 🤖 #aiagents #ai #programming](https://youtube.com/shorts/CDP7NGKdxGQ?si=oF7ZEK-o5B5RY3MZ)
+- [ollama blogs: Image generation (experimental)](https://ollama.com/blog/image-generation)
+- [비개발자를 위한 에이전트 Cowork가 출시되었습니다 #claude #ai #agent #anthropic](https://youtube.com/shorts/-gE1fl--js4?si=4P0nQ5Rpay2g3YZF)
+- [우분투 서버에서 GPU 세팅하기 (nvidia-smi > cuda](https://drfirst.tistory.com/m/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-GPU-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-nvidia-smi-cuda)
+- [install nvidia-smi on ubuntu 22.04](https://psawesome.tistory.com/m/117)
 - []()
 - []()
 
