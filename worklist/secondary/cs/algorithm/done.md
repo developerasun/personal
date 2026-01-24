@@ -1,0 +1,1 @@
+- [프론트엔드는 알고리즘 필요없다?](https://youtube.com/shorts/6UMEQt8b7RA?si=wu-R2aT-EXtvIDEE)

@@ -1236,6 +1236,9 @@
 - [Web Assembly (WASM) in 100 Seconds](https://youtu.be/cbB3QEwWMlA?si=ApN3mNONQPYKLfu4)
 - [cloudflare community: Date() in worker is reporting Thu Jan 01 1970 00:00:00 GMT+0000](https://community.cloudflare.com/t/date-in-worker-is-reporting-thu-jan-01-1970-0000-gmt-0000/236503)
 - [Compile Go Code to WebAssembly (WASM) for High-Performance Web Apps: Step-by-Step Guide with Example](https://youtube.com/shorts/oLYyeXlWk7w?si=jRkRVyxTqeEHu0dT)
+- [cloudflare docs: Worker limits](https://developers.cloudflare.com/workers/platform/limits/#worker-limits)
+- [Create your first Python REST API #python #fastapi #restapi](https://youtube.com/shorts/4VYr-OqH6WE?si=qQ3FH6wF_0A0k3hd)
+- [[라즈베리파이4B] ubuntu server 와이파이 연결](https://funnyone.tistory.com/m/8)
 - []()
 - []()
 

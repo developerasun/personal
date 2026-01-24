@@ -235,7 +235,7 @@
 
 - [github docs: GitHub CLI quickstart](https://docs.github.com/en/github-cli/github-cli/quickstart)
 - [github docs: Building and testing Go](https://docs.github.com/en/actions/tutorials/build-and-test-code/go)
-- []()
+- [github docs: github actions 환경변수 설정](https://docs.github.com/ko/actions/reference/workflows-and-actions/workflow-commands#setting-an-environment-variable)
 - []()
 - []()
 
