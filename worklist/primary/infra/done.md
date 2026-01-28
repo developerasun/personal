@@ -749,6 +749,10 @@
 - [▲Docker는 무엇이 되었는가?](https://news.hada.io/topic?id=26085&utm_source=discord&utm_medium=bot&utm_campaign=3444)
 - [AWS ECS vs Fargate - which to choose? #aws #cloudinfrastructure #containerization #docker](https://youtube.com/shorts/3B9dX-4ma20?si=lfuawxViXC-MWuxH)
 - [AWS ECS: 컨테이너 오케스트레이션의 시작점](https://youtube.com/shorts/PZRlHWqHRTg?si=xvy4cIxBxc-vEbCT)
+- [Kubernetes 개빨리 배우기 : Pod](https://youtube.com/shorts/EOwtGszAABc?si=zO_YYXjU9P4706qs)
+- []()
+- []()
+- []()
 - []()
 - []()
 

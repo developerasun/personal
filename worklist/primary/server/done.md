@@ -1239,6 +1239,13 @@
 - [cloudflare docs: Worker limits](https://developers.cloudflare.com/workers/platform/limits/#worker-limits)
 - [Create your first Python REST API #python #fastapi #restapi](https://youtube.com/shorts/4VYr-OqH6WE?si=qQ3FH6wF_0A0k3hd)
 - [[라즈베리파이4B] ubuntu server 와이파이 연결](https://funnyone.tistory.com/m/8)
+- [[FastAPI] Pydantic 사용법 (5)](https://databoom.tistory.com/entry/FastAPI-Pydantic-%EC%82%AC%EC%9A%A9%EB%B2%95)
+- [Ubuntu 24.04 on the #blackberry passport feels pretty smooth #ubuntu #linux # #smartphone](https://youtube.com/shorts/akgYqNj2FM8?si=eMaVV7z0931bEudq)
+- [Windows VS Linux #linux #windows](https://youtube.com/shorts/3enc3a4-V24?si=W8ngfIn2EFMD_O4e)
+- [Python FastAPI Tutorial #42 Building a Scheduler in FastAPI Python 🚀](https://youtu.be/t_CjuZy16-Q?si=Fl1h5zUrjK9OpUpt)
+- [How to use pytest fixture to run test against multiple parameters](https://youtube.com/shorts/nw7OWbYjQ-4?si=9PHLJlzmRfB2AdAu)
+- []()
+- []()
 - []()
 - []()
 

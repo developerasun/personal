@@ -149,6 +149,9 @@
 - [비개발자를 위한 에이전트 Cowork가 출시되었습니다 #claude #ai #agent #anthropic](https://youtube.com/shorts/-gE1fl--js4?si=4P0nQ5Rpay2g3YZF)
 - [우분투 서버에서 GPU 세팅하기 (nvidia-smi > cuda](https://drfirst.tistory.com/m/entry/%EC%9A%B0%EB%B6%84%ED%88%AC-%EC%84%9C%EB%B2%84%EC%97%90%EC%84%9C-GPU-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-nvidia-smi-cuda)
 - [install nvidia-smi on ubuntu 22.04](https://psawesome.tistory.com/m/117)
+- [Create an AI Agent with PydanticAI in Minutes! #tutorial #howto #windows #pydanticai #ai-agent](https://youtube.com/shorts/ptsWI7YsKN0?si=G1YsL4q_eCaqhBNS)
+- []()
+- []()
 - []()
 - []()
 
