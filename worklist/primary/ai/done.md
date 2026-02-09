@@ -156,3 +156,13 @@
 - []()
 
 </details>
+
+<details>
+<summary>Feb, 2026</summary>
+
+- [휴먼인더루프(Human-in-the-loop), AI 시대 속 다시 주목받는 인간의 역할](https://www.skax.co.kr/insight/trend/3584)
+- []()
+- []()
+- []()
+
+</details>

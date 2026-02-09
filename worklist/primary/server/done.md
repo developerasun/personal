@@ -1244,6 +1244,16 @@
 - [Windows VS Linux #linux #windows](https://youtube.com/shorts/3enc3a4-V24?si=W8ngfIn2EFMD_O4e)
 - [Python FastAPI Tutorial #42 Building a Scheduler in FastAPI Python 🚀](https://youtu.be/t_CjuZy16-Q?si=Fl1h5zUrjK9OpUpt)
 - [How to use pytest fixture to run test against multiple parameters](https://youtube.com/shorts/nw7OWbYjQ-4?si=9PHLJlzmRfB2AdAu)
+
+</details>
+
+<details>
+<summary>February, 2026</summary>
+
+- [[MySQL] (환경설정2️⃣) InnoDB Buffer Pool 최적화 전략](https://monkeybusiness.tistory.com/982)
+- [Redis Streams (in 40 Seconds)](https://youtube.com/shorts/x1FJmX8dywU?si=1qvVH1nxrwotjQFW)
+- [github: fastapi: sqlmodel: How to make a "timestamp with time zone"? #21](https://github.com/fastapi/sqlmodel/issues/21)
+- []()
 - []()
 - []()
 - []()

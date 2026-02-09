@@ -392,7 +392,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [내가 이 노랠 어떻게 잊었는데... | “I Really Want to Stay At Your House” by Samuel Kim (Echo Ver.)](https://youtu.be/PG1kzOCVlJg?si=eV2idPmR4Oz9lZDa)
 1. [식케이(Sik-K), Lil Moshpit - LOV3 (Feat. Bryan Chase, Okasian) (Official Video)](https://youtu.be/oCvA-i9OTyg?si=BexGn56BtmeA83C3)
 1. [소름 쫙 돋는 급발진 창법 ㄴㅇㄱ](https://youtube.com/shorts/Z1AOVwcRW6w?si=YUpfzoLnzbB8EqHH)
-1. []()
+1. [🌠근래 들었던 노래 중에서 제일 독특함🌠: Tom Frane - Don't Leave ft. RJ Pasin (2024) [가사해석/번역/자막]](https://youtu.be/4y-wlb3F_Zg?si=16P8uEoj6ZMbaxde)
 1. []()
 1. []()
 
@@ -413,6 +413,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [The Amazing Digital Circus (Original Pilot Soundtrack) - Your New Home](https://youtu.be/4gZdE5dimMg?si=6ran7MAXoWhk-7ML)
 1. [The Amazing Digital Circus - Main Theme but its by HANS ZIMMER | EPIC VERSION (Your New Home)](https://youtu.be/4gZdE5dimMg?si=UufKzg8SvHH_wgK0)
 1. [S. T. A.Y- Hans zimmer](https://youtube.com/shorts/XOX4AfqdY5s?si=tVjii1yBQcOwH4pc)
-1. []()
-1. []()
+1. [RJ Pasin - Full Moon 2.0](https://youtu.be/Ty9-kvNhbsA?si=9W-pMMn1Cqf-EaQO)
+1. [RJ Pasin - Tourist](https://youtu.be/rfRuUszGoBs?si=53B9FzPFFB7Obdty)
 1. []()

@@ -240,3 +240,15 @@
 - []()
 
 </details>
+
+<details>
+<summary>February, 2026</summary>
+
+- [Git basics: status and add commands](https://youtube.com/shorts/zztkA8cJaCs?si=eLYUFpIecU3jEfNk)
+- []()
+- []()
+- []()
+- []()
+- []()
+
+</details>
