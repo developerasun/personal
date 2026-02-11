@@ -185,6 +185,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [랩퍼 스눕독이 만든 비공식 졸업가 #힙합 #랩 #래퍼](https://youtube.com/shorts/zkXdEidIckE?si=rm52i9Dv9ekY_eoB)
 1. [🌌순식간에 빌보드 2위 찍은 그 노래🌌: Tommy Richman - MILLION DOLLAR BABY (2024) [가사해석/번역/자막]](https://youtu.be/22KYynlWHg0?si=kUu9Dy2FJEGRUGIY)
 1. [요네즈 켄시 - IRIS OUT [가사/발음/해석]](https://youtu.be/AuD5WTCFVg8?si=AciDhExrqQkYRmIG)
+1. [절망 속에서 만든 곡이 전설이 될 줄은 | Eurythmics - Sweet Dreams (Are Made of This) (1983)](https://youtube.com/shorts/AzA2lWus0M0?si=IhRyBT6sG2EXGb-n)
+1. [MONTAGEM HIKARI [EXTENDED]](https://youtu.be/4TcX-Y85TQg?si=d88dZwYZfle7Q-5A)
+1. []()
 1. []()
 1. []()
 
@@ -393,6 +396,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [식케이(Sik-K), Lil Moshpit - LOV3 (Feat. Bryan Chase, Okasian) (Official Video)](https://youtu.be/oCvA-i9OTyg?si=BexGn56BtmeA83C3)
 1. [소름 쫙 돋는 급발진 창법 ㄴㅇㄱ](https://youtube.com/shorts/Z1AOVwcRW6w?si=YUpfzoLnzbB8EqHH)
 1. [🌠근래 들었던 노래 중에서 제일 독특함🌠: Tom Frane - Don't Leave ft. RJ Pasin (2024) [가사해석/번역/자막]](https://youtu.be/4y-wlb3F_Zg?si=16P8uEoj6ZMbaxde)
+1. [Les Champs Élysées 오 샹젤리제](https://youtube.com/shorts/IANg7tocd7g?si=-ysk3BsPpxTJsPD3)
+1. [너무 슬픈 노래..](https://youtube.com/shorts/-zFf95txh4w?si=eg387nQsJu2b4-HO)
+1. []()
 1. []()
 1. []()
 
@@ -415,4 +421,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [S. T. A.Y- Hans zimmer](https://youtube.com/shorts/XOX4AfqdY5s?si=tVjii1yBQcOwH4pc)
 1. [RJ Pasin - Full Moon 2.0](https://youtu.be/Ty9-kvNhbsA?si=9W-pMMn1Cqf-EaQO)
 1. [RJ Pasin - Tourist](https://youtu.be/rfRuUszGoBs?si=53B9FzPFFB7Obdty)
+1. [RJ Pasin - Final Battle](https://youtu.be/wZ90ms3KpeI?si=XrkgXN7ngUbUS1_U)
+1. [RJ Pasin - life force](https://youtu.be/FmrKm7q-V6c?si=u74hDrEtbVjnkscV)
+1. [Interstellar Official Soundtrack | Cornfield Chase – Hans Zimmer | WaterTower](https://youtu.be/JuSsvM8B4Jc?si=-ze1ywePQ0Pge2dK)
+1. []()
 1. []()
