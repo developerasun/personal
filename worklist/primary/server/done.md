@@ -1253,10 +1253,14 @@
 - [[MySQL] (환경설정2️⃣) InnoDB Buffer Pool 최적화 전략](https://monkeybusiness.tistory.com/982)
 - [Redis Streams (in 40 Seconds)](https://youtube.com/shorts/x1FJmX8dywU?si=1qvVH1nxrwotjQFW)
 - [github: fastapi: sqlmodel: How to make a "timestamp with time zone"? #21](https://github.com/fastapi/sqlmodel/issues/21)
-- []()
-- []()
-- []()
-- []()
+- [[Server] 미니 홈서버 구축하기 3편 - 우분투 서버 (20.04.1 LTS) 유선랜 연결 + SSH 연결하기](https://nitr0.tistory.com/325#google_vignette)
+- [핫스팟을 켜면 몇미터까지 신호가 잡힐까요?](https://www.a-ha.io/questions/4c952a80dc260a90ab4a9988537ff79e)
+- [Validating JSON in MySQL](https://youtube.com/shorts/LrOR_MIt62A?si=dbk2etvCtxBDUO4s)
+- [Arch user mentality](https://youtube.com/shorts/lu0B8BGk0YM?si=T7VCOSFYUXZ1d-2K)
+- [I Turned The iPad Pro M4 Into a PC!](https://youtu.be/RWy7N_vzE7E?si=HgOdOstcQYv5TiW5)
+- [PostgreSQL를 Vector DB로 활용 [1분테크193@토크아이티, 윤성열 대표 / 드림플로우] #shorts](https://youtube.com/shorts/AgF1h3E7wAQ?si=4DzVQ8ZUxhKq37KH)
+- [Ish shell full hack](https://youtube.com/shorts/cdWx11Yg6rw?si=JKcI3Ebe5a_w55qr)
+- [Linux... ON AN iPad!?!?!](https://youtube.com/shorts/0tYR1xtupQo?si=PDUh1ERJ5wcBtCXr)
 - []()
 
 </details>

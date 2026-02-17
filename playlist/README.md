@@ -187,7 +187,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [요네즈 켄시 - IRIS OUT [가사/발음/해석]](https://youtu.be/AuD5WTCFVg8?si=AciDhExrqQkYRmIG)
 1. [절망 속에서 만든 곡이 전설이 될 줄은 | Eurythmics - Sweet Dreams (Are Made of This) (1983)](https://youtube.com/shorts/AzA2lWus0M0?si=IhRyBT6sG2EXGb-n)
 1. [MONTAGEM HIKARI [EXTENDED]](https://youtu.be/4TcX-Y85TQg?si=d88dZwYZfle7Q-5A)
-1. []()
+1. [Rixton - Me and My Broken Heart](https://youtu.be/7JJfJgyHYwU?si=TJFvAcUA8V9tjW5u)
 1. []()
 1. []()
 
@@ -424,5 +424,5 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [RJ Pasin - Final Battle](https://youtu.be/wZ90ms3KpeI?si=XrkgXN7ngUbUS1_U)
 1. [RJ Pasin - life force](https://youtu.be/FmrKm7q-V6c?si=u74hDrEtbVjnkscV)
 1. [Interstellar Official Soundtrack | Cornfield Chase – Hans Zimmer | WaterTower](https://youtu.be/JuSsvM8B4Jc?si=-ze1ywePQ0Pge2dK)
-1. []()
+1. [RJ Pasin - Rough Days](https://youtu.be/3Xhj5q5YtBA?si=gUAm6R3MK-029L3y)
 1. []()
