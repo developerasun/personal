@@ -115,6 +115,14 @@
 
 - [Dart와 Isolate(Flutter에서 멀티 스레드 흉내내기)](https://velog.io/@godmin66/isolate%EC%99%80-thread)
 - [Flutter Secure Storage](https://developer0524.tistory.com/93)
+
+</details>
+
+<details>
+<summary>February, 2026</summary>
+
+- [Install any OS on iPad or iPhone Windows, MacOS & Linux (2026) — Virtually](https://youtu.be/FE3ax0ZRCzI?si=9x0qwrcWgn3fkADI)
+- [Install Ubuntu on iPad or iPhone | Linux for iPad and iPhone](https://youtu.be/7fMhRWx7TN8?si=8hMX5layYu8eV0en)
 - []()
 - []()
 

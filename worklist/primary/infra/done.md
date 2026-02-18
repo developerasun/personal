@@ -750,8 +750,14 @@
 - [AWS ECS vs Fargate - which to choose? #aws #cloudinfrastructure #containerization #docker](https://youtube.com/shorts/3B9dX-4ma20?si=lfuawxViXC-MWuxH)
 - [AWS ECS: 컨테이너 오케스트레이션의 시작점](https://youtube.com/shorts/PZRlHWqHRTg?si=xvy4cIxBxc-vEbCT)
 - [Kubernetes 개빨리 배우기 : Pod](https://youtube.com/shorts/EOwtGszAABc?si=zO_YYXjU9P4706qs)
-- []()
-- []()
+
+</details>
+
+<details>
+<summary>Feb, 2026</summary>
+
+- [Oracle Cloud Free Tier](https://www.oracle.com/kr/cloud/free/#always-free)
+- [[Oracle Cloud] 단돈 0원! Oracle Cloud로 무료 서버 구축하기](https://devpanpan.tistory.com/m/102)
 - []()
 - []()
 - []()
