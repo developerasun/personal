@@ -245,7 +245,7 @@
 <summary>February, 2026</summary>
 
 - [Git basics: status and add commands](https://youtube.com/shorts/zztkA8cJaCs?si=eLYUFpIecU3jEfNk)
-- []()
+- [깃허브 문서: 기본 셸 및 작업 디렉터리 설정](https://docs.github.com/ko/actions/how-tos/write-workflows/choose-what-workflows-do/set-default-values-for-jobs#setting-default-shell-and-working-directory)
 - []()
 - []()
 - []()

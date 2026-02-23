@@ -648,7 +648,13 @@
 <summary>December, 2025</summary>
 
 - [[긴급] React·Next.js서 심각도 10 취약점 발견... 인증 없이 원격 코드 실행 가능](https://m.boannews.com/html/detail.html?idx=140766)
-- []()
+
+</details>
+
+<details>
+<summary>February, 2026</summary>
+
+- [Html <img loading='lazy'> 😴](https://dkrnfls.tistory.com/378)
 - []()
 - []()
 

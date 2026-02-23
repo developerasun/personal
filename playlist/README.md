@@ -188,6 +188,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [절망 속에서 만든 곡이 전설이 될 줄은 | Eurythmics - Sweet Dreams (Are Made of This) (1983)](https://youtube.com/shorts/AzA2lWus0M0?si=IhRyBT6sG2EXGb-n)
 1. [MONTAGEM HIKARI [EXTENDED]](https://youtu.be/4TcX-Y85TQg?si=d88dZwYZfle7Q-5A)
 1. [Rixton - Me and My Broken Heart](https://youtu.be/7JJfJgyHYwU?si=TJFvAcUA8V9tjW5u)
+1. [Timeflies - Undress Rehearsal (lyrics)](https://youtu.be/ACSBnf1wuEQ?si=d_2-1da9C6PQf9C1)
+1. []()
+1. []()
 1. []()
 1. []()
 

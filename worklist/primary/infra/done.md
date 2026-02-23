@@ -758,6 +758,10 @@
 
 - [Oracle Cloud Free Tier](https://www.oracle.com/kr/cloud/free/#always-free)
 - [[Oracle Cloud] 단돈 0원! Oracle Cloud로 무료 서버 구축하기](https://devpanpan.tistory.com/m/102)
+- [Free Google Cloud features and trial offer](https://docs.cloud.google.com/free/docs/free-cloud-features#compute)
+- [[GCP] 구글 클라우드 프리티어(무료) 사용하기](https://minimin2.tistory.com/171)
+- [[GCP]가난한 개발자를 위한 GCP free tier 활용 방법 1/2](https://medium.com/@jwlee98/gcp-%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-gcp-free-tier-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95-1-2-3022348e1103)
+- []()
 - []()
 - []()
 - []()

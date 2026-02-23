@@ -26,7 +26,7 @@
 - [파이썬 ‘MemoryError’ 오류 원인과 해결 방법](https://dashup.shop/m/29)
 - [Python 'ConnectionError' 해결법: 네트워크 문제 해결하기](https://dashup.shop/m/13)
 - [éviter les erreurs d'affichage #débutant #coding #python #programmation #programming #apprends](https://youtube.com/shorts/UShiF2ssKKw?si=-ZazPmi14td66kTa)
-- []()
+- [uv docs: Using uv in pre-commit](https://docs.astral.sh/uv/guides/integration/pre-commit/)
 - []()
 - []()
 - []()
