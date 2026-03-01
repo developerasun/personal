@@ -16,7 +16,13 @@
 - [zig guide: Labelled Blocks](https://zig.guide/language-basics/labelled-blocks/)
 - [zig guide: Threads](https://zig.guide/standard-library/threads/)
 - [zig guide: Random Numbers](https://zig.guide/standard-library/random-numbers/)
-- []()
+
+</details>
+
+<details>
+<summary>January, 2026</summary>
+
+- [Zig comptime explained in 90 Seconds](https://youtu.be/eK-8TmgDjBY?si=9G9MUko243kWjF4D)
 - []()
 - []()
 - []()

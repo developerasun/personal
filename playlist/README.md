@@ -189,8 +189,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [MONTAGEM HIKARI [EXTENDED]](https://youtu.be/4TcX-Y85TQg?si=d88dZwYZfle7Q-5A)
 1. [Rixton - Me and My Broken Heart](https://youtu.be/7JJfJgyHYwU?si=TJFvAcUA8V9tjW5u)
 1. [Timeflies - Undress Rehearsal (lyrics)](https://youtu.be/ACSBnf1wuEQ?si=d_2-1da9C6PQf9C1)
-1. []()
-1. []()
+1. [Nic D & Connor Price - Still Hot (Lyrics)](https://youtu.be/dMxPeZt9-es?si=8uKiQ6FL_OSLHsyB)
+1. [NO BATIDÃO (SLOWED) - ZXKAI](https://youtu.be/MeOoJOt1P0Y?si=yIpCU-WilSYCQvWp)
 1. []()
 1. []()
 
@@ -401,7 +401,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [🌠근래 들었던 노래 중에서 제일 독특함🌠: Tom Frane - Don't Leave ft. RJ Pasin (2024) [가사해석/번역/자막]](https://youtu.be/4y-wlb3F_Zg?si=16P8uEoj6ZMbaxde)
 1. [Les Champs Élysées 오 샹젤리제](https://youtube.com/shorts/IANg7tocd7g?si=-ysk3BsPpxTJsPD3)
 1. [너무 슬픈 노래..](https://youtube.com/shorts/-zFf95txh4w?si=eg387nQsJu2b4-HO)
-1. []()
+1. [Life Goes On - Oliver Tree (올리버 트리) [가사 해석/번역, 영어 한글 발음]](https://youtu.be/z2NhP6QYqzs?si=9p4_ba913Wb9T18I)
 1. []()
 1. []()
 
