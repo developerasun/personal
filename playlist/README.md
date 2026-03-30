@@ -191,6 +191,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Timeflies - Undress Rehearsal (lyrics)](https://youtu.be/ACSBnf1wuEQ?si=d_2-1da9C6PQf9C1)
 1. [Nic D & Connor Price - Still Hot (Lyrics)](https://youtu.be/dMxPeZt9-es?si=8uKiQ6FL_OSLHsyB)
 1. [NO BATIDÃO (SLOWED) - ZXKAI](https://youtu.be/MeOoJOt1P0Y?si=yIpCU-WilSYCQvWp)
+1. [BATIDAO FUNK (SLOWED) - FunkMix](https://youtu.be/P3KitqCFIyU?si=yRvYVVbrEUpJ0RqM)
+1. [50년 뒤의 미래에도 내가 있을거야❄️: Novelbright - Walking with you [가사/발음/한글 자막/해석]](https://youtu.be/obW4xWXKZjw?si=vFE6-B9MtjXIPK7r)
+1. [여름이니까, 사랑을 시작하자🏖️: Mrs. Green Apple - 푸름과 여름(青と夏) [가사/발음/한글 자막]](https://youtu.be/FVrdac1BlBk?si=Plo3twt-UmKIivyr)
+1. []()
 1. []()
 1. []()
 
