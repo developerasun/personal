@@ -194,7 +194,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [BATIDAO FUNK (SLOWED) - FunkMix](https://youtu.be/P3KitqCFIyU?si=yRvYVVbrEUpJ0RqM)
 1. [50년 뒤의 미래에도 내가 있을거야❄️: Novelbright - Walking with you [가사/발음/한글 자막/해석]](https://youtu.be/obW4xWXKZjw?si=vFE6-B9MtjXIPK7r)
 1. [여름이니까, 사랑을 시작하자🏖️: Mrs. Green Apple - 푸름과 여름(青と夏) [가사/발음/한글 자막]](https://youtu.be/FVrdac1BlBk?si=Plo3twt-UmKIivyr)
-1. []()
+1. [Gavin DeGraw - Kite Like Girl (lyrics)](https://youtu.be/U2GA2pF5NdU?si=aeLZXpRyP_DiFSSU)
 1. []()
 1. []()
 
@@ -239,6 +239,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [양홍원이 각 잡고 탄 역대급 붐뱁 그루브](https://youtube.com/shorts/XEf-jlQfOB0?si=7-sa97w_lAEqEHKC)
 1. [넋 놓고 보게되는 만렙 고인물](https://youtube.com/shorts/-cMVwsKk8Vk?si=z6ro3oMVQpiYceDa)
 1. [노아주다 (noahjooda) - 힙합보단 사랑, 사랑보단 돈 (Feat. 베이식) 가사(lyrics)](https://youtu.be/EhKaflRVBpY?si=59y0afX2em7ABtKy)
+1. [AHOF (아홉) - RUNNING AT 1.5 SPEED ('1.5x의 속도로 달려줘' Color Coded Lyrics)](https://youtu.be/qlwt1JQZXzk?si=u2chPU2xjQe4OhuD)
+1. [컬리밴드 (CurlyBand) - 사랑해 | 가사/Lyrics](https://youtu.be/cT5Gb6ZX5cI?si=hCIDfHvk2qFHkObL)
 1. []()
 1. []()
 

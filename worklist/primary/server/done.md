@@ -1269,7 +1269,13 @@
 <summary>March, 2026</summary>
 
 - [Transactional Outbox Pattern 알아보기](https://velog.io/@eastperson/Transaction-Outbox-Pattern-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
-- []()
+
+</details>
+
+<details>
+<summary>April, 2026</summary>
+
+- [데이터베이스 복구 메커니즘. Redo와 Undo](https://youtu.be/bhYE4hZY-NE?si=vghTvFkDoYTd3hXr)
 - []()
 - []()
 
