@@ -195,6 +195,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [50년 뒤의 미래에도 내가 있을거야❄️: Novelbright - Walking with you [가사/발음/한글 자막/해석]](https://youtu.be/obW4xWXKZjw?si=vFE6-B9MtjXIPK7r)
 1. [여름이니까, 사랑을 시작하자🏖️: Mrs. Green Apple - 푸름과 여름(青と夏) [가사/발음/한글 자막]](https://youtu.be/FVrdac1BlBk?si=Plo3twt-UmKIivyr)
 1. [Gavin DeGraw - Kite Like Girl (lyrics)](https://youtu.be/U2GA2pF5NdU?si=aeLZXpRyP_DiFSSU)
+1. [[Playlist] 한잔해, 쌈뽕하잖아 | 도입부 물어보는 팝송 플레이리스트 [가사/Lyrics]](https://youtu.be/PS2H-Q-Prjc?si=iv3Uyuruz7r3_jmn)
+1. [lenka - free](https://youtu.be/lBdzSyztm0w?si=V9poEGPMuFz8erTZ)
+1. [PARRIS MITCHELL- your only](https://youtu.be/8aPrADVXQqA?si=aDd4UKET5x8Lj4bW)
 1. []()
 1. []()
 
@@ -241,6 +244,9 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [노아주다 (noahjooda) - 힙합보단 사랑, 사랑보단 돈 (Feat. 베이식) 가사(lyrics)](https://youtu.be/EhKaflRVBpY?si=59y0afX2em7ABtKy)
 1. [AHOF (아홉) - RUNNING AT 1.5 SPEED ('1.5x의 속도로 달려줘' Color Coded Lyrics)](https://youtu.be/qlwt1JQZXzk?si=u2chPU2xjQe4OhuD)
 1. [컬리밴드 (CurlyBand) - 사랑해 | 가사/Lyrics](https://youtu.be/cT5Gb6ZX5cI?si=hCIDfHvk2qFHkObL)
+1. [1.5x의 속도로 달려줘 (Official Audio)](https://youtu.be/-Pjm4Mq7pw4?si=dq7bRlJ_-R60DxWg)
+1. [twice - takedown](https://youtu.be/Gd3wDO0xJ58?si=SkyhMIcimVD7vURX)
+1. []()
 1. []()
 1. []()
 
@@ -408,6 +414,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Les Champs Élysées 오 샹젤리제](https://youtube.com/shorts/IANg7tocd7g?si=-ysk3BsPpxTJsPD3)
 1. [너무 슬픈 노래..](https://youtube.com/shorts/-zFf95txh4w?si=eg387nQsJu2b4-HO)
 1. [Life Goes On - Oliver Tree (올리버 트리) [가사 해석/번역, 영어 한글 발음]](https://youtu.be/z2NhP6QYqzs?si=9p4_ba913Wb9T18I)
+1. [컬리밴드 (CurlyBand) - 사랑해 | 가사/Lyrics](https://youtu.be/cT5Gb6ZX5cI?si=q-oFkzgBYEt9NL9V)
+1. [WOODZ (우즈) - Drowning](https://youtu.be/v39uoOIoOhI?si=Ob__TTQW73gfWVtJ)
 1. []()
 1. []()
 
