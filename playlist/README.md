@@ -198,7 +198,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [[Playlist] 한잔해, 쌈뽕하잖아 | 도입부 물어보는 팝송 플레이리스트 [가사/Lyrics]](https://youtu.be/PS2H-Q-Prjc?si=iv3Uyuruz7r3_jmn)
 1. [lenka - free](https://youtu.be/lBdzSyztm0w?si=V9poEGPMuFz8erTZ)
 1. [PARRIS MITCHELL- your only](https://youtu.be/8aPrADVXQqA?si=aDd4UKET5x8Lj4bW)
-1. []()
+1. [도망치자, 웃고 싶어🌙: 사카낙션 - 밤의 무희(夜の踊り子) [가사/발음/한글 자막/해석]]()
+1. [💫전 세계를 휩쓸었던 레전드 애니 근본 OST : Eve - 廻廻奇譚 (회회기담) [가사 해석/lyrics] [4K]](https://youtu.be/oP9674UkcUQ?si=YoQu8NcNLyi_2FRR)
+1. [카나분 - 실루엣(シルエット) [가사/발음/해석]](https://youtu.be/4DxqW1ANSZg?si=2y0KHBWZdLEjRz01)
+1. [Lynyrd Skynyrd - Sweet Home Alabama (Lyric Video)](https://youtu.be/-p8GXZcdrIk?si=jAFSr8iSVe9E3kQw)
 1. []()
 
 #### K-Pop
@@ -401,7 +404,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Gabrielle Aplin & JP Cooper - Losing Me [가사/해석]](https://youtu.be/57gWT1Fzois?si=uxYtP5L5PDhq2WXl)
 1. [도넛맨: Smoke & Drink (feat. 뱃사공)](https://youtu.be/HDjGO_Aep8U?si=m886D3VnU9_-xauO)
 1. [🍋 요네즈 켄시 - 레몬 (Yonezu Kenshi - Lemon)︱“네가 나 살아가는 걸 도와줬으면 좋겠어.“ (목소리의 형태)︱[가사/해석/발음]](https://youtu.be/5OCnP-DO-Fs?si=yj1PZyBrTCsBkAVR)
-1. [🌙화려한 공허함, 사이버펑크 엣지러너 OST : I Really Want to Stay at Your House [가사 해석/lyrics] (스포)](https://youtu.be/cgW05HJjQtA?si=ZscKC-FmkvAH0QjG)
 1. [Emily Lewis - Green Light](https://youtu.be/JYcp4WWTe5Y?si=H11YUkBeoE3AQ7Xi)
 1. [검정치마 - EVERYTHING [가사/Lyrics]](https://youtu.be/K4giYflGxAY?si=OEXxm3LbqkXmcf1s)
 1. [우리 추억도 나도 잊지 않겠다고 해 🔴 Connor Kauffman - Remember 가사해석/팝송추천](https://youtu.be/sm2Nm_TeupA?si=G7EBwS422ofC5QNy)
@@ -416,6 +418,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Life Goes On - Oliver Tree (올리버 트리) [가사 해석/번역, 영어 한글 발음]](https://youtu.be/z2NhP6QYqzs?si=9p4_ba913Wb9T18I)
 1. [컬리밴드 (CurlyBand) - 사랑해 | 가사/Lyrics](https://youtu.be/cT5Gb6ZX5cI?si=q-oFkzgBYEt9NL9V)
 1. [WOODZ (우즈) - Drowning](https://youtu.be/v39uoOIoOhI?si=Ob__TTQW73gfWVtJ)
+1. [지니어스 뚜기 (G-Hopper) - 새벽 3시 편의점 [가사/Lyrics]](https://youtu.be/NFxFZoKkM8s?si=4MqXijBCtNXo86rW)
+1. [なとり - Overdose](https://youtu.be/H08YWE4CIFQ?si=ifWSneBHkMGnUjGs)
+1. []()
+1. []()
 1. []()
 1. []()
 
@@ -442,4 +448,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [RJ Pasin - life force](https://youtu.be/FmrKm7q-V6c?si=u74hDrEtbVjnkscV)
 1. [Interstellar Official Soundtrack | Cornfield Chase – Hans Zimmer | WaterTower](https://youtu.be/JuSsvM8B4Jc?si=-ze1ywePQ0Pge2dK)
 1. [RJ Pasin - Rough Days](https://youtu.be/3Xhj5q5YtBA?si=gUAm6R3MK-029L3y)
+1. [you broke my heart (instrumental)](https://youtu.be/wygm7oiFBrI?si=UjZwEsoRAW1ajfVd)
+1. [ptasinski - abraham](https://youtu.be/i7uz-xOvpcQ?si=KpaSa0e-qMin_cy4)
+1. [RJ Songs playlist](https://youtube.com/playlist?list=PLYlo4WptII4DHSkDeSYp85dhN0R4d97HA&si=JRHESD5lxsV2cpm9)
 1. []()
