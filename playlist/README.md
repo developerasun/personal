@@ -79,7 +79,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 
 #### Other shit
 
-1. [저질러버렸다 “하입보이” AI임재범](https://youtube.com/shorts/IGbbP-hiWQk?si=nq8GzMz-vVQOsS5i)
 1. [요즘 싱잉 원탑이라 불리는 폴 블랑코](https://youtube.com/shorts/kPBxOYLziSo?si=isl6i-xLGChlk2o3)
 1. [이제 알게 돼서 억울한 노래 🌠 Yuuri(유우리)- BETELGEUSE(베텔기우스)](https://youtube.com/shorts/p7-jodcXHbo?feature=share)
 1. [주술회전 2기 OP Tatsuya Kitani - Where Our Blue Is](https://youtube.com/shorts/qR_k6FjENxU?si=D3Wu5AUb4TVUuFZ1)
@@ -119,7 +118,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Avicii - The Nights [가사/해석/lyrics]](https://youtu.be/yG57Xggm92A?si=xaxSM4Zx0WUvCQeH)
 1. [Coldplay X BTS - My Universe (Official Lyric Video)](https://youtu.be/bZYPI4mYwhw?si=GY0hFB0x63sP78Wz)
 1. [Charlie Puth - Charlie Be Quiet!](https://youtu.be/WM47vsnE_gc?si=aC2iw4U28GDpXrq-)
-1. [Pink Sweat$ - Nothing Feels Better [Official Audio]](https://youtu.be/iZgAp5zVxPA?si=rRW-fICLmbQ_I2nV)
 1. [AJR - I'm Not Famous (Official Video)](https://youtu.be/VkXYjy6sZ2A?si=Lm5EtJ51gR6ZISip)
 1. [AJR - The DJ Is Crying For Help](https://youtu.be/uxhs3J_OBGg?si=QAw09Ajbw6rT5Jzl)
 1. [Glass Animals - The Other Side Of Paradise](https://youtu.be/RMPX_vgqQnM?si=ObtkL3zQks3cAZqd)
@@ -182,7 +180,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Maroon5 - Lucky Strike](https://youtu.be/GazL49c9G2w?si=OkQMsUR8gfIF-SgR)
 1. [Shawn Mendes - If I Can't Have You (Official Lyric Video)](https://youtu.be/MVITXvCuqeU?si=w16-_LN_MMUw7S2W)
 1. [no one here knows goner just hit 2.5 million streams 🙌 #popmusic #songwriter #pop #singing #piano](https://youtube.com/shorts/McP2op1cRYU?si=jS5g-uUEF83D_C8C)
-1. [랩퍼 스눕독이 만든 비공식 졸업가 #힙합 #랩 #래퍼](https://youtube.com/shorts/zkXdEidIckE?si=rm52i9Dv9ekY_eoB)
 1. [🌌순식간에 빌보드 2위 찍은 그 노래🌌: Tommy Richman - MILLION DOLLAR BABY (2024) [가사해석/번역/자막]](https://youtu.be/22KYynlWHg0?si=kUu9Dy2FJEGRUGIY)
 1. [요네즈 켄시 - IRIS OUT [가사/발음/해석]](https://youtu.be/AuD5WTCFVg8?si=AciDhExrqQkYRmIG)
 1. [절망 속에서 만든 곡이 전설이 될 줄은 | Eurythmics - Sweet Dreams (Are Made of This) (1983)](https://youtube.com/shorts/AzA2lWus0M0?si=IhRyBT6sG2EXGb-n)
@@ -202,6 +199,10 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [💫전 세계를 휩쓸었던 레전드 애니 근본 OST : Eve - 廻廻奇譚 (회회기담) [가사 해석/lyrics] [4K]](https://youtu.be/oP9674UkcUQ?si=YoQu8NcNLyi_2FRR)
 1. [카나분 - 실루엣(シルエット) [가사/발음/해석]](https://youtu.be/4DxqW1ANSZg?si=2y0KHBWZdLEjRz01)
 1. [Lynyrd Skynyrd - Sweet Home Alabama (Lyric Video)](https://youtu.be/-p8GXZcdrIk?si=jAFSr8iSVe9E3kQw)
+1. [Liam Payne, A Boogie wit da Hoodie - Stack It Up (Lyrics)](https://youtu.be/t2HeG6jY6_8?si=46onMmvbphO2hDrC)
+1. [Eurythmics - Sweet Dreams (Lyrics)](https://youtu.be/bG9z-atG7gc?si=bUTZMeMEgMIHCApK)
+1. []()
+1. []()
 1. []()
 
 #### K-Pop
@@ -274,7 +275,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Roy Jones Jr. - Can't be touched](https://youtu.be/VL_ab_ZGJPY?si=PTmNUWutBOOw4XMv)
 1. [PASSO BEM SOLTO (Slowed)](https://youtu.be/NT4eF9YsYnM?si=4Ew30MlblNY5q9-3)
 1. [MONTAGEM XONADA (Super Slowed + Reverb) [BRAZILIAN PHONK]](https://youtu.be/CvYteZhchRk?si=AE0vMOOtmJWcsZJd)
-1. []()
+1. [Adele - Skyfall (Official Lyric Video)](https://youtu.be/DeumyOzKqgI?si=GQM9HA6bP-zSEM2P)
 1. []()
 1. []()
 
@@ -291,7 +292,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [The Score - Fighting For (Official Lyric Video)](https://youtu.be/uf1M263w_fQ?si=wmox3bl1lF6ysVeE)
 1. [Fundamentum(전쟁의 神)- Lesiem ［가사 자막 ］](https://youtu.be/b0upFYdAWNM?si=lSMNK2vWWFjdXgnX)
 1. [#1 말이 필요없는 웅장한 브금,음악 Best Epic Bgm,Music 2017](https://youtu.be/0uM-AMTv_uI?si=PWXZW93wKTpbmLBD)
-1. []()
+1. [Dave Rodgers - Deja Vu (Initial D) [가사/해석]](https://youtu.be/MeWjid_nMCU?si=YvjK77lVbdv5IIA8)
 1. []()
 
 #### Dreamlike
@@ -344,7 +345,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Toothless Dancing Meme [NEW VARIATIONS]](https://youtu.be/9MCiixIkzUk?si=nFJOe7Yuer3eNAo4)
 1. [문어숙회 될 뻔한 썰 푼다 ㅋㅋㅋㅋㅋㅋㅋㅋ](https://youtube.com/shorts/-TGtJyaCMjY?si=cPUrccFLUizAUShS)
 1. [[북미더머니13] 1화 / 김정은 @래퍼 선발전](https://youtu.be/uxx9n29q5uc?si=9yXOJx30xv_vvnZG)
-1. []()
+1. [I asked Fable 5 to make me a lyric video](https://youtu.be/gFx-NjTw3sM?si=1_sHAz6uWWZo8q6E)
 1. []()
 1. []()
 1. []()
@@ -420,7 +421,8 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [WOODZ (우즈) - Drowning](https://youtu.be/v39uoOIoOhI?si=Ob__TTQW73gfWVtJ)
 1. [지니어스 뚜기 (G-Hopper) - 새벽 3시 편의점 [가사/Lyrics]](https://youtu.be/NFxFZoKkM8s?si=4MqXijBCtNXo86rW)
 1. [なとり - Overdose](https://youtu.be/H08YWE4CIFQ?si=ifWSneBHkMGnUjGs)
-1. []()
+1. [Pink Sweat$ - Nothing Feels Better [Official Audio]](https://youtu.be/iZgAp5zVxPA?si=rRW-fICLmbQ_I2nV)
+1. [𝒑𝒍𝒂𝒚𝒍𝒊𝒔𝒕 벌써 어른이야, 내가 잘 할 수 있을까?🙏 | 위로가 되는 팝송 플리](https://youtu.be/B37k7GCN4V0?si=wCdt3F7ZM0swhnrO)
 1. []()
 1. []()
 1. []()
