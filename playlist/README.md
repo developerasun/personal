@@ -201,7 +201,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [Lynyrd Skynyrd - Sweet Home Alabama (Lyric Video)](https://youtu.be/-p8GXZcdrIk?si=jAFSr8iSVe9E3kQw)
 1. [Liam Payne, A Boogie wit da Hoodie - Stack It Up (Lyrics)](https://youtu.be/t2HeG6jY6_8?si=46onMmvbphO2hDrC)
 1. [Eurythmics - Sweet Dreams (Lyrics)](https://youtu.be/bG9z-atG7gc?si=bUTZMeMEgMIHCApK)
-1. []()
+1. [Imagine Dragons - Shots](https://youtu.be/qQrgto184Tk?si=ljkpyBSb0igmZ2ju)
 1. []()
 1. []()
 
@@ -250,7 +250,7 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [컬리밴드 (CurlyBand) - 사랑해 | 가사/Lyrics](https://youtu.be/cT5Gb6ZX5cI?si=hCIDfHvk2qFHkObL)
 1. [1.5x의 속도로 달려줘 (Official Audio)](https://youtu.be/-Pjm4Mq7pw4?si=dq7bRlJ_-R60DxWg)
 1. [twice - takedown](https://youtu.be/Gd3wDO0xJ58?si=SkyhMIcimVD7vURX)
-1. []()
+1. [DAY6 (데이식스) - Love me or Leave me [가사/Lyrics]](https://youtu.be/gQiymEZWV_U?si=KkZ9mg6UnnbPsmh8)
 1. []()
 1. []()
 
@@ -440,7 +440,6 @@ A collection of songs for developers coding up all night. Fully open sourced, PR
 1. [2 July 2024](https://youtube.com/shorts/TYDYwWgbPVY?si=X0mYfWmXKEidNWLe)
 1. [JVKE - golden hour (minLee Remix)](https://youtu.be/togcVWa-90I?si=VpiE4CAyRNmd6XP-)
 1. [트릭컬 리바이브 테마극장 댄스 쇼다운! 꿈꾸는 포도! 신규 BGM 모음](https://youtu.be/wWdfaZGA4WA?si=XolOf5NV52hyQDnA)
-1. [Shadow Beats - Lunatic Souls](https://youtu.be/k2oz20FDVHE?si=SIoASk-DnQtXgK4N)
 1. [The Amazing Digital Circus (Original Pilot Soundtrack) - Your New Home](https://youtu.be/4gZdE5dimMg?si=6ran7MAXoWhk-7ML)
 1. [The Amazing Digital Circus - Main Theme but its by HANS ZIMMER | EPIC VERSION (Your New Home)](https://youtu.be/4gZdE5dimMg?si=UufKzg8SvHH_wgK0)
 1. [S. T. A.Y- Hans zimmer](https://youtube.com/shorts/XOX4AfqdY5s?si=tVjii1yBQcOwH4pc)
